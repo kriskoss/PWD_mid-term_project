@@ -122,8 +122,8 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,country_nam
 3183,HECA,large_airport,"Cairo International Airport",30.111534,31.396694,322,AF,Egypt,EG,"Cairo Governorate",EG-C,C,Cairo,1,HECA,CAI,,,https://en.wikipedia.org/wiki/Cairo_International_Airport,,51675,2022-11-04T15:57:49+00:00
 2461,EGPF,large_airport,"Glasgow International Airport",55.871899,-4.43306,26,EU,"United Kingdom",GB,Scotland,GB-SCT,SCT,"Paisley, Renfrewshire",1,EGPF,GLA,,http://www.glasgowairport.com/,https://en.wikipedia.org/wiki/Glasgow_International_Airport,"Port-adhair Eadar-nàiseanta Ghlaschu, RAF Abbotsinch, RAF Ayr",51275,2021-11-02T17:36:30+00:00
 2209,DE-0440,closed,"Berlin-Schönefeld Airport",52.380001,13.5225,157,EU,Germany,DE,Brandenburg,DE-BR,BR,Berlin,0,,,,,https://en.wikipedia.org/wiki/Berlin-Sch%C3%B6nefeld_International_Airport,"BER, EDDB, ETBS, Schoenefeld, Terminal 5",1275,2023-02-27T13:15:47+00:00
-5455,PHOG,medium_airport,"Kahului International Airport",20.898543,-156.431212,54,NA,"United States",US,Hawaii,US-HI,HI,Kahului,1,PHOG,OGG,OGG,,https://en.wikipedia.org/wiki/Kahului_Airport,,750,2023-05-11T14:56:19+00:00
 2216,EDDK,large_airport,"Cologne Bonn Airport",50.865898,7.14274,302,EU,Germany,DE,"North Rhine-Westphalia",DE-NW,NW,"Köln (Cologne)",1,EDDK,CGN,,http://www.koeln-bonn-airport.de/en/,https://en.wikipedia.org/wiki/Cologne_Bonn_Airport,Köln,51475,2022-09-20T11:34:26+00:00
+5455,PHOG,medium_airport,"Kahului International Airport",20.898543,-156.431212,54,NA,"United States",US,Hawaii,US-HI,HI,Kahului,1,PHOG,OGG,OGG,,https://en.wikipedia.org/wiki/Kahului_Airport,,750,2023-05-11T14:56:19+00:00
 5781,SAEZ,large_airport,"Minister Pistarini International Airport",-34.8222,-58.5358,67,SA,Argentina,AR,"Buenos Aires Province",AR-B,B,"Buenos Aires (Ezeiza)",1,SAEZ,EZE,EZE,http://www.aa2000.com.ar/index.php,https://en.wikipedia.org/wiki/Ministro_Pistarini_International_Airport,"BUE, Ezeiza",1275,2022-10-27T15:05:29+00:00
 4345,LIML,medium_airport,"Milano Linate Airport",45.445099,9.27674,353,EU,Italy,IT,Lombardy,IT-25,25,Milan,1,LIML,LIN,MI11,http://www.sea-aeroportimilano.it/en/,https://en.wikipedia.org/wiki/Linate_Airport,"E Forlanini",750,2021-08-01T05:40:42+00:00
 26434,VABB,large_airport,"Chhatrapati Shivaji International Airport",19.0886993408,72.8678970337,39,AS,India,IN,Maharashtra,IN-MM,MM,Mumbai,1,VABB,BOM,,http://www.csia.in/,https://en.wikipedia.org/wiki/Chhatrapati_Shivaji_International_Airport,"Bombay, Sahar International Airport",1014475,2013-04-12T01:27:48+00:00
@@ -149,10 +149,10 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,country_nam
 4427,LMML,large_airport,"Malta International Airport",35.857498,14.4775,300,EU,Malta,MT,Luqa,MT-25,25,Valletta,1,LMML,MLA,,http://www.maltairport.com/en/home.htm,https://en.wikipedia.org/wiki/Malta_International_Airport,"Luqa Airport,Valletta,Gudja,RAF Luqa",1275,2022-03-11T20:49:02+00:00
 5906,SBGL,large_airport,"Rio Galeão – Tom Jobim International Airport",-22.809999,-43.250557,28,SA,Brazil,BR,"Rio de Janeiro",BR-RJ,RJ,"Rio De Janeiro",1,SBGL,GIG,RJ0001,,https://en.wikipedia.org/wiki/Rio_de_Janeiro-Gale%C3%A3o_International_Airport,"Galeão - Antônio Carlos Jobim International Airport",51475,2021-10-14T18:09:35+00:00
 3755,KORF,medium_airport,"Norfolk International Airport",36.8946,-76.201202,26,NA,"United States",US,Virginia,US-VA,VA,Norfolk,1,KORF,ORF,ORF,,https://en.wikipedia.org/wiki/Norfolk_International_Airport,,750,2021-11-21T15:01:46+00:00
-1717,CYEG,large_airport,"Edmonton International Airport",53.3097,-113.580002,2373,NA,Canada,CA,Alberta,CA-AB,AB,Edmonton,1,CYEG,YEG,CYEG,http://www.edmontonairports.com/,https://en.wikipedia.org/wiki/Edmonton_International_Airport,,1475,2023-02-26T00:11:13+00:00
-2430,EGLC,medium_airport,"London City Airport",51.505299,0.055278,19,EU,"United Kingdom",GB,England,GB-ENG,ENG,London,1,EGLC,LCY,,http://www.londoncityairport.com/,https://en.wikipedia.org/wiki/London_City_Airport,LON,750,2022-09-08T19:54:17+00:00
 2222,EDDS,large_airport,"Stuttgart Airport",48.689899444599995,9.22196006775,1276,EU,Germany,DE,Baden-Württemberg,DE-BW,BW,Stuttgart,1,EDDS,STR,,http://www.flughafen-stuttgart.de/,https://en.wikipedia.org/wiki/Stuttgart_Airport,,51275,2015-01-05T11:24:44+00:00
+1717,CYEG,large_airport,"Edmonton International Airport",53.3097,-113.580002,2373,NA,Canada,CA,Alberta,CA-AB,AB,Edmonton,1,CYEG,YEG,CYEG,http://www.edmontonairports.com/,https://en.wikipedia.org/wiki/Edmonton_International_Airport,,1475,2023-02-26T00:11:13+00:00
 44686,OTHH,large_airport,"Hamad International Airport",25.273056,51.608056,13,AS,Qatar,QA,"Ad-Dawhah Municipality",QA-DA,DA,Doha,1,OTHH,DOH,,http://dohahamadairport.com/,https://en.wikipedia.org/wiki/Hamad_International_Airport,"New Doha International Airport",1000,2020-01-31T15:38:38+00:00
+2430,EGLC,medium_airport,"London City Airport",51.505299,0.055278,19,EU,"United Kingdom",GB,England,GB-ENG,ENG,London,1,EGLC,LCY,,http://www.londoncityairport.com/,https://en.wikipedia.org/wiki/London_City_Airport,LON,750,2022-09-08T19:54:17+00:00
 3644,KLGB,medium_airport,"Long Beach Airport (Daugherty Field)",33.816523,-118.149891,60,NA,"United States",US,California,US-CA,CA,"Long Beach",1,KLGB,LGB,LGB,http://www.lgb.org/,https://en.wikipedia.org/wiki/Long_Beach_Airport,"Daugherty Field",750,2022-10-18T11:17:08+00:00
 2389,EGBB,large_airport,"Birmingham International Airport",52.453899383499994,-1.74802994728,327,EU,"United Kingdom",GB,England,GB-ENG,ENG,Birmingham,1,EGBB,BHX,,http://www.bhx.co.uk/,https://en.wikipedia.org/wiki/Birmingham_International_Airport_(United_Kingdom),,50850,2013-04-07T05:13:22+00:00
 6015,SCEL,large_airport,"Comodoro Arturo Merino Benítez International Airport",-33.393001556396484,-70.78579711914062,1555,SA,Chile,CL,"Santiago Metropolitan Region",CL-RM,RM,Santiago,1,SCEL,SCL,,http://www.aeropuertosantiago.cl/ingles/index.php,https://en.wikipedia.org/wiki/Comodoro_Arturo_Merino_Ben%C3%ADtez_International_Airport,,51150,2009-01-31T17:19:23+00:00
@@ -339,10 +339,10 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,country_nam
 20589,KMYF,small_airport,"Montgomery-Gibbs Executive Airport",32.8157,-117.139999,427,NA,"United States",US,California,US-CA,CA,"San Diego",0,KMYF,MYF,MYF,http://www.sandiego.gov/airports/montgomery/index.shtml,https://en.wikipedia.org/wiki/Montgomery_Field,"Montgomery Field",50,2017-12-09T05:04:32+00:00
 2541,EKBI,large_airport,"Billund Airport",55.7402992249,9.15178012848,247,EU,Denmark,DK,"South Denmark",DK-83,83,Billund,1,EKBI,BLL,,http://www.billund-airport.dk/?sc_lang=en,https://en.wikipedia.org/wiki/Billund_Airport,,1275,2011-07-23T10:40:06+00:00
 3186,HEGN,large_airport,"Hurghada International Airport",27.176776,33.796692,32,AF,Egypt,EG,"Red Sea Governorate",EG-BA,BA,Hurghada,1,HEGN,HRG,,,https://en.wikipedia.org/wiki/Hurghada_International_Airport,"Al Ghardaqah, الغردقة",1150,2022-12-13T16:48:12+00:00
+3082,GCRR,large_airport,"César Manrique-Lanzarote Airport",28.945499,-13.6052,46,AF,Spain,ES,"Canary Islands",ES-CN,CN,"San Bartolomé",1,GCRR,ACE,,https://www.aena.es/en/cesar-manrique-lanzarote.html,https://en.wikipedia.org/wiki/Lanzarote_Airport,"Arrecife Airport",1050,2022-11-01T17:26:41+00:00
 3869,KSBP,medium_airport,"San Luis County Regional Airport",35.236801147499996,-120.641998291,212,NA,"United States",US,California,US-CA,CA,"San Luis Obispo",1,KSBP,SBP,SBP,http://www.sloairport.com/,https://en.wikipedia.org/wiki/San_Luis_Obispo_County_Regional_Airport,"SLO Airport",750,2014-06-11T07:23:42+00:00
 21055,KSEZ,small_airport,"Sedona Airport",34.848598480225,-111.78800201416,4830,NA,"United States",US,Arizona,US-AZ,AZ,Sedona,0,KSEZ,SDX,SEZ,http://sedonaairport.org/,https://en.wikipedia.org/wiki/Sedona_Airport,,50,2015-05-22T12:40:09+00:00
 26636,VRMM,large_airport,"Malé International Airport",4.191830158233643,73.52909851074219,6,AS,Maldives,MV,"Malé (capital city)",MV-MLE,MLE,Malé,1,VRMM,MLE,,http://www.airports.com.mv/,https://en.wikipedia.org/wiki/Mal%C3%A9_International_Airport,,1050,2009-08-23T13:38:00+00:00
-3082,GCRR,large_airport,"César Manrique-Lanzarote Airport",28.945499,-13.6052,46,AF,Spain,ES,"Canary Islands",ES-CN,CN,"San Bartolomé",1,GCRR,ACE,,https://www.aena.es/en/cesar-manrique-lanzarote.html,https://en.wikipedia.org/wiki/Lanzarote_Airport,"Arrecife Airport",1050,2022-11-01T17:26:41+00:00
 3416,KBLI,medium_airport,"Bellingham International Airport",48.79280090332031,-122.53800201416016,170,NA,"United States",US,Washington,US-WA,WA,Bellingham,1,KBLI,BLI,BLI,,https://en.wikipedia.org/wiki/Bellingham_International_Airport,,750,2008-06-13T14:30:04+00:00
 3408,KBIL,medium_airport,"Billings Logan International Airport",45.807701,-108.542999,3652,NA,"United States",US,Montana,US-MT,MT,Billings,1,KBIL,BIL,BIL,,https://en.wikipedia.org/wiki/Billings_Logan_International_Airport,,750,2021-11-20T15:29:45+00:00
 4959,NFFN,medium_airport,"Nadi International Airport",-17.755399703979492,177.4429931640625,59,OC,Fiji,FJ,"Western Division",FJ-W,W,Nadi,1,NFFN,NAN,,,https://en.wikipedia.org/wiki/Nadi_International_Airport,,750,2008-12-19T20:09:58+00:00
@@ -778,6 +778,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,country_nam
 26875,WMKL,medium_airport,"Langkawi International Airport",6.329730033874512,99.72869873046875,29,AS,Malaysia,MY,Kedah,MY-02,02,Langkawi,1,WMKL,LGK,,,https://en.wikipedia.org/wiki/Langkawi_International_Airport,,750,2008-08-17T17:08:57+00:00
 3651,KLRD,medium_airport,"Laredo International Airport",27.543800354003906,-99.46160125732422,508,NA,"United States",US,Texas,US-TX,TX,Laredo,1,KLRD,LRD,LRD,,https://en.wikipedia.org/wiki/Laredo_International_Airport,,750,2008-06-13T14:30:04+00:00
 3639,KLEB,medium_airport,"Lebanon Municipal Airport",43.626098632799994,-72.30419921880001,603,NA,"United States",US,"New Hampshire",US-NH,NH,Lebanon,1,KLEB,LEB,LEB,http://flyleb.com/,https://en.wikipedia.org/wiki/Lebanon_Municipal_Airport_(New_Hampshire),,750,2015-02-17T01:05:52+00:00
+2162,EBLG,medium_airport,"Liège Airport",50.637402,5.44322,659,EU,Belgium,BE,"Liège Province",BE-WLG,WLG,Liège,1,EBLG,LGG,,http://www.liegeairport.be/,https://en.wikipedia.org/wiki/Li%C3%A8ge_Airport,,750,2021-11-21T15:21:22+00:00
 2522,EHLE,medium_airport,"Lelystad Airport",52.4603,5.52722,-13,EU,Netherlands,NL,Flevoland,NL-FL,FL,Lelystad,1,EHLE,LEY,,https://www.lelystadairport.nl/,https://en.wikipedia.org/wiki/Lelystad_Airport,,500,2021-11-16T07:03:50+00:00
 3676,KMER,medium_airport,"Castle Airport",37.38050079,-120.5680008,191,NA,"United States",US,California,US-CA,CA,Merced,0,KMER,MER,MER,,https://en.wikipedia.org/wiki/Castle_Airport,,300,2015-10-12T18:58:39+00:00
 3837,KRAL,medium_airport,"Riverside Municipal Airport",33.9519,-117.445,819,NA,"United States",US,California,US-CA,CA,Riverside,0,KRAL,RAL,RAL,http://www.riversideca.gov/airport/,https://en.wikipedia.org/wiki/Riverside_Municipal_Airport,"Riverside Arlington",300,2021-04-09T16:55:12+00:00
@@ -799,7 +800,6 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,country_nam
 3587,KHOT,medium_airport,"Memorial Field Airport",34.4788,-93.096262,540,NA,"United States",US,Arkansas,US-AR,AR,"Hot Springs",1,KHOT,HOT,HOT,,https://en.wikipedia.org/wiki/Hot_Springs_Memorial_Field_Airport,,750,2022-02-11T15:49:14+00:00
 27063,YMLT,medium_airport,"Launceston Airport",-41.54529953,147.214004517,562,OC,Australia,AU,Tasmania,AU-TAS,TAS,Launceston,1,YMLT,LST,,http://www.launcestonairport.com.au/,https://en.wikipedia.org/wiki/Launceston_Airport,,750,2010-09-02T09:17:33+00:00
 1871,CYQL,medium_airport,"Lethbridge County Airport",49.6302986145,-112.800003052,3048,NA,Canada,CA,Alberta,CA-AB,AB,Lethbridge,1,CYQL,YQL,,,https://en.wikipedia.org/wiki/Lethbridge_County_Airport,"Kenyon Field",750,2011-08-25T17:42:43+00:00
-2162,EBLG,medium_airport,"Liège Airport",50.637402,5.44322,659,EU,Belgium,BE,"Liège Province",BE-WLG,WLG,Liège,1,EBLG,LGG,,http://www.liegeairport.be/,https://en.wikipedia.org/wiki/Li%C3%A8ge_Airport,,750,2021-11-21T15:21:22+00:00
 3555,KGGG,medium_airport,"East Texas Regional Airport",32.38399887084961,-94.71150207519531,365,NA,"United States",US,Texas,US-TX,TX,Longview,1,KGGG,GGG,GGG,,https://en.wikipedia.org/wiki/East_Texas_Regional_Airport,,750,2008-06-13T14:30:04+00:00
 3843,KRDM,medium_airport,"Roberts Field",44.2541008,-121.1500015,3080,NA,"United States",US,Oregon,US-OR,OR,Redmond,1,KRDM,RDM,RDM,,https://en.wikipedia.org/wiki/Roberts_Field,,750,2010-01-23T11:28:05+00:00
 3909,KSUX,medium_airport,"Sioux Gateway Airport / Brigadier General Bud Day Field",42.397605,-96.382237,1098,NA,"United States",US,Iowa,US-IA,IA,"Sioux City",1,KSUX,SUX,SUX,https://www.sioux-city.org/government/departments-a-f/airport,https://en.wikipedia.org/wiki/Sioux_Gateway_Airport,"Col. Bud Day, Sioux City AB, Sioux City AAB",750,2021-11-20T15:52:32+00:00
@@ -907,6 +907,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,country_nam
 20777,KOWD,medium_airport,"Norwood Memorial Airport",42.1904983521,-71.1728973389,49,NA,"United States",US,Massachusetts,US-MA,MA,Norwood,0,KOWD,OWD,OWD,http://www.ci.norwood.ma.us/Airport/Default.htm,https://en.wikipedia.org/wiki/Norwood_Memorial_Airport,,250,2014-07-24T19:12:22+00:00
 1876,CYQS,medium_airport,"St Thomas Municipal Airport",42.77000045776367,-81.11080169677734,778,NA,Canada,CA,Ontario,CA-ON,ON,"St Thomas",0,CYQS,YQS,,,https://en.wikipedia.org/wiki/St._Thomas_Airport,,250,2008-06-13T14:30:04+00:00
 21325,KVIS,medium_airport,"Visalia Municipal Airport",36.318699,-119.392998,295,NA,"United States",US,California,US-CA,CA,Visalia,0,KVIS,VIS,VIS,,https://en.wikipedia.org/wiki/Visalia_Municipal_Airport,,250,2022-10-13T17:08:32+00:00
+16500,KBID,small_airport,"Block Island State Airport",41.1680984497,-71.577796936,108,NA,"United States",US,"Rhode Island",US-RI,RI,"Block Island",1,KBID,BID,BID,http://www.blockislandri.net/blockislandairport.htm,https://en.wikipedia.org/wiki/Block_Island_State_Airport,,100,2012-07-04T02:23:55+00:00
 19385,KBKV,small_airport,"Hernando County Airport",28.47360039,-82.45539856,76,NA,"United States",US,Florida,US-FL,FL,Brooksville,0,KBKV,,BKV,,https://en.wikipedia.org/wiki/Hernando_County_Airport,,50,2010-01-23T11:28:48+00:00
 21198,KTKI,small_airport,"McKinney National Airport",33.177898,-96.5905,585,NA,"United States",US,Texas,US-TX,TX,Dallas,0,KTKI,,TKI,https://www.flytki.com/,https://en.wikipedia.org/wiki/McKinney_National_Airport,"Collin County Regional Airport at McKinney",50,2021-02-20T21:30:27+00:00
 19660,KDTO,small_airport,"Denton Municipal Airport",33.2006988525,-97.19799804690001,642,NA,"United States",US,Texas,US-TX,TX,Denton,0,KDTO,,DTO,http://www.cityofdenton.com/index.aspx?page=451,,,50,2010-08-09T10:29:55+00:00
@@ -943,7 +944,6 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,country_nam
 1903,CYSH,medium_airport,"Smiths Falls-Montague (Russ Beach) Airport",44.945801,-75.940598,416,NA,Canada,CA,Ontario,CA-ON,ON,"Smiths Falls",0,CYSH,YSH,,http://www.smithsfallsflyingclub.com/,https://en.wikipedia.org/wiki/Smiths_Falls-Montague_Airport,"Smith Falls",250,2022-01-09T13:33:09+00:00
 19760,KENV,medium_airport,"Wendover Airport",40.7187004089,-114.03099823,4237,NA,"United States",US,Utah,US-UT,UT,Wendover,0,KENV,ENV,ENV,,https://en.wikipedia.org/wiki/Wendover_Airport,"Wendover AFB",250,2014-09-12T20:07:40+00:00
 20180,KINW,medium_airport,"Winslow Lindbergh Regional Airport",35.021900177,-110.722999573,4941,NA,"United States",US,Arizona,US-AZ,AZ,Winslow,0,KINW,INW,INW,,https://en.wikipedia.org/wiki/Winslow-Lindbergh_Regional_Airport,,250,2014-05-24T22:28:16+00:00
-16500,KBID,small_airport,"Block Island State Airport",41.1680984497,-71.577796936,108,NA,"United States",US,"Rhode Island",US-RI,RI,"Block Island",1,KBID,BID,BID,http://www.blockislandri.net/blockislandairport.htm,https://en.wikipedia.org/wiki/Block_Island_State_Airport,,100,2012-07-04T02:23:55+00:00
 19302,KARB,small_airport,"Ann Arbor Municipal Airport",42.2229995728,-83.74559783939999,839,NA,"United States",US,Michigan,US-MI,MI,"Ann Arbor",0,KARB,ARB,ARB,,https://en.wikipedia.org/wiki/Ann_Arbor_Municipal_Airport,,50,2012-06-17T18:51:08+00:00
 19296,KAPV,small_airport,"Apple Valley Airport",34.575298309299995,-117.185997009,3062,NA,"United States",US,California,US-CA,CA,"Apple Valley",0,KAPV,APV,APV,,https://en.wikipedia.org/wiki/Apple_Valley_Airport_(California),,50,2012-06-17T18:36:46+00:00
 19676,KDXR,small_airport,"Danbury Municipal Airport",41.371498107899995,-73.48220062259999,458,NA,"United States",US,Connecticut,US-CT,CT,Danbury,0,KDXR,DXR,DXR,,https://en.wikipedia.org/wiki/Danbury_Municipal_Airport,,50,2012-07-05T01:36:14+00:00
@@ -2112,6 +2112,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,country_nam
 19333,KAWM,small_airport,"West Memphis Municipal Airport",35.1351013184,-90.2343978882,212,NA,"United States",US,Arkansas,US-AR,AR,"West Memphis",0,KAWM,AWM,AWM,,https://en.wikipedia.org/wiki/West_Memphis_Municipal_Airport,,50,2012-06-19T01:02:07+00:00
 21154,KCWC,small_airport,"Kickapoo Downtown Airport",33.85779953,-98.49040222,1003,NA,"United States",US,Texas,US-TX,TX,"Wichita Falls",0,KCWC,KIP,CWC,http://www.wichitafallstx.gov/index.aspx?nid=704,https://en.wikipedia.org/wiki/Kickapoo_Downtown_Airport,"KT47, T47, JKP",50,2012-03-25T18:11:48+00:00
 20361,KLNN,small_airport,"Lake County Executive Airport",41.683998,-81.389702,626,NA,"United States",US,Ohio,US-OH,OH,Willoughby,0,KLNN,LNN,LNN,,https://en.wikipedia.org/wiki/Willoughby_Lost_Nation_Municipal_Airport,"Willoughby Lost Nation Municipal",50,2020-06-09T16:21:40+00:00
+330820,ZBAD,large_airport,"Beijing Daxing International Airport",39.509945,116.41092,98,AS,China,CN,"Beijing Municipality",CN-11,11,Beijing,1,ZBAD,PKX,,,https://en.wikipedia.org/wiki/Beijing_Daxing_International_Airport,,1000,2021-09-30T17:42:52+00:00
 6198,SOCA,large_airport,"Cayenne – Félix Eboué Airport",4.819964,-52.361326,26,SA,"French Guiana",GF,Cayenne,GF-CY,CY,Matoury,1,SOCA,CAY,,,https://en.wikipedia.org/wiki/Cayenne_%E2%80%93_F%C3%A9lix_Ebou%C3%A9_Airport,"Cayenne-Rochambeau, Matoury",1000,2022-08-07T17:37:22+00:00
 27220,ZSNB,large_airport,"Ningbo Lishe International Airport",29.82670021057129,121.46199798583984,13,AS,China,CN,"Zhejiang Province",CN-33,33,Ningbo,1,ZSNB,NGB,,,https://en.wikipedia.org/wiki/Ningbo_Lishe_International_Airport,,1000,2009-04-16T22:12:27+00:00
 3178,HEAX,closed,"El Nuzha Airport",31.181681,29.94629,-6,AF,Egypt,EG,"Alexandria Governorate",EG-ALX,ALX,Alexandria,0,,,,,https://en.wikipedia.org/wiki/El_Nouzha_Airport,"Alexandria International Airport, HEAX, ALY",875,2022-02-13T11:31:54+00:00
@@ -2278,7 +2279,6 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,country_nam
 5697,RPMD,large_airport,"Francisco Bangoy International Airport",7.12552,125.646004,96,AS,Philippines,PH,"Davao del Sur Province",PH-DAS,DAS,Davao,1,RPMD,DVO,,,https://en.wikipedia.org/wiki/Francisco_Bangoy_International_Airport,"Davao International Airport",1275,2020-12-31T12:15:53+00:00
 5183,OIMM,large_airport,"Mashhad International Airport",36.235198974609375,59.64099884033203,3263,AS,Iran,IR,"Razavi Khorasan Province",IR-09,09,Mashhad,1,OIMM,MHD,,,https://en.wikipedia.org/wiki/Mashhad_International_Airport,"Shahid Hashemi Nejad Airport",1200,2009-03-25T08:12:12+00:00
 26412,UWWW,large_airport,"Kurumoch International Airport",53.504901885986,50.16429901123,477,EU,Russia,RU,"Samara Oblast",RU-SAM,SAM,Samara,1,UWWW,KUF,,http://airport.samara.ru/en/,https://en.wikipedia.org/wiki/Kurumoch_International_Airport,,1150,2015-07-26T09:10:48+00:00
-330820,ZBAD,large_airport,"Beijing Daxing International Airport",39.509945,116.41092,98,AS,China,CN,"Beijing Municipality",CN-11,11,Beijing,1,ZBAD,PKX,,,https://en.wikipedia.org/wiki/Beijing_Daxing_International_Airport,,1000,2021-09-30T17:42:52+00:00
 26404,UWKD,large_airport,"Kazan International Airport",55.606201171875,49.278701782227,411,EU,Russia,RU,"Republic of Tatarstan",RU-TA,TA,Kazan,1,UWKD,KZN,,http://www.kazan.aero/en/,https://en.wikipedia.org/wiki/Kazan_International_Airport,,1000,2015-09-22T07:29:47+00:00
 27204,ZLLL,large_airport,"Lanzhou Zhongchuan International Airport",36.515202,103.620003,6388,AS,China,CN,"Gansu Province",CN-62,62,"Lanzhou (Yongdeng)",1,ZLLL,LHW,,http://lzzcairport.com/Home/Index,https://en.wikipedia.org/wiki/Lanzhou_Airport,"ZGC, Datong Air Base, 兰州中川国际机场",1000,2022-08-03T11:15:21+00:00
 5655,RKSO,medium_airport,"Osan Air Base",37.090599,127.029999,38,AS,"South Korea",KR,Gyeonggido,KR-41,41,,0,RKSO,OSN,,,https://en.wikipedia.org/wiki/Osan_Air_Base,,750,2021-11-21T15:42:50+00:00
@@ -3635,6 +3635,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,country_nam
 1838,CYOP,medium_airport,"Rainbow Lake Airport",58.49140167236328,-119.40799713134766,1759,NA,Canada,CA,Alberta,CA-AB,AB,"Rainbow Lake",1,CYOP,YOP,,,https://en.wikipedia.org/wiki/Rainbow_Lake_Airport,,750,2008-06-13T14:30:04+00:00
 2739,ETNL,medium_airport,"Rostock-Laage Airport",53.9182014465,12.278300285299999,138,EU,Germany,DE,Mecklenburg-Vorpommern,DE-MV,MV,Rostock,1,ETNL,RLG,,,https://en.wikipedia.org/wiki/Rostock-Laage_Airport,,750,2010-09-01T13:18:57+00:00
 3226,HLLS,medium_airport,"Sabha Airport",26.992452,14.466162,1427,AF,Libya,LY,"Sabha District",LY-SB,SB,Sabha,1,HLLS,SEB,,,https://en.wikipedia.org/wiki/Sabha_Airport,Sebha,750,2022-09-14T10:26:58+00:00
+5244,OOSA,medium_airport,"Salalah Airport",17.038700103759766,54.09130096435547,73,AS,Oman,OM,"Dhofar Governorate",OM-ZU,ZU,Salalah,1,OOSA,SLL,,http://www.dgcam.gov.om/str/airsalah.htm,https://en.wikipedia.org/wiki/Salalah_Airport,"مطار صلالة",750,2009-02-05T15:13:29+00:00
 4033,LESA,medium_airport,"Salamanca Airport",40.952099,-5.50199,2595,EU,Spain,ES,"Castilla y León",ES-CL,CL,Salamanca,1,LESA,SLM,,https://www.aena.es/en/salamanca.html,https://en.wikipedia.org/wiki/Salamanca_Airport,,750,2021-10-07T11:29:23+00:00
 4447,LPFL,medium_airport,"Flores Airport",39.455299377441406,-31.131399154663086,112,EU,Portugal,PT,"Autonomous Region of Azores",PT-20,20,"Santa Cruz das Flores",1,LPFL,FLW,,,https://en.wikipedia.org/wiki/Flores_Airport,,750,2008-08-17T17:21:43+00:00
 5973,SBSN,medium_airport,"Santarém - Maestro Wilson Fonseca International Airport",-2.422423,-54.79306,198,SA,Brazil,BR,Pará,BR-PA,PA,Santarém,1,SBSN,STM,PA0002,https://www4.infraero.gov.br/aeroportos/aeroporto-de-santarem-maestro-wilson-fonseca/,https://en.wikipedia.org/wiki/Santar%C3%A9m-Maestro_Wilson_Fonseca_Airport,,750,2022-04-26T15:58:28+00:00
@@ -4119,7 +4120,6 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,country_nam
 27128,YROM,medium_airport,"Roma Airport",-26.545000076300003,148.774993896,1032,OC,Australia,AU,Queensland,AU-QLD,QLD,Roma,1,YROM,RMA,,,https://en.wikipedia.org/wiki/Roma_Airport,,750,2010-09-19T19:48:50+00:00
 29278,ENRM,medium_airport,"Rørvik Airport, Ryum",64.838302612305,11.14610004425,14,EU,Norway,NO,Trøndelag,NO-50,50,Rørvik,1,ENRM,RVK,,https://avinor.no/en/airport/rorvik-airport/,https://en.wikipedia.org/wiki/R%C3%B8rvik_Airport%2C_Ryum,,750,2015-08-21T18:22:32+00:00
 5643,RKPS,medium_airport,"Sacheon Airport / Sacheon Air Base",35.088591,128.071747,25,AS,"South Korea",KR,Gyeongsangnamdo,KR-48,48,Sacheon,1,RKPS,HIN,,,https://en.wikipedia.org/wiki/Sacheon_Airport,,750,2022-07-26T10:49:23+00:00
-5244,OOSA,medium_airport,"Salalah Airport",17.038700103759766,54.09130096435547,73,AS,Oman,OM,"Dhofar Governorate",OM-ZU,ZU,Salalah,1,OOSA,SLL,,http://www.dgcam.gov.om/str/airsalah.htm,https://en.wikipedia.org/wiki/Salalah_Airport,"مطار صلالة",750,2009-02-05T15:13:29+00:00
 4954,MYSM,medium_airport,"San Salvador Airport",24.063299,-74.524002,24,NA,Bahamas,BS,"San Salvador",BS-SS,SS,"San Salvador",1,MYSM,ZSA,,,https://en.wikipedia.org/wiki/San_Salvador_Airport,,750,2020-10-07T10:29:19+00:00
 1930,CYUX,medium_airport,"Hall Beach Airport",68.7761,-81.2425,30,NA,Canada,CA,Nunavut,CA-NU,NU,Sanirajak,1,CYUX,YUX,,,https://en.wikipedia.org/wiki/Hall_Beach_Airport,,750,2021-12-31T15:42:14+00:00
 4449,LPGR,medium_airport,"Graciosa Airport",39.092201232910156,-28.029800415039062,86,EU,Portugal,PT,"Autonomous Region of Azores",PT-20,20,"Santa Cruz da Graciosa",1,LPGR,GRW,,,https://en.wikipedia.org/wiki/Graciosa_Airport,,750,2008-08-17T17:27:29+00:00
@@ -4827,8 +4827,8 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,country_nam
 3196,HEPS,medium_airport,"Port Said International Airport",31.279285,32.240582,10,AF,Egypt,EG,"Port Said Governorate",EG-PTS,PTS,"Port Said",0,HEPS,PSD,,http://en.wikipedia.org/wiki/Port_Said_Airport,https://en.wikipedia.org/wiki/Port_Said_Airport,"El Gamil",275,2022-12-14T14:21:07+00:00
 5413,PASY,medium_airport,"Eareckson Air Station",52.71229935,174.1139984,95,NA,"United States",US,Alaska,US-AK,AK,Shemya,0,PASY,SYA,SYA,,https://en.wikipedia.org/wiki/Eareckson_Air_Station,,275,2010-01-27T12:02:37+00:00
 5039,NZMC,medium_airport,"Mount Cook Airport",-43.76499938964844,170.13299560546875,2153,OC,"New Zealand",NZ,"Canterbury Region",NZ-CAN,CAN,,0,NZMC,MON,,,,,250,2008-06-13T14:30:04+00:00
-5683,ROTM,medium_airport,"Futenma Marine Corps Air Station",26.27429962158203,127.75599670410156,247,AS,Japan,JP,"Okinawa Prefecture",JP-47,47,,0,ROTM,,,,,"Futenma MCAS",250,2008-08-08T10:22:28+00:00
 4498,LSMP,medium_airport,"Payerne Air Base",46.8432,6.91506004333,1465,EU,Switzerland,CH,"Canton of Fribourg",CH-FR,FR,,0,LSMP,,,,https://en.wikipedia.org/wiki/Payerne_Airport,,250,2015-11-03T14:10:41+00:00
+5683,ROTM,medium_airport,"Futenma Marine Corps Air Station",26.27429962158203,127.75599670410156,247,AS,Japan,JP,"Okinawa Prefecture",JP-47,47,,0,ROTM,,,,,"Futenma MCAS",250,2008-08-08T10:22:28+00:00
 6262,SVCB,medium_airport,"Aeropuerto ""General Tomas de Heres"". Ciudad Bolivar",8.12216091156,-63.5369567871,197,SA,Venezuela,VE,"Bolívar State",VE-F,F,,0,SVCB,CBL,,,,,250,2013-11-21T16:20:33+00:00
 26985,YFRT,medium_airport,"Forrest Airport",-30.83662,128.112811,511,OC,Australia,AU,"Western Australia",AU-WA,WA,,0,YFRT,FOS,,,https://en.wikipedia.org/wiki/Forrest_Airport,,250,2022-01-21T17:15:28+00:00
 26989,YGDH,medium_airport,"Gunnedah Airport",-30.957511,150.248981,863,OC,Australia,AU,"New South Wales",AU-NSW,NSW,,0,YGDH,GUH,,,https://en.wikipedia.org/wiki/Gunnedah_Airport,,250,2023-03-12T21:37:06+00:00
@@ -5014,8 +5014,8 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,country_nam
 29773,LKCE,small_airport,"Česká Lípa Airport",50.70940017700195,14.566699981689453,932,EU,"Czech Republic",CZ,"Liberec Region",CZ-LI,LI,"Česká Lípa",0,LKCE,,,,,,50,2009-02-11T18:58:04+00:00
 25226,U72,small_airport,"Upper Loon Creek US Forest Service Airport",44.591598510699995,-114.822998047,5500,NA,"United States",US,Idaho,US-ID,ID,Challis,0,U72,,U72,,,,50,2009-12-08T20:18:46+00:00
 20352,KLLJ,small_airport,"Challis Airport",44.522999,-114.218002,5072,NA,"United States",US,Idaho,US-ID,ID,Challis,0,KLLJ,CHL,LLJ,http://itd.idaho.gov/aero/Facility%20Directory/launchAirportData.asp?value=LLJ,https://en.wikipedia.org/wiki/Challis_Airport,U15,50,2017-08-04T01:05:42+00:00
-7581,0U3,small_airport,"Mahoney Creek US Forest Service Airport",44.744598,-114.920998,4618,NA,"United States",US,Idaho,US-ID,ID,Challis,0,,,0U3,,,,50,2021-03-30T12:14:12+00:00
 17844,ID67,small_airport,"Lower Loon Creek Airport",44.808437,-114.808824,4200,NA,"United States",US,Idaho,US-ID,ID,Challis,0,KC53,,C53,,,ID67,50,2022-12-15T14:53:52+00:00
+7581,0U3,small_airport,"Mahoney Creek US Forest Service Airport",44.744598,-114.920998,4618,NA,"United States",US,Idaho,US-ID,ID,Challis,0,,,0U3,,,,50,2021-03-30T12:14:12+00:00
 4134,LFLE,small_airport,"Aérodrome de Chambéry Challes-les-Eaux",45.5611,5.97576,973,EU,France,FR,Auvergne-Rhône-Alpes,FR-ARA,ARA,Chambéry/Challes-les-Eaux,0,LFLE,,,,https://en.wikipedia.org/wiki/Chamb%C3%A9ry_Aerodrome,,50,2021-04-27T14:15:03+00:00
 16775,CL56,small_airport,"Ranchaero Airport",39.719600677500004,-121.871002197,173,NA,"United States",US,California,US-CA,CA,Chico,0,CL56,,CL56,,,"Formerly O23",50,2009-12-29T07:52:22+00:00
 5061,NZWG,closed,"Wigram Airport",-43.5511016846,172.552993774,74,OC,"New Zealand",NZ,"Canterbury Region",NZ-CAN,CAN,Christchurch,0,,,,,https://en.wikipedia.org/wiki/Wigram_Aerodrome,"NZWG, NZWG",50,2010-06-25T10:48:28+00:00
@@ -5358,9 +5358,9 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,country_nam
 28732,EDPS,small_airport,"Flugplatz Sonnen",48.682777,13.694722,2674,EU,Germany,DE,Bavaria,DE-BY,BY,Waldkirchen,0,EDPS,,,,,,50,2022-06-19T08:06:35+00:00
 20663,KNVI,heliport,"Pace Nolf Heliport",30.699699401900002,-87.195602417,180,NA,"United States",US,Florida,US-FL,FL,Wallace,0,KNVI,,NVI,,,,50,2009-12-12T18:22:28+00:00
 16754,CL35,small_airport,"Warner Springs Gliderport Airport",33.2845,-116.675003,2885,NA,"United States",US,California,US-CA,CA,"Warner Springs",0,CL35,,CL35,,,,50,2017-01-02T11:09:22+00:00
+9704,2P2,small_airport,"Washington Island Airport",45.387917,-86.92327,652,NA,"United States",US,Wisconsin,US-WI,WI,Washington,0,,,2P2,,,WI47,50,2022-10-20T14:11:39+00:00
 19246,KAFJ,small_airport,"Washington County Airport",40.136501,-80.290199,1184,NA,"United States",US,Pennsylvania,US-PA,PA,Washington,0,KAFJ,WSG,AFJ,,https://en.wikipedia.org/wiki/Washington_County_Airport_(Pennsylvania),,50,2022-02-24T20:34:27+00:00
 19619,KDCY,small_airport,"Daviess County Airport",38.700401306152344,-87.12969970703125,473,NA,"United States",US,Indiana,US-IN,IN,Washington,0,KDCY,,DCY,,,,50,2008-06-13T14:30:04+00:00
-9704,2P2,small_airport,"Washington Island Airport",45.387917,-86.92327,652,NA,"United States",US,Wisconsin,US-WI,WI,Washington,0,,,2P2,,,WI47,50,2022-10-20T14:11:39+00:00
 20126,KI23,small_airport,"Fayette County Airport",39.57040023803711,-83.42050170898438,980,NA,"United States",US,Ohio,US-OH,OH,"Washington Court House",0,KI23,,I23,,,,50,2008-06-13T14:30:04+00:00
 16597,CA66,small_airport,"Monterey Bay Academy Airport",36.90610122680664,-121.84300231933594,70,NA,"United States",US,California,US-CA,CA,Watsonville,0,CA66,,CA66,,https://en.wikipedia.org/wiki/Monterey_Bay_Academy_Airport,,50,2008-06-13T14:30:04+00:00
 25569,W13,small_airport,"Eagle's Nest Airport",38.07709884643555,-78.94419860839844,1437,NA,"United States",US,Virginia,US-VA,VA,Waynesboro,0,W13,,W13,,,,50,2008-06-13T14:30:04+00:00
@@ -5402,8 +5402,8 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,country_nam
 5674,ROIG,closed,"Ishigaki Airport",24.3445,124.187,93,AS,Japan,JP,"Okinawa Prefecture",JP-47,47,Ishigaki,0,,,,,https://en.wikipedia.org/wiki/Ishigaki_Airport,"Ishigaki Auxiliary Field #2, ROIG",800,2021-05-04T23:31:36+00:00
 1911,CYSR,closed,"Nanisivik Airport",72.980839,-84.610862,2106,NA,Canada,CA,Nunavut,CA-NU,NU,Nanisivik,0,,,,,https://en.wikipedia.org/wiki/Nanisivik_Airport,"YSR, CYSR",800,2021-03-25T17:50:33+00:00
 3067,GAGO,medium_airport,"Gao Airport",16.2484,-0.005456,870,AF,Mali,ML,"Gao Region",ML-7,7,,1,GAGO,GAQ,,,https://en.wikipedia.org/wiki/Gao_International_Airport,,750,2022-09-26T04:21:06+00:00
-5004,NTTG,medium_airport,"Rangiroa Airport",-14.954299926757812,-147.66099548339844,10,OC,"French Polynesia",PF,(unassigned),PF-U-A,U-A,,1,NTTG,RGI,,,https://en.wikipedia.org/wiki/Rangiroa_Airport,,750,2008-06-13T14:30:04+00:00
 4730,MMMV,medium_airport,"Monclova International Airport",26.9557,-101.470001,1864,NA,Mexico,MX,Coahuila,MX-COA,COA,,1,MMMV,LOV,MOV,,https://en.wikipedia.org/wiki/Venustiano_Carranza_International_Airport,,750,2017-10-22T23:32:37+00:00
+5004,NTTG,medium_airport,"Rangiroa Airport",-14.954299926757812,-147.66099548339844,10,OC,"French Polynesia",PF,(unassigned),PF-U-A,U-A,,1,NTTG,RGI,,,https://en.wikipedia.org/wiki/Rangiroa_Airport,,750,2008-06-13T14:30:04+00:00
 27116,YPOD,medium_airport,"Portland Airport",-38.31809997558594,141.4709930419922,265,OC,Australia,AU,Victoria,AU-VIC,VIC,,1,YPOD,PTJ,,,https://en.wikipedia.org/wiki/Portland_Airport_(Australia),,750,2008-06-26T14:52:34+00:00
 26943,YCBA,medium_airport,"Cobar Airport",-31.538299560546875,145.79400634765625,724,OC,Australia,AU,"New South Wales",AU-NSW,NSW,,1,YCBA,CAZ,,,https://en.wikipedia.org/wiki/Cobar_Airport,,750,2008-06-26T14:52:34+00:00
 5130,OIAA,medium_airport,"Abadan Airport",30.367887,48.230075,10,AS,Iran,IR,"Khuzestan Province",IR-06,06,Abadan,1,OIAA,ABD,,,https://en.wikipedia.org/wiki/Abadan_Airport,,750,2021-03-03T17:23:58+00:00
@@ -6908,10 +6908,10 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,country_nam
 2749,ETSB,medium_airport,"Büchel Air Base",50.1738014221,7.06333017349,1568,EU,Germany,DE,Rhineland-Palatinate,DE-RP,RP,,0,ETSB,,,,https://en.wikipedia.org/wiki/B%C3%BCchel_Air_Base,,250,2015-10-16T13:57:54+00:00
 2999,FTTY,medium_airport,"Faya Largeau Airport",17.917101,19.111099,771,AF,Chad,TD,Borkou,TD-BO,BO,,0,FTTY,FYT,,,https://en.wikipedia.org/wiki/Faya-Largeau_Airport,,250,2022-10-21T17:48:22+00:00
 5692,RPLU,medium_airport,"Lubang Airport",13.855400085449219,120.1050033569336,43,AS,Philippines,PH,"Occidental Mindoro Province",PH-MDC,MDC,,0,RPLU,LBX,,,,,250,2008-06-13T14:30:04+00:00
-5040,NZMO,medium_airport,"Manapouri Airport",-45.53310012817383,167.64999389648438,687,OC,"New Zealand",NZ,"Southland Region",NZ-STL,STL,,0,NZMO,TEU,,,,,250,2008-06-13T14:30:04+00:00
 6301,SVMP,medium_airport,"Metropolitano Airport",10.133169174194336,-66.78782653808594,574,SA,Venezuela,VE,"Miranda State",VE-M,M,,0,SVMP,,,,,,250,2008-07-27T21:32:26+00:00
 6312,SVPM,medium_airport,"Paramillo Airport",7.8013200759887695,-72.2029037475586,3314,SA,Venezuela,VE,"Táchira State",VE-S,S,,0,SVPM,SCI,,,,,250,2008-06-13T14:30:04+00:00
 6329,SVSZ,medium_airport,"Santa Bárbara del Zulia Airport",8.974550247192383,-71.94325256347656,32,SA,Venezuela,VE,"Zulia State",VE-V,V,,0,SVSZ,STB,,,,,250,2008-07-27T21:34:07+00:00
+5040,NZMO,medium_airport,"Manapouri Airport",-45.53310012817383,167.64999389648438,687,OC,"New Zealand",NZ,"Southland Region",NZ-STL,STL,,0,NZMO,TEU,,,,,250,2008-06-13T14:30:04+00:00
 2768,FAAG,medium_airport,"Aggeneys Airport",-29.28179931640625,18.813899993896484,2648,AF,"South Africa",ZA,"Northern Cape",ZA-NC,NC,Aggeneys,0,FAAG,AGZ,,,,,250,2008-08-13T13:24:39+00:00
 4027,LERI,medium_airport,"Alcantarilla Air Base",37.951099,-1.23032,250,EU,Spain,ES,"Murcia (region)",ES-MC,MC,Alcantarilla,0,LERI,,,,,,250,2016-11-05T04:51:01+00:00
 2767,FAAB,medium_airport,"Alexander Bay Airport",-28.575001,16.5333,98,AF,"South Africa",ZA,"Northern Cape",ZA-NC,NC,"Alexander Bay",0,FAAB,ALJ,,,https://en.wikipedia.org/wiki/Alexander_Bay_Airport,Kortdoorn,250,2018-05-19T20:07:56+00:00
@@ -7424,8 +7424,8 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,country_nam
 555,SWKT,small_airport,"Catalão Airport",-18.216800689697266,-47.89970016479492,2612,SA,Brazil,BR,Goiás,BR-GO,GO,Catalão,0,SWKT,TLZ,SWKT,,,,50,2008-06-24T09:40:26+00:00
 4827,MUBR,small_airport,"Las Brujas Airport",22.6213,-79.147202,13,NA,Cuba,CU,"Sancti Spíritus Province",CU-07,07,"Cayo Santa Maria",0,MUBR,BWW,,,https://en.wikipedia.org/wiki/Las_Brujas_Airport_(Cuba),,50,2022-10-29T17:46:39+00:00
 319431,IT-0279,small_airport,"Aviosuperficie Celano",42.05167,13.55722,2234,EU,Italy,IT,Abruzzi,IT-65,65,"Celano (AQ)",0,,,AQCEL,,,AvioFucino,50,2016-11-27T01:38:25+00:00
-24810,TE01,small_airport,"Dillard Ranch Airport",31.304899215698242,-95.79660034179688,225,NA,"United States",US,Texas,US-TX,TX,Centerville,0,TE01,,TE01,,,,50,2008-06-13T14:30:04+00:00
 21234,KTVK,small_airport,"Centerville Municipal Airport",40.68389893,-92.90100098,1023,NA,"United States",US,Iowa,US-IA,IA,Centerville,0,KTVK,,TVK,,,,50,2010-01-23T11:29:31+00:00
+24810,TE01,small_airport,"Dillard Ranch Airport",31.304899215698242,-95.79660034179688,225,NA,"United States",US,Texas,US-TX,TX,Centerville,0,TE01,,TE01,,,,50,2008-06-13T14:30:04+00:00
 6932,07K,small_airport,"Central City Municipal - Larry Reineke Field",41.1125984192,-98.0516967773,1717,NA,"United States",US,Nebraska,US-NE,NE,"Central City",0,07K,,07K,,,,50,2009-12-15T09:28:11+00:00
 29772,LKCL,closed,"Černovice Air Base",49.1775016784,16.6608,778,EU,"Czech Republic",CZ,"South Moravian Region",CZ-JM,JM,Černovice,0,,,,,,"LKCL, LKCL",50,2015-10-11T08:37:24+00:00
 20617,KN68,small_airport,"Franklin County Regional Airport",39.973099,-77.643303,697,NA,"United States",US,Pennsylvania,US-PA,PA,Chambersburg,0,KN68,,N68,,https://en.wikipedia.org/wiki/Franklin_County_Regional_Airport,,50,2022-06-14T13:35:50+00:00
@@ -7534,8 +7534,8 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,country_nam
 28770,LFAB,small_airport,"St Aubin Airport",49.88249969482422,1.085279941558838,344,EU,France,FR,Normandy,FR-NOR,NOR,Dieppe,0,LFAB,DPE,,,,,50,2008-07-31T22:40:04+00:00
 28552,EDND,small_airport,"Dinkelsbühl-Sinbronn Airport",49.064998626708984,10.401110649108887,1598,EU,Germany,DE,Bavaria,DE-BY,BY,Dinkelsbühl,0,EDND,,,,,,50,2009-01-20T12:15:01+00:00
 17078,D63,small_airport,"Dinsmore Airport",40.49290084838867,-123.5999984741211,2375,NA,"United States",US,California,US-CA,CA,Dinsmore,0,D63,,D63,,https://en.wikipedia.org/wiki/Dinsmore_Airport_(California),,50,2008-06-13T14:30:04+00:00
-19205,K9U4,small_airport,"Dixon Airport",41.038299560547,-107.49700164795,6520,NA,"United States",US,Wyoming,US-WY,WY,Dixon,0,KDWX,,DWX,http://www.carbonwy.com/index.aspx?nid=987,,"DIA, KDIA, 9U4",50,2015-06-22T23:41:52+00:00
 7812,13CL,small_airport,"Maine Prairie Airport",38.38130187988281,-121.8239974975586,40,NA,"United States",US,California,US-CA,CA,Dixon,0,13CL,,13CL,,,,50,2008-06-13T14:30:04+00:00
+19205,K9U4,small_airport,"Dixon Airport",41.038299560547,-107.49700164795,6520,NA,"United States",US,Wyoming,US-WY,WY,Dixon,0,KDWX,,DWX,http://www.carbonwy.com/index.aspx?nid=987,,"DIA, KDIA, 9U4",50,2015-06-22T23:41:52+00:00
 27529,YDRA,small_airport,"Dongara Airport",-29.298128,114.927334,,OC,Australia,AU,"Western Australia",AU-WA,WA,Dongara,0,YDRA,DOX,,,,,50,2021-10-11T11:08:50+00:00
 323185,RKST,small_airport,"Camp Casey-Dongduchon (Camp Mobile) (H-220) Airfield",37.920842,127.055361,,AS,"South Korea",KR,Gyeonggido,KR-41,41,Dongduchon,0,RKST,,,,"https://en.wikipedia.org/wiki/Camp_Casey,_South_Korea",,50,2017-05-13T04:07:21+00:00
 25228,U84,small_airport,"Donald D. Coski Memorial Airport",44.72545623779297,-116.09123992919922,4860,NA,"United States",US,Idaho,US-ID,ID,Donnelly,0,U84,,U84,,,,50,2008-08-15T15:03:58+00:00
@@ -8950,8 +8950,6 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,country_nam
 5411,PASV,medium_airport,"Sparrevohn LRRS Airport",61.09740067,-155.5740051,1585,NA,"United States",US,Alaska,US-AK,AK,Sparrevohn,0,PASV,SVW,SVW,,https://en.wikipedia.org/wiki/Sparrevohn_LRRS_Airport,,275,2013-03-25T23:43:30+00:00
 5541,RJBT,medium_airport,"Konotori Tajima Airport",35.512798,134.787003,584,AS,Japan,JP,"Hyōgo Prefecture",JP-28,28,Toyooka,0,RJBT,TJH,,,,"tajima, toyooka",275,2020-06-19T11:42:54+00:00
 5231,OMAM,medium_airport,"Al Dhafra Air Base",24.248199462900004,54.547698974599996,77,AS,"United Arab Emirates",AE,"Abu Dhabi Emirate",AE-AZ,AZ,,0,OMAM,DHF,,https://www.dhafra.af.mil/,https://en.wikipedia.org/wiki/Al_Dhafra_Air_Base,,250,2012-07-19T20:09:31+00:00
-4495,LSME,medium_airport,"Emmen Air Base",47.092444,8.305184,1400,EU,Switzerland,CH,"Canton of Lucerne",CH-LU,LU,,0,LSME,EML,,https://saf.hermannkeist.ch/emmen.html,https://en.wikipedia.org/wiki/Milit%C3%A4rflugplatz_Emmen,,250,2016-05-15T09:43:56+00:00
-4543,LTBT,medium_airport,"Akhisar Airport",38.80889892578125,27.833900451660156,263,AS,Turkey,TR,"Manisa Province",TR-45,45,,0,LTBT,,,,,,250,2008-06-13T14:30:04+00:00
 6258,SVBL,medium_airport,"El Libertador Airbase",10.183375358600001,-67.55731964110001,1450,SA,Venezuela,VE,"Aragua State",VE-D,D,,0,SVBL,,ELR,,,,250,2012-08-17T07:34:56+00:00
 6263,SVCD,medium_airport,"Caicara del Orinoco Airport",7.625510215759277,-66.16280364990234,141,SA,Venezuela,VE,"Bolívar State",VE-F,F,,0,SVCD,CXA,,,,,250,2008-07-27T21:30:31+00:00
 6281,SVEZ,medium_airport,"Elorza Airport",7.0833330154418945,-69.53333282470703,295,SA,Venezuela,VE,"Apure State",VE-C,C,,0,SVEZ,EOZ,,,,,250,2008-07-27T21:31:06+00:00
@@ -8961,6 +8959,8 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,country_nam
 6323,SVSE,medium_airport,"Santa Elena de Uairen Airport",4.554999828338623,-61.150001525878906,2938,SA,Venezuela,VE,"Bolívar State",VE-F,F,,0,SVSE,SNV,,,,,250,2008-07-27T21:33:54+00:00
 6332,SVTM,medium_airport,"Tumeremo Airport",7.24938,-61.52893,345,SA,Venezuela,VE,"Bolívar State",VE-F,F,,0,SVTM,TMO,,,,,250,2015-01-27T16:33:46+00:00
 6337,SVVP,medium_airport,"Valle de La Pascua Airport",9.22202777863,-65.9935836792,410,SA,Venezuela,VE,"Guárico State",VE-J,J,,0,SVVP,VDP,,,https://en.wikipedia.org/wiki/Valle_de_la_Pascua_Airport,,250,2012-11-22T08:31:12+00:00
+4495,LSME,medium_airport,"Emmen Air Base",47.092444,8.305184,1400,EU,Switzerland,CH,"Canton of Lucerne",CH-LU,LU,,0,LSME,EML,,https://saf.hermannkeist.ch/emmen.html,https://en.wikipedia.org/wiki/Milit%C3%A4rflugplatz_Emmen,,250,2016-05-15T09:43:56+00:00
+4543,LTBT,medium_airport,"Akhisar Airport",38.80889892578125,27.833900451660156,263,AS,Turkey,TR,"Manisa Province",TR-45,45,,0,LTBT,,,,,,250,2008-06-13T14:30:04+00:00
 2721,ETHB,medium_airport,"Bückeburg Air Base",52.2785,9.08217,230,EU,Germany,DE,"Lower Saxony",DE-NI,NI,,0,ETHB,,,,https://en.wikipedia.org/wiki/B%C3%BCckeburg_Air_Base,,250,2016-09-29T04:56:04+00:00
 2870,FCOU,medium_airport,"Ouesso Airport",1.6159900426899998,16.0379009247,1158,AF,"Republic of the Congo",CG,"Sangha Department",CG-13,13,,0,FCOU,OUE,,,,,250,2014-03-27T11:19:29+00:00
 2098,DIDL,medium_airport,"Daloa Airport",6.792809963226318,-6.473189830780029,823,AF,"Côte d'Ivoire",CI,"Sassandra-Marahoué District",CI-SM,SM,,0,DIDL,DJO,,,,,250,2008-06-13T14:30:04+00:00
@@ -9480,6 +9480,12 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,country_nam
 19274,PAKV,small_airport,"Kaltag Airport",64.31909943,-158.7409973,181,NA,"United States",US,Alaska,US-AK,AK,Kaltag,0,PAKV,KAL,KAL,,,,75,2010-01-23T11:28:46+00:00
 21313,PAVC,small_airport,"King Cove Airport",55.11629867553711,-162.26600646972656,155,NA,"United States",US,Alaska,US-AK,AK,"King Cove",0,PAVC,KVC,KVC,,,,75,2008-08-18T21:02:48+00:00
 1648,LY87,small_airport,"Kovin Airstrip",44.7743,20.9613,280,EU,Serbia,RS,"South Banat District",RS-04,04,,0,,,,,,,50,2021-09-04T14:42:10+00:00
+2611,EPKN,small_airport,"Kamien Slaski Airport",50.529202,18.0849,683,EU,Poland,PL,"Opole Voivodeship",PL-OP,OP,,0,EPKN,,,http://www.opole.airport.aero,,,50,2018-03-18T03:37:49+00:00
+2686,ESNR,small_airport,"Orsa Airport",61.189998626708984,14.712599754333496,683,EU,Sweden,SE,"Dalarnas län",SE-W,W,,0,ESNR,,,,,,50,2008-06-13T14:30:04+00:00
+2714,ESUK,small_airport,"Kalixfors Airfield",67.764801,20.2572,1549,EU,Sweden,SE,"Norrbottena län",SE-BD,BD,,0,ESUK,,,,,,50,2021-02-28T04:54:42+00:00
+2745,ETOI,small_airport,"Vilseck Army Air Field",49.63359832763672,11.767200469970703,1353,EU,Germany,DE,Bavaria,DE-BY,BY,,0,ETOI,,,,,,50,2008-06-13T14:30:04+00:00
+3001,FVCN,small_airport,"Centenary Airport",-16.734100341796875,31.121999740600586,4058,AF,Zimbabwe,ZW,"Mashonaland Central Province",ZW-MC,MC,,0,FVCN,,,,,,50,2008-08-03T11:32:44+00:00
+3011,FVOT,small_airport,"Kotwa Airport",-16.984800338745117,32.672698974609375,2450,AF,Zimbabwe,ZW,"Mashonaland East Province",ZW-ME,ME,,0,FVOT,,,,,,50,2008-08-03T11:33:30+00:00
 3051,FZIA,small_airport,"Kisangani Simisini Airport",0.5174999833106995,25.155000686645508,1289,AF,"Democratic Republic of the Congo",CD,"Tshopo Province",CD-TS,TS,,0,FZIA,,,,,,50,2008-08-03T11:37:43+00:00
 3072,GATS,small_airport,"Tessalit Airport",20.243000030517578,0.9773079752922058,1621,AF,Mali,ML,"Gao Region",ML-7,7,,0,GATS,,,,,,50,2008-06-13T14:30:04+00:00
 3286,VA1E,small_airport,"Bhilai Airport",21.294200897216797,81.37950134277344,1014,AS,India,IN,Chhattisgarh,IN-CT,CT,,0,VA1E,,VA1E,,,,50,2009-01-30T17:05:03+00:00
@@ -9488,24 +9494,18 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,country_nam
 3310,VE36,small_airport,"Nuagaon Airport",20.511699676513672,83.4480972290039,656,AS,India,IN,Odisha,IN-OR,OR,,0,VE36,,VE36,,,,50,2008-06-13T14:30:04+00:00
 3311,VE41,small_airport,"Giridih Airport",24.201900482177734,86.28980255126953,1000,AS,India,IN,Bihar,IN-BR,BR,,0,VE41,,VE41,,,,50,2008-06-13T14:30:04+00:00
 3322,VI20,small_airport,"Bhilwara Airport",28.07710075378418,76.20500183105469,955,AS,India,IN,Haryana,IN-HR,HR,,0,VI20,,VI20,,,,50,2008-06-13T14:30:04+00:00
-2611,EPKN,small_airport,"Kamien Slaski Airport",50.529202,18.0849,683,EU,Poland,PL,"Opole Voivodeship",PL-OP,OP,,0,EPKN,,,http://www.opole.airport.aero,,,50,2018-03-18T03:37:49+00:00
-2686,ESNR,small_airport,"Orsa Airport",61.189998626708984,14.712599754333496,683,EU,Sweden,SE,"Dalarnas län",SE-W,W,,0,ESNR,,,,,,50,2008-06-13T14:30:04+00:00
-2714,ESUK,small_airport,"Kalixfors Airfield",67.764801,20.2572,1549,EU,Sweden,SE,"Norrbottena län",SE-BD,BD,,0,ESUK,,,,,,50,2021-02-28T04:54:42+00:00
-2745,ETOI,small_airport,"Vilseck Army Air Field",49.63359832763672,11.767200469970703,1353,EU,Germany,DE,Bavaria,DE-BY,BY,,0,ETOI,,,,,,50,2008-06-13T14:30:04+00:00
-3001,FVCN,small_airport,"Centenary Airport",-16.734100341796875,31.121999740600586,4058,AF,Zimbabwe,ZW,"Mashonaland Central Province",ZW-MC,MC,,0,FVCN,,,,,,50,2008-08-03T11:32:44+00:00
-3011,FVOT,small_airport,"Kotwa Airport",-16.984800338745117,32.672698974609375,2450,AF,Zimbabwe,ZW,"Mashonaland East Province",ZW-ME,ME,,0,FVOT,,,,,,50,2008-08-03T11:33:30+00:00
 6311,SVPE,small_airport,"Pedernales Airport",9.979240417480469,-62.228599548339844,25,SA,Venezuela,VE,"Delta Amacuro State",VE-Y,Y,,0,SVPE,PDZ,,,,,50,2008-07-27T21:33:01+00:00
 5105,OEPF,small_airport,"Pump Station 6 Airport",24.71030044555664,44.964500427246094,2530,AS,"Saudi Arabia",SA,"Riyadh Region",SA-01,01,,0,OEPF,,,,,,50,2008-06-13T14:30:04+00:00
 5106,OEPI,small_airport,"Pump Station 9 Airport",24.276100158691406,42.143699645996094,3000,AS,"Saudi Arabia",SA,"Riyadh Region",SA-01,01,,0,OEPI,,,,,,50,2008-06-13T14:30:04+00:00
-5754,OE46,small_airport,"Al Lidem Airport",20.475900650024414,44.75749969482422,2225,AS,"Saudi Arabia",SA,"Riyadh Region",SA-01,01,,0,OE46,,OE46,,,,50,2008-06-13T14:30:04+00:00
-5758,OE51,small_airport,"Al Kharj East Airport",24.05150032043457,47.65420150756836,1650,AS,"Saudi Arabia",SA,"Riyadh Region",SA-01,01,,0,OE51,,OE51,,,,50,2008-06-13T14:30:04+00:00
-5759,OE52,small_airport,"Al Artawiyah South Airport",26.611600875854492,45.321998596191406,1900,AS,"Saudi Arabia",SA,"Riyadh Region",SA-01,01,,0,OE52,,OE52,,,,50,2008-06-13T14:30:04+00:00
-5761,OE54,small_airport,"Hafar Al Atk Airport",25.99340057373047,46.53670120239258,1970,AS,"Saudi Arabia",SA,"Riyadh Region",SA-01,01,,0,OE54,,OE54,,,,50,2008-06-13T14:30:04+00:00
 4684,GA1A,small_airport,"Kayes Airport",14.431300163269043,-11.43970012664795,161,AF,Mali,ML,"Kayes Region",ML-1,1,,0,GA1A,,GA1A,,,,50,2008-06-13T14:30:04+00:00
 4712,MMHC,small_airport,"Tehuacan Airport",18.49720001220703,-97.4198989868164,5509,NA,Mexico,MX,Puebla,MX-PUE,PUE,,0,MMHC,TCN,,,,,50,2008-06-13T14:30:04+00:00
 4753,MMTA,small_airport,"Tlaxcala Airport",19.537992,-98.173492,8229,NA,Mexico,MX,Tlaxcala,MX-TLA,TLA,,0,MMTA,,,,https://es.wikipedia.org/wiki/Estaci%C3%B3n_a%C3%A9rea_n.%C2%B0_9_Atlangatepec,"Estación aérea n.° 9 Atlangatepec",50,2016-07-07T17:46:13+00:00
 4908,MM66,small_airport,"Coahuayana Airport",18.684601,-103.676003,200,NA,Mexico,MX,Michoacán,MX-MIC,MIC,,0,,,CHY,,,MM66,50,2017-10-15T23:15:33+00:00
 4932,MYAX,small_airport,"Spanish Cay Airport",26.950300216674805,-77.5438003540039,10,NA,Bahamas,BS,"North Abaco",BS-NO,NO,,0,MYAX,,,,,,50,2008-12-19T20:09:15+00:00
+5754,OE46,small_airport,"Al Lidem Airport",20.475900650024414,44.75749969482422,2225,AS,"Saudi Arabia",SA,"Riyadh Region",SA-01,01,,0,OE46,,OE46,,,,50,2008-06-13T14:30:04+00:00
+5758,OE51,small_airport,"Al Kharj East Airport",24.05150032043457,47.65420150756836,1650,AS,"Saudi Arabia",SA,"Riyadh Region",SA-01,01,,0,OE51,,OE51,,,,50,2008-06-13T14:30:04+00:00
+5759,OE52,small_airport,"Al Artawiyah South Airport",26.611600875854492,45.321998596191406,1900,AS,"Saudi Arabia",SA,"Riyadh Region",SA-01,01,,0,OE52,,OE52,,,,50,2008-06-13T14:30:04+00:00
+5761,OE54,small_airport,"Hafar Al Atk Airport",25.99340057373047,46.53670120239258,1970,AS,"Saudi Arabia",SA,"Riyadh Region",SA-01,01,,0,OE54,,OE54,,,,50,2008-06-13T14:30:04+00:00
 310576,ZA-0111,small_airport,"Kudu Private Nature Reserve",-24.995,30.403333333299997,4580,AF,"South Africa",ZA,Mpumalanga,ZA-MP,MP,,0,,,,,,,50,2014-01-08T06:22:08+00:00
 311939,RO-0002,small_airport,Banesti,45.068671,25.80637,,EU,Romania,RO,"Prahova County",RO-PH,PH,,0,,,,,,,50,2016-04-29T07:14:28+00:00
 312402,EPKI,small_airport,Kikity,53.983056,20.877222,564,EU,Poland,PL,"Warmian-Masurian Voivodeship",PL-WN,WN,,0,EPKI,,,http://www.kikity.com.pl,,Agrotourism,50,2016-04-29T07:32:53+00:00
@@ -10273,8 +10273,8 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,country_nam
 317705,BW-0022,small_airport,"Big Game Airport",-26.326,22.0946,3180,AF,Botswana,BW,"Kgalagadi District",BW-KG,KG,"Big Game",0,,,,,,,50,2016-04-24T15:10:49+00:00
 335815,02AA,small_airport,"Barefoot Airport",61.506147,-149.912825,160,NA,"United States",US,Alaska,US-AK,AK,"Big Lake",0,02AA,,02AA,,,"H & H Field",50,2020-09-13T11:49:18+00:00
 5341,PABM,small_airport,"Big Mountain Airport",59.362274,-155.260148,663,NA,"United States",US,Alaska,US-AK,AK,"Big Mountain",0,PABM,BMX,37AK,,https://en.wikipedia.org/wiki/Big_Mountain_Air_Force_Station,"Big Mountain Air Force Station",50,2021-03-25T11:51:19+00:00
-18746,K3U8,small_airport,"Big Sandy Airport",48.163204,-110.115709,2700,NA,"United States",US,Montana,US-MT,MT,"Big Sandy",0,K3U8,,3U8,,,,50,2022-11-17T22:30:18+00:00
 8118,18TE,small_airport,"Alert Field",32.585201263427734,-95.06390380859375,390,NA,"United States",US,Texas,US-TX,TX,"Big Sandy",0,18TE,,18TE,,,,50,2008-06-13T14:30:04+00:00
+18746,K3U8,small_airport,"Big Sandy Airport",48.163204,-110.115709,2700,NA,"United States",US,Montana,US-MT,MT,"Big Sandy",0,K3U8,,3U8,,,,50,2022-11-17T22:30:18+00:00
 308323,LYSU,small_airport,"Subotica / Bikovo Sport Airport",46.022837,19.706454,340,EU,Serbia,RS,"North Bačka District",RS-01,01,Bikovo,0,LYSU,,,http://aeroklubivansaric.rs,https://en.wikipedia.org/wiki/Subotica_Airport,"Subotica Airport, Aerodrome Subotica, Bikovo Airport, Суботица, Биково",50,2022-09-07T22:18:55+00:00
 310258,ID-0030,small_airport,"Bime Airstrip",-4.48558,140.219843,4600,AS,Indonesia,ID,"Papua Pegunungan (Highland Papua)",ID-PP,PP,Bime,0,,,,,,,50,2022-10-01T23:57:17+00:00
 325992,PH-0090,small_airport,"Binalonan Airport",16.052041,120.582225,,AS,Philippines,PH,"Pangasinan Province",PH-PAN,PAN,Binalonan,0,,,,,,Binalonan,50,2018-01-01T05:26:11+00:00
@@ -13732,6 +13732,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,country_nam
 46494,CLP3,seaplane_base,"Lac Polaris (pourvoirie Mirage)",53.8005555556,-72.8666666667,1300,NA,Canada,CA,Quebec,CA-QC,QC,,0,CLP3,,,,,"Pourvoirie Mirage, Mirage outfitter",0,2010-08-04T10:26:23+00:00
 43242,LEGV,heliport,"Campo Gaviota Heliport",43.44169998168945,-2.7536098957061768,630,EU,Spain,ES,"Basque Country",ES-PV,PV,,0,LEGV,,,,,,0,2009-08-06T22:59:23+00:00
 44454,CA-0265,closed,"Eastmain Mine Airstrip",52.282493591308594,-72.06619262695312,,NA,Canada,CA,Quebec,CA-QC,QC,,0,,,,,,,0,2009-05-10T00:09:37+00:00
+44551,VA-0001,heliport,"Vatican City Heliport",41.9019775391,12.4461307526,221,EU,"Vatican City",VA,(unassigned),VA-U-A,U-A,,0,,,,,https://en.wikipedia.org/wiki/Vatican_City_Heliport,,0,2013-12-06T18:43:31+00:00
 319905,EPKC,closed,"Kraków Rakowice-Czyżyny Airport",50.084353,19.99031,732,EU,Poland,PL,"Lesser Poland Voivodeship",PL-MA,MA,,0,,,,http://www.muzeumlotnictwa.pl/,https://en.wikipedia.org/wiki/Krak%C3%B3w-Rakowice-Czy%C5%BCyny_Airport,"Polish Aviation Museum, EPKC",0,2016-08-20T14:52:36+00:00
 353018,UA-0174,heliport,"Zmiyinyy Island Helipad",45.255778,30.201306,,EU,Ukraine,UA,"Odessa Oblast",UA-51,51,,0,,,,,,,0,2022-02-25T07:18:15+00:00
 339754,US-2926,closed,"Alexander Lake Airport",61.731678,-150.868335,150,NA,"United States",US,Alaska,US-AK,AK,,0,,,,,,,0,2021-01-17T12:32:47+00:00
@@ -14394,11 +14395,11 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,country_nam
 26666,VTSC,medium_airport,"Narathiwat Airport",6.5199198722839355,101.74299621582031,16,AS,Thailand,TH,"Narathiwat Province",TH-96,96,,1,VTSC,NAW,,,https://en.wikipedia.org/wiki/Narathiwat_Airport,,750,2008-06-13T14:30:04+00:00
 26935,YBTR,medium_airport,"Blackwater Airport",-23.603099822998047,148.8070068359375,657,OC,Australia,AU,Queensland,AU-QLD,QLD,,1,YBTR,BLT,,,https://en.wikipedia.org/wiki/Blackwater_Airport,,750,2008-06-26T14:52:34+00:00
 5703,RPMJ,medium_airport,"Jolo Airport",6.0536699295043945,121.01100158691406,118,AS,Philippines,PH,"Sulu Province",PH-SLU,SLU,,1,RPMJ,JOL,,,https://en.wikipedia.org/wiki/Jolo_Airport,,750,2008-06-13T14:30:04+00:00
-4981,NTAT,medium_airport,"Tubuai Airport",-23.365400314331055,-149.5240020751953,7,OC,"French Polynesia",PF,(unassigned),PF-U-A,U-A,,1,NTAT,TUB,,,https://en.wikipedia.org/wiki/Tubuai_-_Mataura_Airport,,750,2008-06-13T14:30:04+00:00
 4987,NTGF,medium_airport,"Fakarava Airport",-16.054100036621094,-145.65699768066406,13,OC,"French Polynesia",PF,(unassigned),PF-U-A,U-A,,1,NTGF,FAV,,,https://en.wikipedia.org/wiki/Fakarava_Airport,,750,2008-06-13T14:30:04+00:00
 4994,NTGU,medium_airport,"Arutua Airport",-15.248299598693848,-146.61700439453125,9,OC,"French Polynesia",PF,(unassigned),PF-U-A,U-A,,1,NTGU,AXR,,,https://en.wikipedia.org/wiki/Arutua_Airport,,750,2008-06-13T14:30:04+00:00
 5151,OICK,medium_airport,"Khoram Abad Airport",33.43539810180664,48.282901763916016,3782,AS,Iran,IR,"Lorestan Province",IR-15,15,,1,OICK,KHD,,,https://en.wikipedia.org/wiki/Khorramabad_Airport,,750,2008-11-30T19:37:33+00:00
 5152,OICS,medium_airport,"Sanandaj Airport",35.24589920043945,47.00920104980469,4522,AS,Iran,IR,"Kurdistan Province",IR-12,12,,1,OICS,SDG,,,https://en.wikipedia.org/wiki/Sanandaj_Airport,,750,2008-11-30T19:37:35+00:00
+4981,NTAT,medium_airport,"Tubuai Airport",-23.365400314331055,-149.5240020751953,7,OC,"French Polynesia",PF,(unassigned),PF-U-A,U-A,,1,NTAT,TUB,,,https://en.wikipedia.org/wiki/Tubuai_-_Mataura_Airport,,750,2008-06-13T14:30:04+00:00
 4950,MYMM,medium_airport,"Mayaguana Airport",22.379499,-73.013494,11,NA,Bahamas,BS,Mayaguana,BS-MG,MG,"Abrahams Bay",1,MYMM,MYG,,,https://en.wikipedia.org/wiki/Mayaguana_Airport,,750,2018-03-17T11:18:59+00:00
 4561,LTCP,medium_airport,"Adıyaman Airport",37.7314,38.468899,2216,AS,Turkey,TR,"Adıyaman Province",TR-02,02,Adıyaman,1,LTCP,ADF,,,https://en.wikipedia.org/wiki/Ad%C4%B1yaman_Airport,,750,2021-10-07T10:52:35+00:00
 30635,ZWAK,medium_airport,"Aksu Hongqipo Airport",41.262501,80.291702,3816,AS,China,CN,"Xinjiang Autonomous Region",CN-65,65,"Aksu (Onsu)",1,ZWAK,AKU,,,https://en.wikipedia.org/wiki/Aksu_Hongqipo_Airport,"Ak-su, Akshu, Aqsu, Bharuka, Po-lu-chia, Aksu Wensu Air Base, Onsu",750,2022-08-02T08:39:57+00:00
@@ -14817,8 +14818,8 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,country_nam
 6194,SLYA,medium_airport,"Yacuiba Airport",-21.960899353027344,-63.65169906616211,2112,SA,Bolivia,BO,"Tarija Department",BO-T,T,Yacuíba,0,SLYA,BYC,,,https://en.wikipedia.org/wiki/Yacuiba_Airport,,275,2008-07-14T12:56:12+00:00
 6286,SVGI,medium_airport,"Guiria Airport",10.574077606200001,-62.3126678467,42,SA,Venezuela,VE,"Sucre State",VE-R,R,,0,SVGI,GUI,,,https://en.wikipedia.org/wiki/Guiria_Airport,,250,2012-11-22T08:29:13+00:00
 6346,OS64,medium_airport,"An Nasiriyah Air Base",33.91899871826172,36.866600036621094,2727,AS,Syria,SY,"Damascus Governorate",SY-DI,DI,,0,,,,,,OS64,250,2009-04-13T08:48:17+00:00
-5582,RJNF,medium_airport,"Fukui Airport",36.1427993774,136.223999023,19,AS,Japan,JP,"Fukui Prefecture",JP-18,18,,0,RJNF,FKJ,,,https://en.wikipedia.org/wiki/Fukui_Airport,,250,2013-09-29T13:26:07+00:00
 4992,NTGP,medium_airport,"Puka Puka Airport",-14.809499740600586,-138.81300354003906,5,OC,"French Polynesia",PF,(unassigned),PF-U-A,U-A,,0,NTGP,PKP,,,https://en.wikipedia.org/wiki/Puka-Puka_Airport,,250,2008-06-13T14:30:04+00:00
+5582,RJNF,medium_airport,"Fukui Airport",36.1427993774,136.223999023,19,AS,Japan,JP,"Fukui Prefecture",JP-18,18,,0,RJNF,FKJ,,,https://en.wikipedia.org/wiki/Fukui_Airport,,250,2013-09-29T13:26:07+00:00
 4582,HL56,medium_airport,"Matan al-Sarra Air Base",21.687700271606445,21.830900192260742,1722,AF,Libya,LY,"Al Kufrah District",LY-KF,KF,,0,HL56,,HL56,,https://en.wikipedia.org/wiki/Maaten_al-Sarra_Air_Base,,250,2008-06-25T14:54:53+00:00
 4602,HL77,medium_airport,"Okba Ibn Nafa Air Base",32.473400116,11.897899627700001,253,AF,Libya,LY,"An Nuqat al Khams District",LY-NQ,NQ,,0,,,,,,,250,2013-02-07T09:07:56+00:00
 4952,MYRD,medium_airport,"Duncan Town Airport",22.181800842285156,-75.72949981689453,6,NA,Bahamas,BS,"Ragged Island",BS-RI,RI,,0,MYRD,DCT,,,,,250,2008-12-19T20:09:50+00:00
@@ -17720,6 +17721,170 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,country_nam
 312344,CY-0007,small_airport,"Marki Airfield",35.01622,33.310869,,AS,Cyprus,CY,"Nicosia District",CY-02,02,,0,,,,,,,50,2014-07-02T17:47:22+00:00
 312421,SI-0015,small_airport,"Radenci Airfield",46.628605,16.046244,712,EU,Slovenia,SI,Radenci,SI-100,100,,0,,,,,,,50,2015-01-03T18:23:55+00:00
 312632,CA-0536,small_airport,"Paterson Field",43.419447,-81.237176,,NA,Canada,CA,Ontario,CA-ON,ON,,0,,,,,,,50,2014-08-10T09:17:00+00:00
+308207,EG3L,small_airport,"Milfield Glider Field",55.591636,-2.087231,,EU,"United Kingdom",GB,England,GB-ENG,ENG,,0,,,,,,EGEX,50,2023-04-03T04:57:27+00:00
+308213,AYBW,small_airport,"Blackwara Airport",-2.618211,141.091971,58,OC,"Papua New Guinea",PG,"Sandaun Province",PG-SAN,SAN,,0,AYBW,,,,,,50,2013-01-13T09:17:06+00:00
+308246,GB-0150,small_airport,"Knockrome Airstrip",55.8724818818,-5.9216308593800004,,EU,"United Kingdom",GB,Scotland,GB-SCT,SCT,,0,,,,,,Jura,50,2013-02-04T10:18:46+00:00
+308250,TD-0001,small_airport,"Aozou Airstrip",22.645195,17.696527,,AF,Chad,TD,Tibesti,TD-TI,TI,,0,,,,,,,50,2013-02-06T06:31:05+00:00
+308251,LY-0003,small_airport,"Gabr Airstrip",29.873888,23.347918,,AF,Libya,LY,"Al Butnan District",LY-BU,BU,,0,,,,,,,50,2013-02-06T06:56:38+00:00
+308261,SGPG,small_airport,"Aeropista Pelayo Prats Gill",-22.559962,-61.611972,690,SA,Paraguay,PY,"Boquerón Department",PY-19,19,,0,SGPG,,,,,,50,2022-12-19T11:16:55+00:00
+308283,LNF,small_airport,"Munbil Airport",-4.855941,141.220165,3126,OC,"Papua New Guinea",PG,"Sandaun Province",PG-SAN,SAN,,0,AYYM,LNF,MBL,,,,50,2019-04-13T21:22:43+00:00
+308291,VNKL,small_airport,"Kangel Danda Airport",27.4106333137,86.6465950012,,AS,Nepal,NP,"Province No. 1",NP-P1,P1,,0,VNKL,,,,,,50,2013-03-01T10:51:15+00:00
+308295,CHC5,small_airport,"Hayes Camp Aerodrome",66.655556,-91.545,780,NA,Canada,CA,Nunavut,CA-NU,NU,,0,CHC5,,CHC5,,https://en.wikipedia.org/wiki/Hayes_Camp_Aerodrome,,50,2013-03-02T23:38:30+00:00
+308296,CGS2,small_airport,"Goose Lake Aerodrome",65.552778,-106.433611,907,NA,Canada,CA,Nunavut,CA-NU,NU,,0,CGS2,,CGS2,,https://en.wikipedia.org/wiki/Goose_Lake_Aerodrome,,50,2013-03-02T23:47:10+00:00
+308297,CGR3,small_airport,"George Lake Aerodrome",65.928056,-107.462222,1150,NA,Canada,CA,Nunavut,CA-NU,NU,,0,CGR3,,CGR3,,https://en.wikipedia.org/wiki/George_Lake_Aerodrome,,50,2022-01-12T23:14:45+00:00
+308305,SS-0007,small_airport,"Pieri Airstrip",8.04048,32.028816,1347,AF,"South Sudan",SS,"Upper Nile State",SS-23,23,,0,HJPR,,,,,,50,2022-04-21T17:37:52+00:00
+308308,SS-0010,small_airport,"Mogok Airstrip",8.413961,31.33333,1331,AF,"South Sudan",SS,"Jonglei State",SS-20,20,,0,HJMG,,,,,,50,2022-04-21T14:53:05+00:00
+308310,SS-0012,small_airport,"Buk Airfield",8.01095641186,31.428108215299996,,AF,"South Sudan",SS,"Jonglei State",SS-20,20,,0,,,,,,,50,2013-03-04T08:13:27+00:00
+308311,SS-0013,small_airport,"Pathai Airstrip",8.06976738146,31.8386363983,,AF,"South Sudan",SS,"Jonglei State",SS-20,20,,0,,,,,,,50,2013-03-04T08:20:56+00:00
+308907,LT-0003,small_airport,"Trakėnai Airstrip",54.365886,23.167256,,EU,Lithuania,LT,"Marijampolė County",LT-MR,MR,,0,,,,,,"trakenai, kalvarija",50,2023-02-25T05:43:14+00:00
+309385,DE-0077,small_airport,"Büchig Airfield",50.4483,10.2526,1280,EU,Germany,DE,Bavaria,DE-BY,BY,,0,,,,,,,50,2013-08-18T14:22:10+00:00
+309571,MZE,small_airport,"Manatee Airport",17.27846,-89.0238,343,NA,Belize,BZ,"Cayo District",BZ-CY,CY,,0,,MZE,,,https://en.wikipedia.org/wiki/Manatee_Airport,,50,2013-09-14T18:58:18+00:00
+309587,IN-0086,small_airport,"CHINDWARA AIRFIELD",22,78.93,,AS,India,IN,"Madhya Pradesh",IN-MP,MP,,0,,,,,,,50,2013-09-16T09:13:32+00:00
+309715,RPVQ,small_airport,"Biliran Airport",11.5159178299,124.428985119,,AS,Philippines,PH,"Biliran Province",PH-BIL,BIL,,0,RPVQ,,,,https://en.wikipedia.org/wiki/Biliran_Airport,,50,2013-10-06T08:26:17+00:00
+316294,SK-0003,small_airport,"Dunajská Streda",48.018056,17.613056,,EU,Slovakia,SK,"Trnava Region",SK-TA,TA,,0,LZDU,,,,,,50,2022-11-21T06:43:37+00:00
+316295,SK-0004,small_airport,Hrabušice,48.969167,20.386389,,EU,Slovakia,SK,"Košice Region",SK-KI,KI,,0,,,,,,,50,2015-11-11T01:50:03+00:00
+316296,SK-0005,small_airport,"Kamenný Most",47.863889,18.65,,EU,Slovakia,SK,"Nitra Region",SK-NJ,NJ,,0,,,LZKMOS,,,,50,2022-12-05T08:39:09+00:00
+316297,SK-0006,small_airport,Krakovany,48.633889,17.732222,,EU,Slovakia,SK,"Trnava Region",SK-TA,TA,,0,,,,,,,50,2015-11-11T01:54:41+00:00
+316298,SK-0007,small_airport,"Malý Madaras",48.142222,17.377222,,EU,Slovakia,SK,"Bratislava Region",SK-BL,BL,,0,,,LZMADA,,,,50,2022-12-07T04:56:16+00:00
+316299,SK-0008,small_airport,Sládkovicovo,48.188889,17.633889,,EU,Slovakia,SK,"Trnava Region",SK-TA,TA,,0,,,,,,,50,2015-11-11T02:01:30+00:00
+316300,SK-0009,small_airport,"Tekovský Hrádok",48.171389,18.541667,,EU,Slovakia,SK,"Nitra Region",SK-NJ,NJ,,0,,,,,,,50,2015-11-11T02:03:43+00:00
+316302,SK-0011,small_airport,Želiezovce,48.047222,18.596111,,EU,Slovakia,SK,"Nitra Region",SK-NJ,NJ,,0,,,,,,,50,2015-11-11T02:12:55+00:00
+316323,CZ-0070,small_airport,"Stará voda",49.9971221,12.5773792,,EU,"Czech Republic",CZ,"Carlsbad Region",CZ-KA,KA,,0,,,,,,,50,2015-11-13T03:03:25+00:00
+316328,GB-0205,small_airport,"Nantclwyd Airstrip",53.0632694,-3.3232823,,EU,"United Kingdom",GB,Wales,GB-WLS,WLS,,0,,,,,,,50,2015-11-13T06:13:02+00:00
+316339,BG-0033,small_airport,Slivnitsa,42.844145,23.014444,,EU,Bulgaria,BG,"Sofia Province",BG-23,23,,0,LBSA,,,,,,50,2022-11-18T07:37:08+00:00
+316350,LKSP,small_airport,"Zlín Štípa",49.272778,17.746389,,EU,"Czech Republic",CZ,"Zlín Region",CZ-ZL,ZL,,0,,,LKSTIP,,,,50,2022-12-05T09:04:14+00:00
+316351,CZ-0071,small_airport,Vrátkov,50.039444,14.821667,1033,EU,"Czech Republic",CZ,"Central Bohemian Region",CZ-ST,ST,,0,,,LKVRAT,,,,50,2022-12-24T07:42:06+00:00
+316358,RS-0009,small_airport,"Banjički Vis Heliport",44.7623,20.4714,584,EU,Serbia,RS,"Beograd (city)",RS-00,00,,0,,,,,https://en.wikipedia.org/wiki/Banji%C4%8Dki_Vis_Military_Base,,50,2015-11-15T12:52:45+00:00
+316380,LBMO,small_airport,Montana,43.3826194,23.2632026,,EU,Bulgaria,BG,"Montana Province",BG-12,12,,0,LBMO,,,,,,50,2015-11-18T11:20:20+00:00
+316381,LBBQ,small_airport,Byala,43.4634836,25.7116132,,EU,Bulgaria,BG,"Ruse Province",BG-18,18,,0,LBBQ,,,,,,50,2015-11-18T11:26:35+00:00
+316382,GB-0206,small_airport,"Wingland Airfield",52.8138048,0.1148968,,EU,"United Kingdom",GB,England,GB-ENG,ENG,,0,,,,,,,50,2015-11-18T11:31:38+00:00
+316386,SE-0010,small_airport,"Vallentuna flygfält",59.541786,18.038661,43,EU,Sweden,SE,"Stockholms län",SE-AB,AB,,0,,,,,,,50,2023-03-02T04:27:21+00:00
+316401,LBBA,small_airport,"Bahovitsa Airfield",43.206111,24.655556,,EU,Bulgaria,BG,"Lovec Province",BG-11,11,,0,LBBA,,,,,,50,2021-01-28T23:13:40+00:00
+316402,LBDA,small_airport,"Daskal Atanasovo",42.3213889,25.8936111,129,EU,Bulgaria,BG,"Stara Zagora Province",BG-24,24,,0,LBDA,,,,,,50,2015-11-21T10:54:01+00:00
+316403,CA-0561,small_airport,"Griffith Island",44.830509924281,-80.900981183164,625,NA,Canada,CA,Ontario,CA-ON,ON,,0,,,,,,,50,2015-11-21T11:50:32+00:00
+316404,GB-0209,small_airport,"Watchford Farm Airstrip",50.9023839,-3.0981345,,EU,"United Kingdom",GB,England,GB-ENG,ENG,,0,,,,,,,50,2015-11-21T11:02:18+00:00
+316408,CA-0562,small_airport,"White Cloud Island",44.835907609474,-80.975400706753,,NA,Canada,CA,Ontario,CA-ON,ON,,0,,,,,,,50,2015-11-21T11:49:09+00:00
+316410,NO-0036,small_airport,"Ljørdalen Flyplass",61.3561484,12.7570594,,EU,Norway,NO,Innlandet,NO-34,34,,0,,,,,,,50,2015-11-21T11:56:36+00:00
+316412,DK-0002,closed,"Orø Flyveplads",55.78752,11.843064,,EU,Denmark,DK,"Capital Region",DK-84,84,,0,,,,,,,50,2023-04-06T05:41:48+00:00
+316429,UA-0083,small_airport,Filiutka,49.335903,29.270067,,EU,Ukraine,UA,"Vinnytsia Oblast",UA-05,05,,0,,,,,,,50,2015-11-28T01:54:33+00:00
+316435,GB-0215,small_airport,"Jubilee Farm Airstrip",52.6308036,0.0643512,,EU,"United Kingdom",GB,England,GB-ENG,ENG,,0,,,,,,,50,2015-11-28T08:23:15+00:00
+316438,CZ-0072,small_airport,"BURANOS Aires UL",50.008611,14.039167,1247,EU,"Czech Republic",CZ,"Central Bohemian Region",CZ-ST,ST,,0,,,,,,,50,2015-11-28T21:36:33+00:00
+316451,GB-0216,small_airport,"Ashley's Field Airstrip",53.2190693,0.2705275,,EU,"United Kingdom",GB,England,GB-ENG,ENG,,0,,,,,,,50,2015-12-01T13:30:34+00:00
+316452,GB-0217,small_airport,"Clutton Hill Airstrip",51.3414043,-2.522437,,EU,"United Kingdom",GB,England,GB-ENG,ENG,,0,,,,,,,50,2015-12-01T14:37:56+00:00
+316457,SE-0013,small_airport,Majfält-Ovansjö,62.235628,17.384825,108,EU,Sweden,SE,"Västernorrlands län",SE-Y,Y,,0,,,,https://www.facebook.com/SundsvallsFlygklubb/,,Majfält,50,2019-08-12T07:53:03+00:00
+316468,GB-0219,small_airport,"Rayne Hall Farm Airstrip",51.885975,0.5201017,,EU,"United Kingdom",GB,England,GB-ENG,ENG,,0,,,,,,,50,2015-12-05T06:03:46+00:00
+316469,GB-0220,small_airport,"Spence Airfield",51.8386485,-2.5914762,,EU,"United Kingdom",GB,England,GB-ENG,ENG,,0,,,,,,,50,2015-12-05T06:08:13+00:00
+316481,GB-0222,small_airport,"Tower Farm Airstrip",52.2593728,-0.6556195,,EU,"United Kingdom",GB,England,GB-ENG,ENG,,0,,,,,,,50,2015-12-07T10:49:41+00:00
+316482,GB-0223,small_airport,"Pent Farm Airstrip",51.1096929,1.0543112,,EU,"United Kingdom",GB,England,GB-ENG,ENG,,0,,,,https://tigerclub.co.uk,,"Tiger Club",50,2015-12-07T10:55:51+00:00
+316483,SE-0015,small_airport,"Orrlanda Flygfält",63.0928328,14.4414464,,EU,Sweden,SE,"Jämtlande län",SE-Z,Z,,0,,,,,,,50,2015-12-07T10:59:17+00:00
+316490,GB-0225,small_airport,"Stoodleigh Barton Private Airstrip",50.9572712,-3.5301848,,EU,"United Kingdom",GB,England,GB-ENG,ENG,,0,,,,,,,50,2015-12-08T11:38:07+00:00
+316491,GB-0226,small_airport,"Talybont Airstrip",52.6124101,-4.0750378,,EU,"United Kingdom",GB,Wales,GB-WLS,WLS,,0,,,,,,,50,2015-12-08T11:43:09+00:00
+316493,GB-0228,small_airport,"Redmoor Farm Airstrip",53.8404059,-0.9719151,,EU,"United Kingdom",GB,England,GB-ENG,ENG,,0,,,,,,,50,2015-12-08T11:50:40+00:00
+316495,SK-0013,small_airport,"Zborov Airfield",49.374106,21.292575,,EU,Slovakia,SK,"Prešov Region",SK-PV,PV,,0,,,,,,LZBA,50,2022-06-25T22:06:43+00:00
+316497,GB-0230,small_airport,"Oaklands Farm Airstrip",51.8471331,-1.4397248,,EU,"United Kingdom",GB,England,GB-ENG,ENG,,0,,,,,,,50,2015-12-08T14:42:36+00:00
+316516,GB-0231,small_airport,"Berrow Airstrip",52.0009216,-2.3568692,,EU,"United Kingdom",GB,England,GB-ENG,ENG,,0,,,,,,,50,2015-12-11T09:11:48+00:00
+316529,GB-0233,small_airport,"Old Hay Airfield",51.1787584,0.4256228,,EU,"United Kingdom",GB,England,GB-ENG,ENG,,0,,,,http://www.oldhayairfield.co.uk/,,,50,2015-12-12T10:44:05+00:00
+316530,GB-0234,small_airport,"Laddingford Aerodrome",51.1908,0.4128,,EU,"United Kingdom",GB,England,GB-ENG,ENG,,0,,,,,,,50,2015-12-12T10:50:49+00:00
+316531,GB-0235,small_airport,"High Cross Airstrip",51.850213,-0.003691,,EU,"United Kingdom",GB,England,GB-ENG,ENG,,0,,,,,,,50,2021-06-26T19:25:29+00:00
+316542,GB-0237,small_airport,"Little Chase Farm Airstrip",52.357319,-1.6209368,,EU,"United Kingdom",GB,England,GB-ENG,ENG,,0,,,,,,,50,2015-12-13T13:24:19+00:00
+316630,AU-0108,small_airport,"Wheeler Drome",-32.786914,115.910386,,OC,Australia,AU,"Western Australia",AU-WA,WA,,0,,,,,,,50,2016-01-04T03:47:05+00:00
+316631,AU-0109,small_airport,"Unknown Farm Strip",-33.094903,115.717181,,OC,Australia,AU,"Western Australia",AU-WA,WA,,0,,,,,,,50,2016-01-04T04:02:16+00:00
+316635,GB-0241,small_airport,"Taw Mill Airstrip",50.7764813,-3.9040791,,EU,"United Kingdom",GB,England,GB-ENG,ENG,,0,,,,,,,50,2016-01-05T10:47:07+00:00
+316636,GB-0242,small_airport,Nuthampstead,51.9952935,0.0701442,,EU,"United Kingdom",GB,England,GB-ENG,ENG,,0,,,,,,"RAF Nuthampstead",50,2016-01-05T13:00:37+00:00
+316639,NO-0038,small_airport,Masjok,70.2632144,28.1542476,,EU,Norway,NO,"Troms og Finnmark",NO-54,54,,0,,,,,,,50,2016-01-05T13:09:10+00:00
+316640,CZ-0075,small_airport,Slušovice,49.2588889,17.8133333,,EU,"Czech Republic",CZ,"Zlín Region",CZ-ZL,ZL,,0,,,,,,,50,2016-01-07T05:37:56+00:00
+316642,CZ-0077,small_airport,Chřibská,50.8580556,14.4669444,,EU,"Czech Republic",CZ,"Ústí nad Labem Region",CZ-US,US,,0,,,,,,,50,2016-01-07T05:42:27+00:00
+316643,CZ-0078,small_airport,Polepy,50.521389,14.271667,,EU,"Czech Republic",CZ,"Ústí nad Labem Region",CZ-US,US,,0,,,LKPOLE,,,,50,2022-12-24T15:54:20+00:00
+316644,CZ-0079,small_airport,Říčany,49.9744444,14.6491667,,EU,"Czech Republic",CZ,"Central Bohemian Region",CZ-ST,ST,,0,,,,,,,50,2016-01-07T05:46:29+00:00
+316645,CZ-0080,small_airport,Sázava,49.8877778,14.9394444,,EU,"Czech Republic",CZ,"Central Bohemian Region",CZ-ST,ST,,0,,,,,,,50,2016-01-07T05:48:18+00:00
+316646,CZ-0081,small_airport,Třebíč,49.198333,15.903056,,EU,"Czech Republic",CZ,"Vysočina Region",CZ-VY,VY,,0,,,LKTREB,,,,50,2022-12-05T09:05:10+00:00
+316647,EKFR,small_airport,Freerslev,55.898611,12.245,,EU,Denmark,DK,"Capital Region",DK-84,84,,0,EKFR,,,,,,50,2016-05-15T14:20:10+00:00
+316648,CZ-0082,small_airport,Borovník,49.358611,16.242222,,EU,"Czech Republic",CZ,"South Moravian Region",CZ-JM,JM,,0,,,LKBORO,,,,50,2022-12-05T08:35:21+00:00
+316649,CZ-0083,small_airport,Škudly,50.0219444,15.5205556,,EU,"Czech Republic",CZ,"Central Bohemian Region",CZ-ST,ST,,0,,,,,,,50,2016-01-07T10:19:13+00:00
+316650,CZ-0084,small_airport,Dačice,49.07,15.4558333,,EU,"Czech Republic",CZ,"South Bohemian Region",CZ-JC,JC,,0,,,,,,,50,2016-01-07T10:23:33+00:00
+316656,CZ-0085,small_airport,Jehnědí,49.965,16.3097222,,EU,"Czech Republic",CZ,"Pardubice Region",CZ-PA,PA,,0,,,,,,,50,2016-01-09T01:51:48+00:00
+316657,CZ-0086,small_airport,Kunětice,50.0683333,15.8125,,EU,"Czech Republic",CZ,"Pardubice Region",CZ-PA,PA,,0,,,,,,,50,2016-01-09T01:53:06+00:00
+316659,CZ-0088,small_airport,Letovice,49.5466667,16.5986111,,EU,"Czech Republic",CZ,"South Moravian Region",CZ-JM,JM,,0,,,,,,,50,2016-01-09T01:56:58+00:00
+316660,CZ-0089,small_airport,"Lomnice nad Popelkou",50.54,15.3880556,,EU,"Czech Republic",CZ,"Liberec Region",CZ-LI,LI,,0,,,,,,,50,2016-01-09T01:58:34+00:00
+316680,CZ-0090,small_airport,Boršice,49.051389,17.3675,,EU,"Czech Republic",CZ,"Zlín Region",CZ-ZL,ZL,,0,,,LKBORS,,,,50,2022-12-05T08:34:36+00:00
+316681,CZ-0091,small_airport,"Horní Počáply",50.4180556,14.3841667,,EU,"Czech Republic",CZ,"Central Bohemian Region",CZ-ST,ST,,0,,,,,,,50,2016-01-12T15:10:53+00:00
+316684,CZ-0092,small_airport,Strážnice,48.8877778,17.2944444,614,EU,"Czech Republic",CZ,"South Moravian Region",CZ-JM,JM,,0,,,,,,,50,2016-01-14T12:46:02+00:00
+316685,CZ-0093,small_airport,Boleradice,48.9619444,16.8316667,649,EU,"Czech Republic",CZ,"South Moravian Region",CZ-JM,JM,,0,,,,,,,50,2016-01-14T12:56:47+00:00
+316691,CZ-0094,small_airport,Opava,49.940556,17.986111,850,EU,"Czech Republic",CZ,"Moravian-Silesian Region",CZ-MO,MO,,0,,,LKOPAV,,,,50,2022-12-25T08:43:18+00:00
+316746,GB-0245,small_airport,"Peterlee Airfield",54.7668378,-1.3843768,,EU,"United Kingdom",GB,England,GB-ENG,ENG,,0,,,,,,,50,2016-01-20T10:33:38+00:00
+316785,CO-0052,small_airport,"Loreto North Airstrip",-3.524,-70.328,505,SA,Colombia,CO,"Amazonas Department",CO-AMA,AMA,,0,,,,,,,50,2016-01-23T10:40:42+00:00
+316786,CO-0053,closed,"Nugent Airstrip",-3.863,-70.04,415,NA,Colombia,CO,"Amazonas Department",CO-AMA,AMA,,0,,,,,,,50,2022-08-29T12:57:29+00:00
+316805,GB-0246,small_airport,"Wharf Farm Airstrip",52.6273132,-1.4184066,,EU,"United Kingdom",GB,England,GB-ENG,ENG,,0,,,,,,,50,2016-01-24T04:33:46+00:00
+316807,CZ-0095,small_airport,Doudleby,48.8851123,14.4862242,1542,EU,"Czech Republic",CZ,"South Bohemian Region",CZ-JC,JC,,0,,,,,,,50,2016-01-24T04:55:37+00:00
+316849,SE-0018,small_airport,"Frölunda Airfield",59.456951,17.707942,49,EU,Sweden,SE,"Stockholms län",SE-AB,AB,,0,,,,,,,50,2023-03-02T16:54:45+00:00
+316884,US-0285,small_airport,"Private strip nr Huntsville",30.79851,-95.54221,,NA,"United States",US,Texas,US-TX,TX,,0,,,,,,,50,2016-01-30T10:26:49+00:00
+317041,GB-0076,small_airport,"Lane Farm Airstrip",52.115335,-3.197891,,EU,"United Kingdom",GB,Wales,GB-WLS,WLS,,0,,,,,,,50,2016-02-19T17:05:37+00:00
+317378,GB-0251,small_airport,Chirk,52.9474365,-3.0460473,,EU,"United Kingdom",GB,Wales,GB-WLS,WLS,,0,,,,http://chirkairfield.wix.com/chirk-airfield#!,,,50,2016-03-28T06:44:27+00:00
+317424,UA-0085,small_airport,Iziaslav,50.1196431,26.8681069,,EU,Ukraine,UA,"Khmelnytskyi Oblast",UA-68,68,,0,,,,,,,50,2016-04-03T09:46:50+00:00
+317444,HU-0026,small_airport,Dány,47.50083,19.50529,,EU,Hungary,HU,"Pest County",HU-PE,PE,,0,,,,,,,50,2016-04-05T11:11:27+00:00
+317445,GB-0254,small_airport,"Gutchpool Farm Airstrip",51.0572904,-2.2334969,,EU,"United Kingdom",GB,England,GB-ENG,ENG,,0,,,,,,,50,2016-04-05T11:20:15+00:00
+317446,GB-0255,small_airport,"Gorrel Farm Airstrip",50.9438009,-4.386336,,EU,"United Kingdom",GB,England,GB-ENG,ENG,,0,,,,,,,50,2016-04-05T11:22:34+00:00
+317447,HU-0027,small_airport,Zalacsány,46.8009556,17.110511,,EU,Hungary,HU,"Zala County",HU-ZA,ZA,,0,,,,,,,50,2016-04-05T11:25:28+00:00
+317451,GB-0257,small_airport,"Stones Farm Airstrip",51.9891623,0.65789,,EU,"United Kingdom",GB,England,GB-ENG,ENG,,0,,,,,,,50,2016-04-05T14:36:41+00:00
+317452,GB-0258,small_airport,"Clipgate Farm Airstrip",51.1870367,1.153392,,EU,"United Kingdom",GB,England,GB-ENG,ENG,,0,,,,,,,50,2016-04-05T15:08:11+00:00
+317476,EGYO,small_airport,"North Coates",53.498,0.0625,,EU,"United Kingdom",GB,England,GB-ENG,ENG,,0,,,,http://www.northcoatesflyingclub.co.uk/,,EGYO,50,2023-04-03T05:02:34+00:00
+317510,BW-0009,small_airport,"Riverside North Airport",-25.2898,23.4725,3410,AF,Botswana,BW,"Kgalagadi District",BW-KG,KG,,0,,,,,,,50,2016-04-10T21:05:29+00:00
+317532,LHSB,small_airport,Szabadszállás,46.9002778,19.3663889,,EU,Hungary,HU,"Bács-Kiskun County",HU-BK,BK,,0,LHSB,,,,,,50,2016-04-13T08:08:48+00:00
+317554,LHCL,small_airport,Cegléd,47.160833,19.878611,315,EU,Hungary,HU,"Pest County",HU-PE,PE,,0,LHCL,,,,,,50,2016-05-31T11:34:47+00:00
+317555,LHFC,small_airport,Bodmér,47.44462,18.55632,492,EU,Hungary,HU,"Fejér County",HU-FE,FE,,0,LHFC,,,,,Felcsút,50,2016-05-31T11:36:32+00:00
+317557,LHKT,small_airport,Kadarkút,46.2462,17.6088,,EU,Hungary,HU,"Somogy County",HU-SO,SO,,0,LHKT,,,,,,50,2016-04-15T06:38:07+00:00
+317559,FBCH,small_airport,"Chobe Airport",-18.53402,23.659027,3113,AF,Botswana,BW,"North West District",BW-NW,NW,,0,FBCH,,,,,FB08,50,2016-04-16T17:18:30+00:00
+317566,LHSU,small_airport,Surjány,47.20072,20.48079,,EU,Hungary,HU,"Jász-Nagykun-Szolnok County",HU-JN,JN,,0,LHSU,,,,,,50,2016-04-15T13:42:17+00:00
+317567,LHSI,small_airport,Sitke,47.2355556,17.0263889,,EU,Hungary,HU,"Vas County",HU-VA,VA,,0,LHSI,,,,,,50,2016-04-15T13:52:20+00:00
+317573,GB-0261,small_airport,"Top Farm Airfield",52.1225417,-0.117631,,EU,"United Kingdom",GB,England,GB-ENG,ENG,,0,,,,,,,50,2016-04-15T15:15:35+00:00
+317574,GB-0262,small_airport,"Griffin's Farm Airstrip",53.0772962,-0.511852,,EU,"United Kingdom",GB,England,GB-ENG,ENG,,0,,,,,,"Temple Bruer",50,2016-04-15T15:23:53+00:00
+317592,GB-0265,small_airport,"Lower Withial Fram Airstrip",51.1253177,-2.5965937,,EU,"United Kingdom",GB,England,GB-ENG,ENG,,0,,,,,,,50,2016-04-16T01:41:39+00:00
+317632,GB-0267,small_airport,"Rosemarket Airstrip",51.74526,-4.9642344,,EU,"United Kingdom",GB,Wales,GB-WLS,WLS,,0,,,,,,,50,2016-04-19T13:33:42+00:00
+317665,GB-0269,small_airport,"Ince Blundell Microlight",53.5355556,-3.0297222,10,EU,"United Kingdom",GB,England,GB-ENG,ENG,,0,,,,http://www.wlms.co.uk,,"West Lancashire Microlight School",50,2016-04-22T08:43:17+00:00
+317671,BW-0017,small_airport,"Khwai North Airport",-19.041,23.8339,3090,AF,Botswana,BW,"North West District",BW-NW,NW,,0,,,,,,,50,2016-04-22T12:39:13+00:00
+317681,CZ-0096,small_airport,Hory,50.21695,12.77669,,EU,"Czech Republic",CZ,"Carlsbad Region",CZ-KA,KA,,0,,,LKHORY,,,,50,2022-12-26T05:09:32+00:00
+46590,CEL8,small_airport,Eleonore,52.718306623,-76.07980728150001,750,NA,Canada,CA,Quebec,CA-QC,QC,,0,CEL8,,,,,,50,2010-12-24T16:21:49+00:00
+46592,CNP6,small_airport,"Nampa / Hockey",55.914900566,-117.136155367,2050,NA,Canada,CA,Alberta,CA-AB,AB,,0,CNP6,,,,,np6,50,2010-12-24T16:41:23+00:00
+46595,CTF4,small_airport,"Dundalk (Tripp Field)",44.174386397199996,-80.3079128265,1700,NA,Canada,CA,Ontario,CA-ON,ON,,0,CTF4,,,,,tf4,50,2010-12-24T16:54:13+00:00
+46601,CPK9,small_airport,"Arthur (Peskett Field)",43.7715431648,-80.4835224152,1555,NA,Canada,CA,Ontario,CA-ON,ON,,0,CPK9,,,,,PK9,50,2010-12-24T17:38:25+00:00
+46602,CBF2,small_airport,"Belwood (Baird Field)",43.808333333,-80.3119444444,1410,NA,Canada,CA,Ontario,CA-ON,ON,,0,CBF2,,,,,bf2,50,2010-12-24T17:42:18+00:00
+46603,CEF2,small_airport,"Belwood (Ellen Field)",43.837235430599996,-80.3694534302,1540,NA,Canada,CA,Ontario,CA-ON,ON,,0,CEF2,,,,,ef2,50,2010-12-24T17:44:52+00:00
+46613,CGV2,small_airport,"Grand Valley / Luther Field",43.976388889,-80.38527778,1602,NA,Canada,CA,Ontario,CA-ON,ON,,0,CGV2,,,,,gv2,50,2010-12-26T14:40:37+00:00
+46617,COB4,small_airport,"Orangeville / Brundle Field",43.8745094139,-80.1798963547,1630,NA,Canada,CA,Ontario,CA-ON,ON,,0,COB4,,,,,ob4,50,2010-12-26T15:07:01+00:00
+46618,CPY9,small_airport,"Fergus (Holyoake Airfield)",43.728611111,-80.28305555559999,1380,NA,Canada,CA,Ontario,CA-ON,ON,,0,CPY9,,,,,py9,50,2010-12-26T15:11:44+00:00
+46623,IN-0060,small_airport,"Khargon Govt. Airstrip",21.810030194599996,75.55443763730001,,AS,India,IN,"Madhya Pradesh",IN-MP,MP,,0,,,,,,"Khargon, Khargone, Khargoan",50,2010-12-27T06:18:15+00:00
+46626,CPR9,small_airport,"Fergus (Royland Field)",43.74175499689999,-80.38620114330001,1400,NA,Canada,CA,Ontario,CA-ON,ON,,0,CPR9,,,,,pr9,50,2010-12-27T14:57:56+00:00
+46627,CVF2,small_airport,"Fergus (Vodarek Field)",43.7232733033,-80.28937339779999,1380,NA,Canada,CA,Ontario,CA-ON,ON,,0,CVF2,,,,,vf2,50,2010-12-27T15:04:42+00:00
+46630,CA-0448,small_airport,"Willow Lake Airstrip",43.166812906299995,-80.7752287388,,NA,Canada,CA,Ontario,CA-ON,ON,,0,,,,,,,50,2011-01-04T22:42:39+00:00
+298376,CHM2,small_airport,"Spiritwood / H & M Fast Farms",53.275,-107.570278,2250,NA,Canada,CA,Saskatchewan,CA-SK,SK,,0,CHM2,,CHM2,,https://en.wikipedia.org/wiki/Spiritwood/H_%26_M_Fast_Farms_Aerodrome,HM2,50,2016-10-07T19:53:54+00:00
+298378,CMF3,small_airport,"Lethbridge (Mercer Field)",49.5548112877,-112.561540604,3085,NA,Canada,CA,Alberta,CA-AB,AB,,0,CMF3,,MF3,,,,50,2011-04-21T23:17:53+00:00
+298381,CA-0459,small_airport,"Seagrave / North Port Airfield",44.166891,-78.93503,1198,NA,Canada,CA,Ontario,CA-ON,ON,,0,CNP4,,,,,,50,2023-05-07T15:36:46+00:00
+298396,CA-0466,small_airport,"Hampton / Morawetz Field",43.982038338,-78.81718397139998,,NA,Canada,CA,Ontario,CA-ON,ON,,0,,,,,,,50,2011-04-23T15:15:17+00:00
+298400,CA-0469,small_airport,"Belle River Field",42.245166587,-82.72061347959999,,NA,Canada,CA,Ontario,CA-ON,ON,,0,,,,,,,50,2011-04-23T17:33:21+00:00
+298401,CA-0470,small_airport,"Ruscom Station Field",42.1883059789,-82.673470974,,NA,Canada,CA,Ontario,CA-ON,ON,,0,,,,,,,50,2011-04-23T17:35:47+00:00
+298403,CA-0472,small_airport,"Tyneside Field",43.1022832509,-79.87678527830002,,NA,Canada,CA,Ontario,CA-ON,ON,,0,,,,,,,50,2011-04-23T17:47:11+00:00
+298546,CA-0482,small_airport,"Brussels / Hemingway Field",43.718512413199996,-81.23827457430001,,NA,Canada,CA,Ontario,CA-ON,ON,,0,,,,http://www.hemingwayaviation.com/index.php,,,50,2011-05-28T23:47:00+00:00
+298576,AU-0049,small_airport,"Kooringal Airstrip",-27.3458333333,153.425833333,25,OC,Australia,AU,Queensland,AU-QLD,QLD,,0,,,,,,,50,2011-06-04T12:15:49+00:00
+298807,YBCM,small_airport,Coominya,-27.3907447666,152.466545105,340,OC,Australia,AU,Queensland,AU-QLD,QLD,,0,YBCM,,,,,,50,2011-07-01T03:20:05+00:00
+298810,YBFT,small_airport,Beaufort,-37.495,143.43,1300,OC,Australia,AU,Victoria,AU-VIC,VIC,,0,YBFT,,,,,,50,2011-07-01T05:00:15+00:00
+298812,YBID,small_airport,Binda,-34.30256,149.357668,2450,OC,Australia,AU,"New South Wales",AU-NSW,NSW,,0,YBID,,,,,,50,2022-02-08T00:57:01+00:00
+298814,CA-0492,small_airport,"Douro Airfield",44.3838238978,-78.1574678421,,NA,Canada,CA,Ontario,CA-ON,ON,,0,,,,,,,50,2011-07-02T13:11:48+00:00
+298925,AU-0052,small_airport,"Lake Omeo Dry Lake Ultralightport",-36.9617573795,147.672729492,,OC,Australia,AU,Victoria,AU-VIC,VIC,,0,,,,,,,50,2011-07-18T11:32:17+00:00
+298927,AU-0053,small_airport,"Snowy Range Airfield",-37.3485734147,146.766046286,5200,OC,Australia,AU,Victoria,AU-VIC,VIC,,0,,,,,,"Victorian Aerial Fire Bases",50,2011-07-18T13:33:41+00:00
+299001,CA-0495,small_airport,"Selby - Howard's Airstrip",44.3151588418,-76.9580966234,,NA,Canada,CA,Ontario,CA-ON,ON,,0,,,,,,,50,2011-07-29T22:25:43+00:00
+299264,cln4,small_airport,"Beaverlodge / Clanachan Field",55.2344931,-119.841591,2694,NA,Canada,CA,Alberta,CA-AB,AB,,0,CLN4,,CLN4,,,,50,2016-09-04T10:43:07+00:00
+299277,cwf2,small_airport,"Walter's Falls (Piper Way) Airfield",44.463879951,-80.62147378920001,1400,NA,Canada,CA,Ontario,CA-ON,ON,,0,CWF2,,,,,,50,2011-08-28T15:25:51+00:00
+299562,CA-0502,small_airport,"Combermere / Bonnie Brae Airfield",45.374473,-77.723229,1545,NA,Canada,CA,Ontario,CA-ON,ON,,0,CMB8,,CMB8,,,,50,2019-09-22T10:42:06+00:00
+300226,CBW6,small_airport,"Belwood (Wright Field)",43.793888889,-80.4025,1490,NA,Canada,CA,Ontario,CA-ON,ON,,0,CBW6,,CBW6,,,,50,2011-12-22T18:33:30+00:00
+301001,SE-0007,small_airport,"Staffanstorp Bjällerup Field",55.658778215299996,13.2649612427,,EU,Sweden,SE,"Skåne län",SE-M,M,,0,,,,,,,50,2012-03-21T08:34:21+00:00
+301046,IN-0072,small_airport,"Raigarh Airport (JSPL)",21.9352805556,83.3502138889,,AS,India,IN,Chhattisgarh,IN-CT,CT,,0,,,,,,,50,2012-03-25T04:14:07+00:00
+301115,ENJA,small_airport,"Jan Mayensfield",70.944117,-8.652074,39,EU,Norway,NO,"Jan Mayen",NO-22,22,,0,ENJA,,,http://www.jan-mayen.no/,https://en.wikipedia.org/wiki/Jan_Mayensfield,"Jan Mayen",50,2022-11-22T15:31:43+00:00
+301206,74xa,small_airport,"Gun Barrel City Airpark",32.35515,-96.145665,385,NA,"United States",US,Texas,US-TX,TX,,0,74XA,,,,,"Harbor Point Airport",50,2021-01-11T15:09:43+00:00
+301229,CRL7,small_airport,"Reindeer Lake / Lindbergh Lodge Airstrip",57.28805555,-102.525,1128,NA,Canada,CA,Saskatchewan,CA-SK,SK,,0,CRL7,,,,,,50,2012-04-17T15:17:50+00:00
+301231,CTY4,small_airport,"Olds / North 40 Ranch Airstrip",51.9001705129,-114.147820473,3410,NA,Canada,CA,Alberta,CA-AB,AB,,0,CTY4,,,,,,50,2012-04-17T15:22:42+00:00
+301235,79ID,small_airport,"Kooskia (Clear Creek Int) Airport",46.0488642914,-115.869691372,1800,NA,"United States",US,Idaho,US-ID,ID,,0,79ID,,,,,,50,2012-04-18T15:11:49+00:00
+301238,8FA4,small_airport,"Samsula / Coe Field",29.009948,-81.133869,40,NA,"United States",US,Florida,US-FL,FL,,0,8FA4,,,,,,50,2021-03-26T18:24:25+00:00
+301242,WT21,small_airport,"Deer Park / Radial Flyer Airport",47.894536,-117.439807,2060,NA,"United States",US,Washington,US-WA,WA,,0,WT21,,,,,,50,2012-04-18T15:28:23+00:00
 301322,cnl7,small_airport,"Nobel / Lumsden Air Park",45.4083333,-80.0780555,720,NA,Canada,CA,Ontario,CA-ON,ON,,0,CNL7,,,,,,50,2012-04-29T15:39:14+00:00
 301323,crs7,small_airport,"Matoush Airport",51.905,-72.12388888,2608,NA,Canada,CA,Quebec,CA-QC,QC,,0,CRS7,,,,,,50,2012-04-29T15:42:58+00:00
 301431,YBUY,small_airport,"Bunyan Airfield",-36.1342008376,149.131979942,2540,OC,Australia,AU,"New South Wales",AU-NSW,NSW,,0,YBUY,,,http://canberragliding.org,,"canberra gliding club",50,2012-05-13T00:03:58+00:00
@@ -17778,68 +17943,6 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,country_nam
 308117,PG-0047,small_airport,"Arkosame Airstrip",-3.777177,142.622672,622,OC,"Papua New Guinea",PG,"Sandaun Province",PG-SAN,SAN,,0,AYAV,,ARK,,,,50,2013-12-10T01:10:27+00:00
 308160,FABG,small_airport,"Buffelshoek Airport",-24.702464,31.587875,1347,AF,"South Africa",ZA,Mpumalanga,ZA-MP,MP,,0,FABG,,,,,,50,2012-12-16T12:44:14+00:00
 308179,DE-0042,small_airport,"Segelflugplatz Weißenburg-Wülzburg",49.025851,11.018746,2027,EU,Germany,DE,Bavaria,DE-BY,BY,,0,,,,,,,50,2020-04-28T05:20:01+00:00
-46590,CEL8,small_airport,Eleonore,52.718306623,-76.07980728150001,750,NA,Canada,CA,Quebec,CA-QC,QC,,0,CEL8,,,,,,50,2010-12-24T16:21:49+00:00
-46592,CNP6,small_airport,"Nampa / Hockey",55.914900566,-117.136155367,2050,NA,Canada,CA,Alberta,CA-AB,AB,,0,CNP6,,,,,np6,50,2010-12-24T16:41:23+00:00
-46595,CTF4,small_airport,"Dundalk (Tripp Field)",44.174386397199996,-80.3079128265,1700,NA,Canada,CA,Ontario,CA-ON,ON,,0,CTF4,,,,,tf4,50,2010-12-24T16:54:13+00:00
-46601,CPK9,small_airport,"Arthur (Peskett Field)",43.7715431648,-80.4835224152,1555,NA,Canada,CA,Ontario,CA-ON,ON,,0,CPK9,,,,,PK9,50,2010-12-24T17:38:25+00:00
-46602,CBF2,small_airport,"Belwood (Baird Field)",43.808333333,-80.3119444444,1410,NA,Canada,CA,Ontario,CA-ON,ON,,0,CBF2,,,,,bf2,50,2010-12-24T17:42:18+00:00
-46603,CEF2,small_airport,"Belwood (Ellen Field)",43.837235430599996,-80.3694534302,1540,NA,Canada,CA,Ontario,CA-ON,ON,,0,CEF2,,,,,ef2,50,2010-12-24T17:44:52+00:00
-46613,CGV2,small_airport,"Grand Valley / Luther Field",43.976388889,-80.38527778,1602,NA,Canada,CA,Ontario,CA-ON,ON,,0,CGV2,,,,,gv2,50,2010-12-26T14:40:37+00:00
-46617,COB4,small_airport,"Orangeville / Brundle Field",43.8745094139,-80.1798963547,1630,NA,Canada,CA,Ontario,CA-ON,ON,,0,COB4,,,,,ob4,50,2010-12-26T15:07:01+00:00
-46618,CPY9,small_airport,"Fergus (Holyoake Airfield)",43.728611111,-80.28305555559999,1380,NA,Canada,CA,Ontario,CA-ON,ON,,0,CPY9,,,,,py9,50,2010-12-26T15:11:44+00:00
-46623,IN-0060,small_airport,"Khargon Govt. Airstrip",21.810030194599996,75.55443763730001,,AS,India,IN,"Madhya Pradesh",IN-MP,MP,,0,,,,,,"Khargon, Khargone, Khargoan",50,2010-12-27T06:18:15+00:00
-46626,CPR9,small_airport,"Fergus (Royland Field)",43.74175499689999,-80.38620114330001,1400,NA,Canada,CA,Ontario,CA-ON,ON,,0,CPR9,,,,,pr9,50,2010-12-27T14:57:56+00:00
-46627,CVF2,small_airport,"Fergus (Vodarek Field)",43.7232733033,-80.28937339779999,1380,NA,Canada,CA,Ontario,CA-ON,ON,,0,CVF2,,,,,vf2,50,2010-12-27T15:04:42+00:00
-46630,CA-0448,small_airport,"Willow Lake Airstrip",43.166812906299995,-80.7752287388,,NA,Canada,CA,Ontario,CA-ON,ON,,0,,,,,,,50,2011-01-04T22:42:39+00:00
-298376,CHM2,small_airport,"Spiritwood / H & M Fast Farms",53.275,-107.570278,2250,NA,Canada,CA,Saskatchewan,CA-SK,SK,,0,CHM2,,CHM2,,https://en.wikipedia.org/wiki/Spiritwood/H_%26_M_Fast_Farms_Aerodrome,HM2,50,2016-10-07T19:53:54+00:00
-298378,CMF3,small_airport,"Lethbridge (Mercer Field)",49.5548112877,-112.561540604,3085,NA,Canada,CA,Alberta,CA-AB,AB,,0,CMF3,,MF3,,,,50,2011-04-21T23:17:53+00:00
-298381,CA-0459,small_airport,"Seagrave / North Port Airfield",44.166891,-78.93503,1198,NA,Canada,CA,Ontario,CA-ON,ON,,0,CNP4,,,,,,50,2023-05-07T15:36:46+00:00
-298396,CA-0466,small_airport,"Hampton / Morawetz Field",43.982038338,-78.81718397139998,,NA,Canada,CA,Ontario,CA-ON,ON,,0,,,,,,,50,2011-04-23T15:15:17+00:00
-298400,CA-0469,small_airport,"Belle River Field",42.245166587,-82.72061347959999,,NA,Canada,CA,Ontario,CA-ON,ON,,0,,,,,,,50,2011-04-23T17:33:21+00:00
-298401,CA-0470,small_airport,"Ruscom Station Field",42.1883059789,-82.673470974,,NA,Canada,CA,Ontario,CA-ON,ON,,0,,,,,,,50,2011-04-23T17:35:47+00:00
-298403,CA-0472,small_airport,"Tyneside Field",43.1022832509,-79.87678527830002,,NA,Canada,CA,Ontario,CA-ON,ON,,0,,,,,,,50,2011-04-23T17:47:11+00:00
-298546,CA-0482,small_airport,"Brussels / Hemingway Field",43.718512413199996,-81.23827457430001,,NA,Canada,CA,Ontario,CA-ON,ON,,0,,,,http://www.hemingwayaviation.com/index.php,,,50,2011-05-28T23:47:00+00:00
-298576,AU-0049,small_airport,"Kooringal Airstrip",-27.3458333333,153.425833333,25,OC,Australia,AU,Queensland,AU-QLD,QLD,,0,,,,,,,50,2011-06-04T12:15:49+00:00
-298807,YBCM,small_airport,Coominya,-27.3907447666,152.466545105,340,OC,Australia,AU,Queensland,AU-QLD,QLD,,0,YBCM,,,,,,50,2011-07-01T03:20:05+00:00
-298810,YBFT,small_airport,Beaufort,-37.495,143.43,1300,OC,Australia,AU,Victoria,AU-VIC,VIC,,0,YBFT,,,,,,50,2011-07-01T05:00:15+00:00
-298812,YBID,small_airport,Binda,-34.30256,149.357668,2450,OC,Australia,AU,"New South Wales",AU-NSW,NSW,,0,YBID,,,,,,50,2022-02-08T00:57:01+00:00
-298814,CA-0492,small_airport,"Douro Airfield",44.3838238978,-78.1574678421,,NA,Canada,CA,Ontario,CA-ON,ON,,0,,,,,,,50,2011-07-02T13:11:48+00:00
-298925,AU-0052,small_airport,"Lake Omeo Dry Lake Ultralightport",-36.9617573795,147.672729492,,OC,Australia,AU,Victoria,AU-VIC,VIC,,0,,,,,,,50,2011-07-18T11:32:17+00:00
-298927,AU-0053,small_airport,"Snowy Range Airfield",-37.3485734147,146.766046286,5200,OC,Australia,AU,Victoria,AU-VIC,VIC,,0,,,,,,"Victorian Aerial Fire Bases",50,2011-07-18T13:33:41+00:00
-299001,CA-0495,small_airport,"Selby - Howard's Airstrip",44.3151588418,-76.9580966234,,NA,Canada,CA,Ontario,CA-ON,ON,,0,,,,,,,50,2011-07-29T22:25:43+00:00
-299264,cln4,small_airport,"Beaverlodge / Clanachan Field",55.2344931,-119.841591,2694,NA,Canada,CA,Alberta,CA-AB,AB,,0,CLN4,,CLN4,,,,50,2016-09-04T10:43:07+00:00
-299277,cwf2,small_airport,"Walter's Falls (Piper Way) Airfield",44.463879951,-80.62147378920001,1400,NA,Canada,CA,Ontario,CA-ON,ON,,0,CWF2,,,,,,50,2011-08-28T15:25:51+00:00
-299562,CA-0502,small_airport,"Combermere / Bonnie Brae Airfield",45.374473,-77.723229,1545,NA,Canada,CA,Ontario,CA-ON,ON,,0,CMB8,,CMB8,,,,50,2019-09-22T10:42:06+00:00
-300226,CBW6,small_airport,"Belwood (Wright Field)",43.793888889,-80.4025,1490,NA,Canada,CA,Ontario,CA-ON,ON,,0,CBW6,,CBW6,,,,50,2011-12-22T18:33:30+00:00
-301001,SE-0007,small_airport,"Staffanstorp Bjällerup Field",55.658778215299996,13.2649612427,,EU,Sweden,SE,"Skåne län",SE-M,M,,0,,,,,,,50,2012-03-21T08:34:21+00:00
-301046,IN-0072,small_airport,"Raigarh Airport (JSPL)",21.9352805556,83.3502138889,,AS,India,IN,Chhattisgarh,IN-CT,CT,,0,,,,,,,50,2012-03-25T04:14:07+00:00
-301115,ENJA,small_airport,"Jan Mayensfield",70.944117,-8.652074,39,EU,Norway,NO,"Jan Mayen",NO-22,22,,0,ENJA,,,http://www.jan-mayen.no/,https://en.wikipedia.org/wiki/Jan_Mayensfield,"Jan Mayen",50,2022-11-22T15:31:43+00:00
-301206,74xa,small_airport,"Gun Barrel City Airpark",32.35515,-96.145665,385,NA,"United States",US,Texas,US-TX,TX,,0,74XA,,,,,"Harbor Point Airport",50,2021-01-11T15:09:43+00:00
-301229,CRL7,small_airport,"Reindeer Lake / Lindbergh Lodge Airstrip",57.28805555,-102.525,1128,NA,Canada,CA,Saskatchewan,CA-SK,SK,,0,CRL7,,,,,,50,2012-04-17T15:17:50+00:00
-301231,CTY4,small_airport,"Olds / North 40 Ranch Airstrip",51.9001705129,-114.147820473,3410,NA,Canada,CA,Alberta,CA-AB,AB,,0,CTY4,,,,,,50,2012-04-17T15:22:42+00:00
-301235,79ID,small_airport,"Kooskia (Clear Creek Int) Airport",46.0488642914,-115.869691372,1800,NA,"United States",US,Idaho,US-ID,ID,,0,79ID,,,,,,50,2012-04-18T15:11:49+00:00
-301238,8FA4,small_airport,"Samsula / Coe Field",29.009948,-81.133869,40,NA,"United States",US,Florida,US-FL,FL,,0,8FA4,,,,,,50,2021-03-26T18:24:25+00:00
-301242,WT21,small_airport,"Deer Park / Radial Flyer Airport",47.894536,-117.439807,2060,NA,"United States",US,Washington,US-WA,WA,,0,WT21,,,,,,50,2012-04-18T15:28:23+00:00
-308207,EG3L,small_airport,"Milfield Glider Field",55.591636,-2.087231,,EU,"United Kingdom",GB,England,GB-ENG,ENG,,0,,,,,,EGEX,50,2023-04-03T04:57:27+00:00
-308213,AYBW,small_airport,"Blackwara Airport",-2.618211,141.091971,58,OC,"Papua New Guinea",PG,"Sandaun Province",PG-SAN,SAN,,0,AYBW,,,,,,50,2013-01-13T09:17:06+00:00
-308246,GB-0150,small_airport,"Knockrome Airstrip",55.8724818818,-5.9216308593800004,,EU,"United Kingdom",GB,Scotland,GB-SCT,SCT,,0,,,,,,Jura,50,2013-02-04T10:18:46+00:00
-308250,TD-0001,small_airport,"Aozou Airstrip",22.645195,17.696527,,AF,Chad,TD,Tibesti,TD-TI,TI,,0,,,,,,,50,2013-02-06T06:31:05+00:00
-308251,LY-0003,small_airport,"Gabr Airstrip",29.873888,23.347918,,AF,Libya,LY,"Al Butnan District",LY-BU,BU,,0,,,,,,,50,2013-02-06T06:56:38+00:00
-308261,SGPG,small_airport,"Aeropista Pelayo Prats Gill",-22.559962,-61.611972,690,SA,Paraguay,PY,"Boquerón Department",PY-19,19,,0,SGPG,,,,,,50,2022-12-19T11:16:55+00:00
-308283,LNF,small_airport,"Munbil Airport",-4.855941,141.220165,3126,OC,"Papua New Guinea",PG,"Sandaun Province",PG-SAN,SAN,,0,AYYM,LNF,MBL,,,,50,2019-04-13T21:22:43+00:00
-308291,VNKL,small_airport,"Kangel Danda Airport",27.4106333137,86.6465950012,,AS,Nepal,NP,"Province No. 1",NP-P1,P1,,0,VNKL,,,,,,50,2013-03-01T10:51:15+00:00
-308295,CHC5,small_airport,"Hayes Camp Aerodrome",66.655556,-91.545,780,NA,Canada,CA,Nunavut,CA-NU,NU,,0,CHC5,,CHC5,,https://en.wikipedia.org/wiki/Hayes_Camp_Aerodrome,,50,2013-03-02T23:38:30+00:00
-308296,CGS2,small_airport,"Goose Lake Aerodrome",65.552778,-106.433611,907,NA,Canada,CA,Nunavut,CA-NU,NU,,0,CGS2,,CGS2,,https://en.wikipedia.org/wiki/Goose_Lake_Aerodrome,,50,2013-03-02T23:47:10+00:00
-308297,CGR3,small_airport,"George Lake Aerodrome",65.928056,-107.462222,1150,NA,Canada,CA,Nunavut,CA-NU,NU,,0,CGR3,,CGR3,,https://en.wikipedia.org/wiki/George_Lake_Aerodrome,,50,2022-01-12T23:14:45+00:00
-308305,SS-0007,small_airport,"Pieri Airstrip",8.04048,32.028816,1347,AF,"South Sudan",SS,"Upper Nile State",SS-23,23,,0,HJPR,,,,,,50,2022-04-21T17:37:52+00:00
-308308,SS-0010,small_airport,"Mogok Airstrip",8.413961,31.33333,1331,AF,"South Sudan",SS,"Jonglei State",SS-20,20,,0,HJMG,,,,,,50,2022-04-21T14:53:05+00:00
-308310,SS-0012,small_airport,"Buk Airfield",8.01095641186,31.428108215299996,,AF,"South Sudan",SS,"Jonglei State",SS-20,20,,0,,,,,,,50,2013-03-04T08:13:27+00:00
-308311,SS-0013,small_airport,"Pathai Airstrip",8.06976738146,31.8386363983,,AF,"South Sudan",SS,"Jonglei State",SS-20,20,,0,,,,,,,50,2013-03-04T08:20:56+00:00
-308907,LT-0003,small_airport,"Trakėnai Airstrip",54.365886,23.167256,,EU,Lithuania,LT,"Marijampolė County",LT-MR,MR,,0,,,,,,"trakenai, kalvarija",50,2023-02-25T05:43:14+00:00
-309385,DE-0077,small_airport,"Büchig Airfield",50.4483,10.2526,1280,EU,Germany,DE,Bavaria,DE-BY,BY,,0,,,,,,,50,2013-08-18T14:22:10+00:00
-309571,MZE,small_airport,"Manatee Airport",17.27846,-89.0238,343,NA,Belize,BZ,"Cayo District",BZ-CY,CY,,0,,MZE,,,https://en.wikipedia.org/wiki/Manatee_Airport,,50,2013-09-14T18:58:18+00:00
-309587,IN-0086,small_airport,"CHINDWARA AIRFIELD",22,78.93,,AS,India,IN,"Madhya Pradesh",IN-MP,MP,,0,,,,,,,50,2013-09-16T09:13:32+00:00
-309715,RPVQ,small_airport,"Biliran Airport",11.5159178299,124.428985119,,AS,Philippines,PH,"Biliran Province",PH-BIL,BIL,,0,RPVQ,,,,https://en.wikipedia.org/wiki/Biliran_Airport,,50,2013-10-06T08:26:17+00:00
 313008,AR-0497,small_airport,"Hipólito Yrigoyen Lago Posadas Airport",-47.565833,-71.74,,SA,Argentina,AR,"Santa Cruz Province",AR-Z,Z,,0,,,,,,,50,2014-10-06T18:55:07+00:00
 313090,AR-0502,small_airport,Telsen,-42.383333,-66.95,,SA,Argentina,AR,"Chubut Province",AR-U,U,,0,,,,,,,50,2014-10-20T16:22:36+00:00
 313092,AR-0504,small_airport,"Gastre Field",-42.276165,-69.221892,,SA,Argentina,AR,"Chubut Province",AR-U,U,,0,,,,,,,50,2014-10-20T16:39:33+00:00
@@ -17983,108 +18086,6 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,country_nam
 316246,BG-0030,small_airport,Bozhurishte,42.7533821,23.2028015,,EU,Bulgaria,BG,"Sofia Province",BG-23,23,,0,,,,,,,50,2015-11-07T07:39:03+00:00
 316280,UA-0079,small_airport,Andrushivka,50.0193428,28.9912024,,EU,Ukraine,UA,"Zhytomyr Oblast",UA-18,18,,0,,,,,,,50,2015-11-09T02:34:20+00:00
 316288,BG-0032,small_airport,Breznik,42.6933052,22.8965594,699,EU,Bulgaria,BG,"Pernik Province",BG-14,14,,0,LBBR,,,,,,50,2015-11-10T04:15:47+00:00
-316294,SK-0003,small_airport,"Dunajská Streda",48.018056,17.613056,,EU,Slovakia,SK,"Trnava Region",SK-TA,TA,,0,LZDU,,,,,,50,2022-11-21T06:43:37+00:00
-316295,SK-0004,small_airport,Hrabušice,48.969167,20.386389,,EU,Slovakia,SK,"Košice Region",SK-KI,KI,,0,,,,,,,50,2015-11-11T01:50:03+00:00
-316296,SK-0005,small_airport,"Kamenný Most",47.863889,18.65,,EU,Slovakia,SK,"Nitra Region",SK-NJ,NJ,,0,,,LZKMOS,,,,50,2022-12-05T08:39:09+00:00
-316297,SK-0006,small_airport,Krakovany,48.633889,17.732222,,EU,Slovakia,SK,"Trnava Region",SK-TA,TA,,0,,,,,,,50,2015-11-11T01:54:41+00:00
-316298,SK-0007,small_airport,"Malý Madaras",48.142222,17.377222,,EU,Slovakia,SK,"Bratislava Region",SK-BL,BL,,0,,,LZMADA,,,,50,2022-12-07T04:56:16+00:00
-316299,SK-0008,small_airport,Sládkovicovo,48.188889,17.633889,,EU,Slovakia,SK,"Trnava Region",SK-TA,TA,,0,,,,,,,50,2015-11-11T02:01:30+00:00
-316300,SK-0009,small_airport,"Tekovský Hrádok",48.171389,18.541667,,EU,Slovakia,SK,"Nitra Region",SK-NJ,NJ,,0,,,,,,,50,2015-11-11T02:03:43+00:00
-316302,SK-0011,small_airport,Želiezovce,48.047222,18.596111,,EU,Slovakia,SK,"Nitra Region",SK-NJ,NJ,,0,,,,,,,50,2015-11-11T02:12:55+00:00
-316323,CZ-0070,small_airport,"Stará voda",49.9971221,12.5773792,,EU,"Czech Republic",CZ,"Carlsbad Region",CZ-KA,KA,,0,,,,,,,50,2015-11-13T03:03:25+00:00
-316328,GB-0205,small_airport,"Nantclwyd Airstrip",53.0632694,-3.3232823,,EU,"United Kingdom",GB,Wales,GB-WLS,WLS,,0,,,,,,,50,2015-11-13T06:13:02+00:00
-316339,BG-0033,small_airport,Slivnitsa,42.844145,23.014444,,EU,Bulgaria,BG,"Sofia Province",BG-23,23,,0,LBSA,,,,,,50,2022-11-18T07:37:08+00:00
-316350,LKSP,small_airport,"Zlín Štípa",49.272778,17.746389,,EU,"Czech Republic",CZ,"Zlín Region",CZ-ZL,ZL,,0,,,LKSTIP,,,,50,2022-12-05T09:04:14+00:00
-316351,CZ-0071,small_airport,Vrátkov,50.039444,14.821667,1033,EU,"Czech Republic",CZ,"Central Bohemian Region",CZ-ST,ST,,0,,,LKVRAT,,,,50,2022-12-24T07:42:06+00:00
-316358,RS-0009,small_airport,"Banjički Vis Heliport",44.7623,20.4714,584,EU,Serbia,RS,"Beograd (city)",RS-00,00,,0,,,,,https://en.wikipedia.org/wiki/Banji%C4%8Dki_Vis_Military_Base,,50,2015-11-15T12:52:45+00:00
-316380,LBMO,small_airport,Montana,43.3826194,23.2632026,,EU,Bulgaria,BG,"Montana Province",BG-12,12,,0,LBMO,,,,,,50,2015-11-18T11:20:20+00:00
-316381,LBBQ,small_airport,Byala,43.4634836,25.7116132,,EU,Bulgaria,BG,"Ruse Province",BG-18,18,,0,LBBQ,,,,,,50,2015-11-18T11:26:35+00:00
-316382,GB-0206,small_airport,"Wingland Airfield",52.8138048,0.1148968,,EU,"United Kingdom",GB,England,GB-ENG,ENG,,0,,,,,,,50,2015-11-18T11:31:38+00:00
-316386,SE-0010,small_airport,"Vallentuna flygfält",59.541786,18.038661,43,EU,Sweden,SE,"Stockholms län",SE-AB,AB,,0,,,,,,,50,2023-03-02T04:27:21+00:00
-316401,LBBA,small_airport,"Bahovitsa Airfield",43.206111,24.655556,,EU,Bulgaria,BG,"Lovec Province",BG-11,11,,0,LBBA,,,,,,50,2021-01-28T23:13:40+00:00
-316402,LBDA,small_airport,"Daskal Atanasovo",42.3213889,25.8936111,129,EU,Bulgaria,BG,"Stara Zagora Province",BG-24,24,,0,LBDA,,,,,,50,2015-11-21T10:54:01+00:00
-316403,CA-0561,small_airport,"Griffith Island",44.830509924281,-80.900981183164,625,NA,Canada,CA,Ontario,CA-ON,ON,,0,,,,,,,50,2015-11-21T11:50:32+00:00
-316404,GB-0209,small_airport,"Watchford Farm Airstrip",50.9023839,-3.0981345,,EU,"United Kingdom",GB,England,GB-ENG,ENG,,0,,,,,,,50,2015-11-21T11:02:18+00:00
-316408,CA-0562,small_airport,"White Cloud Island",44.835907609474,-80.975400706753,,NA,Canada,CA,Ontario,CA-ON,ON,,0,,,,,,,50,2015-11-21T11:49:09+00:00
-316410,NO-0036,small_airport,"Ljørdalen Flyplass",61.3561484,12.7570594,,EU,Norway,NO,Innlandet,NO-34,34,,0,,,,,,,50,2015-11-21T11:56:36+00:00
-316412,DK-0002,closed,"Orø Flyveplads",55.78752,11.843064,,EU,Denmark,DK,"Capital Region",DK-84,84,,0,,,,,,,50,2023-04-06T05:41:48+00:00
-316429,UA-0083,small_airport,Filiutka,49.335903,29.270067,,EU,Ukraine,UA,"Vinnytsia Oblast",UA-05,05,,0,,,,,,,50,2015-11-28T01:54:33+00:00
-316435,GB-0215,small_airport,"Jubilee Farm Airstrip",52.6308036,0.0643512,,EU,"United Kingdom",GB,England,GB-ENG,ENG,,0,,,,,,,50,2015-11-28T08:23:15+00:00
-316438,CZ-0072,small_airport,"BURANOS Aires UL",50.008611,14.039167,1247,EU,"Czech Republic",CZ,"Central Bohemian Region",CZ-ST,ST,,0,,,,,,,50,2015-11-28T21:36:33+00:00
-316451,GB-0216,small_airport,"Ashley's Field Airstrip",53.2190693,0.2705275,,EU,"United Kingdom",GB,England,GB-ENG,ENG,,0,,,,,,,50,2015-12-01T13:30:34+00:00
-316452,GB-0217,small_airport,"Clutton Hill Airstrip",51.3414043,-2.522437,,EU,"United Kingdom",GB,England,GB-ENG,ENG,,0,,,,,,,50,2015-12-01T14:37:56+00:00
-316457,SE-0013,small_airport,Majfält-Ovansjö,62.235628,17.384825,108,EU,Sweden,SE,"Västernorrlands län",SE-Y,Y,,0,,,,https://www.facebook.com/SundsvallsFlygklubb/,,Majfält,50,2019-08-12T07:53:03+00:00
-316468,GB-0219,small_airport,"Rayne Hall Farm Airstrip",51.885975,0.5201017,,EU,"United Kingdom",GB,England,GB-ENG,ENG,,0,,,,,,,50,2015-12-05T06:03:46+00:00
-316469,GB-0220,small_airport,"Spence Airfield",51.8386485,-2.5914762,,EU,"United Kingdom",GB,England,GB-ENG,ENG,,0,,,,,,,50,2015-12-05T06:08:13+00:00
-316481,GB-0222,small_airport,"Tower Farm Airstrip",52.2593728,-0.6556195,,EU,"United Kingdom",GB,England,GB-ENG,ENG,,0,,,,,,,50,2015-12-07T10:49:41+00:00
-316482,GB-0223,small_airport,"Pent Farm Airstrip",51.1096929,1.0543112,,EU,"United Kingdom",GB,England,GB-ENG,ENG,,0,,,,https://tigerclub.co.uk,,"Tiger Club",50,2015-12-07T10:55:51+00:00
-316483,SE-0015,small_airport,"Orrlanda Flygfält",63.0928328,14.4414464,,EU,Sweden,SE,"Jämtlande län",SE-Z,Z,,0,,,,,,,50,2015-12-07T10:59:17+00:00
-316490,GB-0225,small_airport,"Stoodleigh Barton Private Airstrip",50.9572712,-3.5301848,,EU,"United Kingdom",GB,England,GB-ENG,ENG,,0,,,,,,,50,2015-12-08T11:38:07+00:00
-316491,GB-0226,small_airport,"Talybont Airstrip",52.6124101,-4.0750378,,EU,"United Kingdom",GB,Wales,GB-WLS,WLS,,0,,,,,,,50,2015-12-08T11:43:09+00:00
-316493,GB-0228,small_airport,"Redmoor Farm Airstrip",53.8404059,-0.9719151,,EU,"United Kingdom",GB,England,GB-ENG,ENG,,0,,,,,,,50,2015-12-08T11:50:40+00:00
-316495,SK-0013,small_airport,"Zborov Airfield",49.374106,21.292575,,EU,Slovakia,SK,"Prešov Region",SK-PV,PV,,0,,,,,,LZBA,50,2022-06-25T22:06:43+00:00
-316497,GB-0230,small_airport,"Oaklands Farm Airstrip",51.8471331,-1.4397248,,EU,"United Kingdom",GB,England,GB-ENG,ENG,,0,,,,,,,50,2015-12-08T14:42:36+00:00
-316516,GB-0231,small_airport,"Berrow Airstrip",52.0009216,-2.3568692,,EU,"United Kingdom",GB,England,GB-ENG,ENG,,0,,,,,,,50,2015-12-11T09:11:48+00:00
-316529,GB-0233,small_airport,"Old Hay Airfield",51.1787584,0.4256228,,EU,"United Kingdom",GB,England,GB-ENG,ENG,,0,,,,http://www.oldhayairfield.co.uk/,,,50,2015-12-12T10:44:05+00:00
-316530,GB-0234,small_airport,"Laddingford Aerodrome",51.1908,0.4128,,EU,"United Kingdom",GB,England,GB-ENG,ENG,,0,,,,,,,50,2015-12-12T10:50:49+00:00
-316531,GB-0235,small_airport,"High Cross Airstrip",51.850213,-0.003691,,EU,"United Kingdom",GB,England,GB-ENG,ENG,,0,,,,,,,50,2021-06-26T19:25:29+00:00
-316542,GB-0237,small_airport,"Little Chase Farm Airstrip",52.357319,-1.6209368,,EU,"United Kingdom",GB,England,GB-ENG,ENG,,0,,,,,,,50,2015-12-13T13:24:19+00:00
-316630,AU-0108,small_airport,"Wheeler Drome",-32.786914,115.910386,,OC,Australia,AU,"Western Australia",AU-WA,WA,,0,,,,,,,50,2016-01-04T03:47:05+00:00
-316631,AU-0109,small_airport,"Unknown Farm Strip",-33.094903,115.717181,,OC,Australia,AU,"Western Australia",AU-WA,WA,,0,,,,,,,50,2016-01-04T04:02:16+00:00
-316635,GB-0241,small_airport,"Taw Mill Airstrip",50.7764813,-3.9040791,,EU,"United Kingdom",GB,England,GB-ENG,ENG,,0,,,,,,,50,2016-01-05T10:47:07+00:00
-316636,GB-0242,small_airport,Nuthampstead,51.9952935,0.0701442,,EU,"United Kingdom",GB,England,GB-ENG,ENG,,0,,,,,,"RAF Nuthampstead",50,2016-01-05T13:00:37+00:00
-316639,NO-0038,small_airport,Masjok,70.2632144,28.1542476,,EU,Norway,NO,"Troms og Finnmark",NO-54,54,,0,,,,,,,50,2016-01-05T13:09:10+00:00
-316640,CZ-0075,small_airport,Slušovice,49.2588889,17.8133333,,EU,"Czech Republic",CZ,"Zlín Region",CZ-ZL,ZL,,0,,,,,,,50,2016-01-07T05:37:56+00:00
-316642,CZ-0077,small_airport,Chřibská,50.8580556,14.4669444,,EU,"Czech Republic",CZ,"Ústí nad Labem Region",CZ-US,US,,0,,,,,,,50,2016-01-07T05:42:27+00:00
-316643,CZ-0078,small_airport,Polepy,50.521389,14.271667,,EU,"Czech Republic",CZ,"Ústí nad Labem Region",CZ-US,US,,0,,,LKPOLE,,,,50,2022-12-24T15:54:20+00:00
-316644,CZ-0079,small_airport,Říčany,49.9744444,14.6491667,,EU,"Czech Republic",CZ,"Central Bohemian Region",CZ-ST,ST,,0,,,,,,,50,2016-01-07T05:46:29+00:00
-316645,CZ-0080,small_airport,Sázava,49.8877778,14.9394444,,EU,"Czech Republic",CZ,"Central Bohemian Region",CZ-ST,ST,,0,,,,,,,50,2016-01-07T05:48:18+00:00
-316646,CZ-0081,small_airport,Třebíč,49.198333,15.903056,,EU,"Czech Republic",CZ,"Vysočina Region",CZ-VY,VY,,0,,,LKTREB,,,,50,2022-12-05T09:05:10+00:00
-316647,EKFR,small_airport,Freerslev,55.898611,12.245,,EU,Denmark,DK,"Capital Region",DK-84,84,,0,EKFR,,,,,,50,2016-05-15T14:20:10+00:00
-316648,CZ-0082,small_airport,Borovník,49.358611,16.242222,,EU,"Czech Republic",CZ,"South Moravian Region",CZ-JM,JM,,0,,,LKBORO,,,,50,2022-12-05T08:35:21+00:00
-316649,CZ-0083,small_airport,Škudly,50.0219444,15.5205556,,EU,"Czech Republic",CZ,"Central Bohemian Region",CZ-ST,ST,,0,,,,,,,50,2016-01-07T10:19:13+00:00
-316650,CZ-0084,small_airport,Dačice,49.07,15.4558333,,EU,"Czech Republic",CZ,"South Bohemian Region",CZ-JC,JC,,0,,,,,,,50,2016-01-07T10:23:33+00:00
-316656,CZ-0085,small_airport,Jehnědí,49.965,16.3097222,,EU,"Czech Republic",CZ,"Pardubice Region",CZ-PA,PA,,0,,,,,,,50,2016-01-09T01:51:48+00:00
-316657,CZ-0086,small_airport,Kunětice,50.0683333,15.8125,,EU,"Czech Republic",CZ,"Pardubice Region",CZ-PA,PA,,0,,,,,,,50,2016-01-09T01:53:06+00:00
-316659,CZ-0088,small_airport,Letovice,49.5466667,16.5986111,,EU,"Czech Republic",CZ,"South Moravian Region",CZ-JM,JM,,0,,,,,,,50,2016-01-09T01:56:58+00:00
-316660,CZ-0089,small_airport,"Lomnice nad Popelkou",50.54,15.3880556,,EU,"Czech Republic",CZ,"Liberec Region",CZ-LI,LI,,0,,,,,,,50,2016-01-09T01:58:34+00:00
-316680,CZ-0090,small_airport,Boršice,49.051389,17.3675,,EU,"Czech Republic",CZ,"Zlín Region",CZ-ZL,ZL,,0,,,LKBORS,,,,50,2022-12-05T08:34:36+00:00
-316681,CZ-0091,small_airport,"Horní Počáply",50.4180556,14.3841667,,EU,"Czech Republic",CZ,"Central Bohemian Region",CZ-ST,ST,,0,,,,,,,50,2016-01-12T15:10:53+00:00
-316684,CZ-0092,small_airport,Strážnice,48.8877778,17.2944444,614,EU,"Czech Republic",CZ,"South Moravian Region",CZ-JM,JM,,0,,,,,,,50,2016-01-14T12:46:02+00:00
-316685,CZ-0093,small_airport,Boleradice,48.9619444,16.8316667,649,EU,"Czech Republic",CZ,"South Moravian Region",CZ-JM,JM,,0,,,,,,,50,2016-01-14T12:56:47+00:00
-316691,CZ-0094,small_airport,Opava,49.940556,17.986111,850,EU,"Czech Republic",CZ,"Moravian-Silesian Region",CZ-MO,MO,,0,,,LKOPAV,,,,50,2022-12-25T08:43:18+00:00
-316746,GB-0245,small_airport,"Peterlee Airfield",54.7668378,-1.3843768,,EU,"United Kingdom",GB,England,GB-ENG,ENG,,0,,,,,,,50,2016-01-20T10:33:38+00:00
-316785,CO-0052,small_airport,"Loreto North Airstrip",-3.524,-70.328,505,SA,Colombia,CO,"Amazonas Department",CO-AMA,AMA,,0,,,,,,,50,2016-01-23T10:40:42+00:00
-316786,CO-0053,closed,"Nugent Airstrip",-3.863,-70.04,415,NA,Colombia,CO,"Amazonas Department",CO-AMA,AMA,,0,,,,,,,50,2022-08-29T12:57:29+00:00
-316805,GB-0246,small_airport,"Wharf Farm Airstrip",52.6273132,-1.4184066,,EU,"United Kingdom",GB,England,GB-ENG,ENG,,0,,,,,,,50,2016-01-24T04:33:46+00:00
-316807,CZ-0095,small_airport,Doudleby,48.8851123,14.4862242,1542,EU,"Czech Republic",CZ,"South Bohemian Region",CZ-JC,JC,,0,,,,,,,50,2016-01-24T04:55:37+00:00
-316849,SE-0018,small_airport,"Frölunda Airfield",59.456951,17.707942,49,EU,Sweden,SE,"Stockholms län",SE-AB,AB,,0,,,,,,,50,2023-03-02T16:54:45+00:00
-316884,US-0285,small_airport,"Private strip nr Huntsville",30.79851,-95.54221,,NA,"United States",US,Texas,US-TX,TX,,0,,,,,,,50,2016-01-30T10:26:49+00:00
-317041,GB-0076,small_airport,"Lane Farm Airstrip",52.115335,-3.197891,,EU,"United Kingdom",GB,Wales,GB-WLS,WLS,,0,,,,,,,50,2016-02-19T17:05:37+00:00
-317378,GB-0251,small_airport,Chirk,52.9474365,-3.0460473,,EU,"United Kingdom",GB,Wales,GB-WLS,WLS,,0,,,,http://chirkairfield.wix.com/chirk-airfield#!,,,50,2016-03-28T06:44:27+00:00
-317424,UA-0085,small_airport,Iziaslav,50.1196431,26.8681069,,EU,Ukraine,UA,"Khmelnytskyi Oblast",UA-68,68,,0,,,,,,,50,2016-04-03T09:46:50+00:00
-317444,HU-0026,small_airport,Dány,47.50083,19.50529,,EU,Hungary,HU,"Pest County",HU-PE,PE,,0,,,,,,,50,2016-04-05T11:11:27+00:00
-317445,GB-0254,small_airport,"Gutchpool Farm Airstrip",51.0572904,-2.2334969,,EU,"United Kingdom",GB,England,GB-ENG,ENG,,0,,,,,,,50,2016-04-05T11:20:15+00:00
-317446,GB-0255,small_airport,"Gorrel Farm Airstrip",50.9438009,-4.386336,,EU,"United Kingdom",GB,England,GB-ENG,ENG,,0,,,,,,,50,2016-04-05T11:22:34+00:00
-317447,HU-0027,small_airport,Zalacsány,46.8009556,17.110511,,EU,Hungary,HU,"Zala County",HU-ZA,ZA,,0,,,,,,,50,2016-04-05T11:25:28+00:00
-317451,GB-0257,small_airport,"Stones Farm Airstrip",51.9891623,0.65789,,EU,"United Kingdom",GB,England,GB-ENG,ENG,,0,,,,,,,50,2016-04-05T14:36:41+00:00
-317452,GB-0258,small_airport,"Clipgate Farm Airstrip",51.1870367,1.153392,,EU,"United Kingdom",GB,England,GB-ENG,ENG,,0,,,,,,,50,2016-04-05T15:08:11+00:00
-317476,EGYO,small_airport,"North Coates",53.498,0.0625,,EU,"United Kingdom",GB,England,GB-ENG,ENG,,0,,,,http://www.northcoatesflyingclub.co.uk/,,EGYO,50,2023-04-03T05:02:34+00:00
-317510,BW-0009,small_airport,"Riverside North Airport",-25.2898,23.4725,3410,AF,Botswana,BW,"Kgalagadi District",BW-KG,KG,,0,,,,,,,50,2016-04-10T21:05:29+00:00
-317532,LHSB,small_airport,Szabadszállás,46.9002778,19.3663889,,EU,Hungary,HU,"Bács-Kiskun County",HU-BK,BK,,0,LHSB,,,,,,50,2016-04-13T08:08:48+00:00
-317554,LHCL,small_airport,Cegléd,47.160833,19.878611,315,EU,Hungary,HU,"Pest County",HU-PE,PE,,0,LHCL,,,,,,50,2016-05-31T11:34:47+00:00
-317555,LHFC,small_airport,Bodmér,47.44462,18.55632,492,EU,Hungary,HU,"Fejér County",HU-FE,FE,,0,LHFC,,,,,Felcsút,50,2016-05-31T11:36:32+00:00
-317557,LHKT,small_airport,Kadarkút,46.2462,17.6088,,EU,Hungary,HU,"Somogy County",HU-SO,SO,,0,LHKT,,,,,,50,2016-04-15T06:38:07+00:00
-317559,FBCH,small_airport,"Chobe Airport",-18.53402,23.659027,3113,AF,Botswana,BW,"North West District",BW-NW,NW,,0,FBCH,,,,,FB08,50,2016-04-16T17:18:30+00:00
-317566,LHSU,small_airport,Surjány,47.20072,20.48079,,EU,Hungary,HU,"Jász-Nagykun-Szolnok County",HU-JN,JN,,0,LHSU,,,,,,50,2016-04-15T13:42:17+00:00
-317567,LHSI,small_airport,Sitke,47.2355556,17.0263889,,EU,Hungary,HU,"Vas County",HU-VA,VA,,0,LHSI,,,,,,50,2016-04-15T13:52:20+00:00
-317573,GB-0261,small_airport,"Top Farm Airfield",52.1225417,-0.117631,,EU,"United Kingdom",GB,England,GB-ENG,ENG,,0,,,,,,,50,2016-04-15T15:15:35+00:00
-317574,GB-0262,small_airport,"Griffin's Farm Airstrip",53.0772962,-0.511852,,EU,"United Kingdom",GB,England,GB-ENG,ENG,,0,,,,,,"Temple Bruer",50,2016-04-15T15:23:53+00:00
-317592,GB-0265,small_airport,"Lower Withial Fram Airstrip",51.1253177,-2.5965937,,EU,"United Kingdom",GB,England,GB-ENG,ENG,,0,,,,,,,50,2016-04-16T01:41:39+00:00
-317632,GB-0267,small_airport,"Rosemarket Airstrip",51.74526,-4.9642344,,EU,"United Kingdom",GB,Wales,GB-WLS,WLS,,0,,,,,,,50,2016-04-19T13:33:42+00:00
-317665,GB-0269,small_airport,"Ince Blundell Microlight",53.5355556,-3.0297222,10,EU,"United Kingdom",GB,England,GB-ENG,ENG,,0,,,,http://www.wlms.co.uk,,"West Lancashire Microlight School",50,2016-04-22T08:43:17+00:00
-317671,BW-0017,small_airport,"Khwai North Airport",-19.041,23.8339,3090,AF,Botswana,BW,"North West District",BW-NW,NW,,0,,,,,,,50,2016-04-22T12:39:13+00:00
-317681,CZ-0096,small_airport,Hory,50.21695,12.77669,,EU,"Czech Republic",CZ,"Carlsbad Region",CZ-KA,KA,,0,,,LKHORY,,,,50,2022-12-26T05:09:32+00:00
 16876,US-CO22,small_airport,"Greenhorn Valley Airport",37.959662,-104.785066,5796,NA,"United States",US,Colorado,US-CO,CO,,0,,,,,,CO22,50,2022-08-08T15:00:09+00:00
 6207,SPEE,small_airport,"El Estrecho Airport",-2.4540600776672363,-72.67060089111328,421,SA,Peru,PE,"Loreto Region",PE-LOR,LOR,,0,SPEE,,SP69,,,,50,2008-06-13T14:30:04+00:00
 6211,SPGB,small_airport,"Galilea Airport",-4.031879901885986,-77.75879669189453,597,SA,Peru,PE,"Amazonas Region",PE-AMA,AMA,,0,SPGB,,,,,,50,2008-06-13T14:30:04+00:00
@@ -18112,14 +18113,6 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,country_nam
 6340,OS58,small_airport,"Hamah Air Base",35.11819839477539,36.71120071411133,1014,AS,Syria,SY,"Hama Governorate",SY-HM,HM,,0,OS58,,OS58,,,,50,2008-07-23T07:41:52+00:00
 6343,OS61,small_airport,"Dumayr Air Base",33.60960006713867,36.749000549316406,2060,AS,Syria,SY,"Damascus Governorate",SY-DI,DI,,0,OS61,,OS61,,,,50,2008-06-13T14:30:04+00:00
 6355,OS73,closed,"Al Al Airport",32.7867,35.717,1214,AS,Syria,SY,"Quneitra Governorate",SY-QU,QU,,0,,,,,,"Pik, OS73, OS73",50,2021-09-07T01:35:40+00:00
-4982,NTAV,small_airport,"Raivavae Airport",-23.885200500499998,-147.662002563,7,OC,"French Polynesia",PF,(unassigned),PF-U-A,U-A,,0,NTAV,RVV,,,,,50,2012-12-13T22:02:57+00:00
-4999,NTKK,small_airport,"Aratika Nord Airport",-15.4853000641,-145.470001221,10,OC,"French Polynesia",PF,(unassigned),PF-U-A,U-A,,0,NTKK,RKA,,,,,50,2012-12-10T00:23:26+00:00
-5053,NZRU,small_airport,"Waiouru Airport",-39.4463996887207,175.6580047607422,2686,OC,"New Zealand",NZ,"Manawatu-Wanganui Region",NZ-MWT,MWT,,0,NZRU,,,,https://en.wikipedia.org/wiki/Waiouru_Army_Camp,,50,2008-06-13T14:30:04+00:00
-5107,OEPJ,small_airport,"Pump Station 10 Airport",24.1072998046875,41.0359992980957,2840,AS,"Saudi Arabia",SA,"Al Madinah Region",SA-03,03,,0,OEPJ,,,,,,50,2008-06-13T14:30:04+00:00
-5140,OIBH,small_airport,"Bastak Airport",27.21269989013672,54.318599700927734,1350,AS,Iran,IR,"Hormozgan Province",IR-22,22,,0,OIBH,,,,,,50,2008-11-30T19:37:13+00:00
-5215,OJHF,small_airport,"Prince Hassan Air Base",32.160702,37.149399,2220,AS,Jordan,JO,"Al Mafraq Governorate",JO-MA,MA,,0,OJHF,,,http://www.rjaf.mil.jo/index.php/en/en/.html,https://en.wikipedia.org/wiki/Prince_Hassan_Air_Base,H5,50,2016-06-07T08:25:53+00:00
-5216,OJHR,small_airport,"H4 Air Base",32.5392,38.195,2250,AS,Jordan,JO,"Al Mafraq Governorate",JO-MA,MA,,0,OJHR,,,,https://en.wikipedia.org/wiki/H-4_Air_Base,,50,2016-06-07T08:23:47+00:00
-5439,RP16,small_airport,"Seahawk Lz Airstrip",6.65417,121.980003,1011,AS,Philippines,PH,"Basilan Province",PH-BAS,BAS,,0,RP16,,RP16,,,"Seahawk LZ",50,2018-01-28T04:46:41+00:00
 4536,LTBM,small_airport,"Isparta Airport",37.78512191772461,30.59001922607422,3250,AS,Turkey,TR,"Isparta Province",TR-32,32,,0,LTBM,,,,,,50,2009-06-27T04:36:49+00:00
 4576,HL50,small_airport,"Zelten Sw New Airport",28.587099075317383,19.30340003967285,550,AF,Libya,LY,"Al Wahat District",LY-WA,WA,,0,HL50,,HL50,,,,50,2008-08-03T11:44:33+00:00
 4595,HL69,small_airport,"Al Jufra Airport",29.19809913635254,16.000999450683594,846,AF,Libya,LY,"Al Jufrah District",LY-JU,JU,,0,HL69,,HL69,,,,50,2008-06-13T14:30:04+00:00
@@ -18144,18 +18137,19 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,country_nam
 4967,DN53,small_airport,"Kaduna Old Airport",10.598899841308594,7.448709964752197,2126,AF,Nigeria,NG,"Kaduna State",NG-KD,KD,,0,DN53,,DN53,,,,50,2008-06-13T14:30:04+00:00
 5658,RKTE,small_airport,"Seongmu Airport",36.568199,127.5,258,AS,"South Korea",KR,Chungcheongbugdo,KR-43,43,,0,RKTE,,,,https://en.wikipedia.org/wiki/Seongmu_Airport,,50,2016-09-29T16:25:26+00:00
 5731,RPUZ,small_airport,"Bagabag Airport",16.6192,121.251999,820,AS,Philippines,PH,"Nueva Vizcaya Province",PH-NUV,NUV,,0,RPUZ,,,,https://en.wikipedia.org/wiki/Bagabag_Airport,,50,2018-04-03T23:49:40+00:00
-2614,EPLE,closed,"Legnica Airport",51.1828,16.1782,407,EU,Poland,PL,"Lower Silesian Voivodeship",PL-DS,DS,,0,,,,,,"EPLE, EPLE",50,2021-07-03T15:49:11+00:00
-2624,EPPI,small_airport,"Pila Airport",53.16999816894531,16.712499618530273,259,EU,Poland,PL,"Greater Poland Voivodeship",PL-WP,WP,,0,EPPI,,,,,,50,2008-06-13T14:30:04+00:00
-2626,EPPR,small_airport,"Pruszcz Gdanski Air Base",54.248001,18.6716,21,EU,Poland,PL,"Pomeranian Voivodeship",PL-PM,PM,,0,EPPR,,,,,,50,2023-03-19T07:46:26+00:00
-2634,EPSO,small_airport,"Sochaczew Air Base",52.198601,20.292801,259,EU,Poland,PL,"Masovian Voivodeship",PL-MZ,MZ,,0,,,,,,,50,2018-06-10T04:04:12+00:00
-2671,ESMV,small_airport,"Hagshult Air Base",57.292198,14.1372,556,EU,Sweden,SE,"Jönköpings län",SE-F,F,,0,ESMV,,,http://www.flygklubb.se/medlem/index.cfm?klubb=001&user=999&password=demo,https://sv.wikipedia.org/wiki/Hagshult_flygbas,,50,2017-08-05T19:01:22+00:00
-2678,ESNJ,small_airport,"Jokkmokk Airport",66.49620056152344,20.147199630737305,904,EU,Sweden,SE,"Norrbottena län",SE-BD,BD,,0,ESNJ,,,,,,50,2008-06-13T14:30:04+00:00
-2681,ESNM,small_airport,"Optand Airport",63.12860107421875,14.802800178527832,1236,EU,Sweden,SE,"Jämtlande län",SE-Z,Z,,0,ESNM,,,,,,50,2008-06-13T14:30:04+00:00
-2688,ESNT,closed,"Sättna Airport",62.4814,17.002899,,EU,Sweden,SE,"Västernorrlands län",SE-Y,Y,,0,,,,,,ESNT,50,2023-03-03T10:31:02+00:00
-2867,FBTP,small_airport,"Thebephatshwa Airport",-24.221099853515625,25.347299575805664,3750,AF,Botswana,BW,"Kweneng District",BW-KW,KW,,0,FBTP,,,,,,50,2008-06-13T14:30:04+00:00
-2916,FMNE,small_airport,"Ambilobe Airport",-13.188400268554688,48.987998962402344,72,AF,Madagascar,MG,Antsiranana,MG-D,D,,0,FMNE,AMB,,,,,50,2008-06-13T14:30:04+00:00
-2926,FMNZ,small_airport,"Ampampamena Airport",-13.484816,48.632702,49,AF,Madagascar,MG,Antsiranana,MG-D,D,,0,FMNZ,IVA,,,https://en.wikipedia.org/wiki/Ampampamena_Airport,,50,2016-07-10T11:19:59+00:00
-3007,FVMD,small_airport,"Mount Darwin Airport",-16.76919937133789,31.559799194335938,3240,AF,Zimbabwe,ZW,"Mashonaland Central Province",ZW-MC,MC,,0,FVMD,,,,,,50,2008-08-03T11:33:19+00:00
+4982,NTAV,small_airport,"Raivavae Airport",-23.885200500499998,-147.662002563,7,OC,"French Polynesia",PF,(unassigned),PF-U-A,U-A,,0,NTAV,RVV,,,,,50,2012-12-13T22:02:57+00:00
+4999,NTKK,small_airport,"Aratika Nord Airport",-15.4853000641,-145.470001221,10,OC,"French Polynesia",PF,(unassigned),PF-U-A,U-A,,0,NTKK,RKA,,,,,50,2012-12-10T00:23:26+00:00
+5053,NZRU,small_airport,"Waiouru Airport",-39.4463996887207,175.6580047607422,2686,OC,"New Zealand",NZ,"Manawatu-Wanganui Region",NZ-MWT,MWT,,0,NZRU,,,,https://en.wikipedia.org/wiki/Waiouru_Army_Camp,,50,2008-06-13T14:30:04+00:00
+5107,OEPJ,small_airport,"Pump Station 10 Airport",24.1072998046875,41.0359992980957,2840,AS,"Saudi Arabia",SA,"Al Madinah Region",SA-03,03,,0,OEPJ,,,,,,50,2008-06-13T14:30:04+00:00
+5140,OIBH,small_airport,"Bastak Airport",27.21269989013672,54.318599700927734,1350,AS,Iran,IR,"Hormozgan Province",IR-22,22,,0,OIBH,,,,,,50,2008-11-30T19:37:13+00:00
+5215,OJHF,small_airport,"Prince Hassan Air Base",32.160702,37.149399,2220,AS,Jordan,JO,"Al Mafraq Governorate",JO-MA,MA,,0,OJHF,,,http://www.rjaf.mil.jo/index.php/en/en/.html,https://en.wikipedia.org/wiki/Prince_Hassan_Air_Base,H5,50,2016-06-07T08:25:53+00:00
+5216,OJHR,small_airport,"H4 Air Base",32.5392,38.195,2250,AS,Jordan,JO,"Al Mafraq Governorate",JO-MA,MA,,0,OJHR,,,,https://en.wikipedia.org/wiki/H-4_Air_Base,,50,2016-06-07T08:23:47+00:00
+5439,RP16,small_airport,"Seahawk Lz Airstrip",6.65417,121.980003,1011,AS,Philippines,PH,"Basilan Province",PH-BAS,BAS,,0,RP16,,RP16,,,"Seahawk LZ",50,2018-01-28T04:46:41+00:00
+2322,EFKM,small_airport,"Kemijarvi Airport",66.712898,27.156799,692,EU,Finland,FI,"Lapland Region",FI-10,10,,0,EFKM,,,,https://en.wikipedia.org/wiki/Kemij%C3%A4rvi_Airfield,,50,2016-09-29T16:27:42+00:00
+2354,HE11,small_airport,"Badr El Din Airport",29.867554,27.946558,-69,AF,Egypt,EG,"Matruh Governorate",EG-MT,MT,,0,,,,,,,50,2022-10-21T15:12:42+00:00
+2358,HE17,small_airport,"Abu Rahal Well Airport",24.998663,33.494289,761,AF,Egypt,EG,"Red Sea Governorate",EG-BA,BA,,0,,,,,,,50,2022-09-28T15:05:03+00:00
+2371,HE31,small_airport,"Malan Frein Airport",29.80532,28.55263,213,AF,Egypt,EG,"Matruh Governorate",EG-MT,MT,,0,,,,,,"Abu El Gharadiq Airport",50,2022-10-21T15:24:53+00:00
+2378,HE38,small_airport,"Abu Rish Valley Airport",28.968086,31.701586,1050,AF,Egypt,EG,"Beni Suef Governorate",EG-BNS,BNS,,0,,,,,,,50,2022-10-06T15:04:12+00:00
 3218,HLFL,small_airport,"Bu Attifel Airport",28.795400619506836,22.080900192260742,161,AF,Libya,LY,"Al Wahat District",LY-WA,WA,,0,HLFL,,,,,,50,2008-08-03T11:41:48+00:00
 3220,HLGL,small_airport,"Warehouse 59e Airport",28.638500213623047,21.437999725341797,325,AF,Libya,LY,"Al Wahat District",LY-WA,WA,,0,HLGL,,,,,,50,2008-08-03T11:41:50+00:00
 3230,HLON,small_airport,"Hon Airport",29.1101,15.9656,919,AF,Libya,LY,"Al Jufrah District",LY-JU,JU,,0,HLON,HUQ,,,https://en.wikipedia.org/wiki/Hun_Airport,,50,2020-01-24T06:29:57+00:00
@@ -18184,11 +18178,18 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,country_nam
 3344,VO95,small_airport,"Hosur Airport",12.661299705505371,77.76719665527344,3116,AS,India,IN,"Tamil Nadu",IN-TN,TN,,0,VO95,,VO95,,,,50,2008-06-13T14:30:04+00:00
 3347,OI13,small_airport,"Mahmudabad Airport",30,53.71149826049805,6970,AS,Iran,IR,"Fars Province",IR-07,07,,0,OI13,,OI13,,,,50,2008-11-30T19:36:41+00:00
 3351,IR-0124,small_airport,"Semnan New Airport",35.3894,53.671398,3659,AS,Iran,IR,"Semnan Province",IR-20,20,,0,,,OI21,,,,50,2022-11-12T13:47:39+00:00
-2322,EFKM,small_airport,"Kemijarvi Airport",66.712898,27.156799,692,EU,Finland,FI,"Lapland Region",FI-10,10,,0,EFKM,,,,https://en.wikipedia.org/wiki/Kemij%C3%A4rvi_Airfield,,50,2016-09-29T16:27:42+00:00
-2354,HE11,small_airport,"Badr El Din Airport",29.867554,27.946558,-69,AF,Egypt,EG,"Matruh Governorate",EG-MT,MT,,0,,,,,,,50,2022-10-21T15:12:42+00:00
-2358,HE17,small_airport,"Abu Rahal Well Airport",24.998663,33.494289,761,AF,Egypt,EG,"Red Sea Governorate",EG-BA,BA,,0,,,,,,,50,2022-09-28T15:05:03+00:00
-2371,HE31,small_airport,"Malan Frein Airport",29.80532,28.55263,213,AF,Egypt,EG,"Matruh Governorate",EG-MT,MT,,0,,,,,,"Abu El Gharadiq Airport",50,2022-10-21T15:24:53+00:00
-2378,HE38,small_airport,"Abu Rish Valley Airport",28.968086,31.701586,1050,AF,Egypt,EG,"Beni Suef Governorate",EG-BNS,BNS,,0,,,,,,,50,2022-10-06T15:04:12+00:00
+2614,EPLE,closed,"Legnica Airport",51.1828,16.1782,407,EU,Poland,PL,"Lower Silesian Voivodeship",PL-DS,DS,,0,,,,,,"EPLE, EPLE",50,2021-07-03T15:49:11+00:00
+2624,EPPI,small_airport,"Pila Airport",53.16999816894531,16.712499618530273,259,EU,Poland,PL,"Greater Poland Voivodeship",PL-WP,WP,,0,EPPI,,,,,,50,2008-06-13T14:30:04+00:00
+2626,EPPR,small_airport,"Pruszcz Gdanski Air Base",54.248001,18.6716,21,EU,Poland,PL,"Pomeranian Voivodeship",PL-PM,PM,,0,EPPR,,,,,,50,2023-03-19T07:46:26+00:00
+2634,EPSO,small_airport,"Sochaczew Air Base",52.198601,20.292801,259,EU,Poland,PL,"Masovian Voivodeship",PL-MZ,MZ,,0,,,,,,,50,2018-06-10T04:04:12+00:00
+2671,ESMV,small_airport,"Hagshult Air Base",57.292198,14.1372,556,EU,Sweden,SE,"Jönköpings län",SE-F,F,,0,ESMV,,,http://www.flygklubb.se/medlem/index.cfm?klubb=001&user=999&password=demo,https://sv.wikipedia.org/wiki/Hagshult_flygbas,,50,2017-08-05T19:01:22+00:00
+2678,ESNJ,small_airport,"Jokkmokk Airport",66.49620056152344,20.147199630737305,904,EU,Sweden,SE,"Norrbottena län",SE-BD,BD,,0,ESNJ,,,,,,50,2008-06-13T14:30:04+00:00
+2681,ESNM,small_airport,"Optand Airport",63.12860107421875,14.802800178527832,1236,EU,Sweden,SE,"Jämtlande län",SE-Z,Z,,0,ESNM,,,,,,50,2008-06-13T14:30:04+00:00
+2688,ESNT,closed,"Sättna Airport",62.4814,17.002899,,EU,Sweden,SE,"Västernorrlands län",SE-Y,Y,,0,,,,,,ESNT,50,2023-03-03T10:31:02+00:00
+2867,FBTP,small_airport,"Thebephatshwa Airport",-24.221099853515625,25.347299575805664,3750,AF,Botswana,BW,"Kweneng District",BW-KW,KW,,0,FBTP,,,,,,50,2008-06-13T14:30:04+00:00
+2916,FMNE,small_airport,"Ambilobe Airport",-13.188400268554688,48.987998962402344,72,AF,Madagascar,MG,Antsiranana,MG-D,D,,0,FMNE,AMB,,,,,50,2008-06-13T14:30:04+00:00
+2926,FMNZ,small_airport,"Ampampamena Airport",-13.484816,48.632702,49,AF,Madagascar,MG,Antsiranana,MG-D,D,,0,FMNZ,IVA,,,https://en.wikipedia.org/wiki/Ampampamena_Airport,,50,2016-07-10T11:19:59+00:00
+3007,FVMD,small_airport,"Mount Darwin Airport",-16.76919937133789,31.559799194335938,3240,AF,Zimbabwe,ZW,"Mashonaland Central Province",ZW-MC,MC,,0,FVMD,,,,,,50,2008-08-03T11:33:19+00:00
 23380,NX01,small_airport,"Cole Landing Zone Airport",35.27790069580078,-94.22429656982422,811,NA,"United States",US,Arkansas,US-AR,AR,,0,NX01,,NX01,,,,50,2008-06-13T14:30:04+00:00
 22620,MY55,small_airport,"B I R Airport",46.419700622558594,-94.27529907226562,1210,NA,"United States",US,Minnesota,US-MN,MN,,0,MY55,,MY55,,,,50,2008-06-13T14:30:04+00:00
 355704,GB-1044,small_airport,"Corston Airstrip",59.052331,-3.19069,,EU,"United Kingdom",GB,Scotland,GB-SCT,SCT,,0,,,,,,,50,2022-07-18T04:46:58+00:00
@@ -21365,8 +21366,8 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,country_nam
 346665,BR-1607,small_airport,"Fazenda Santa Maria Airport",-22.192362,-56.942933,689,SA,Brazil,BR,"Mato Grosso do Sul",BR-MS,MS,"Bela Vista",0,SD79,,MS0531,,,,50,2021-07-27T14:02:38+00:00
 342705,SD2Q,small_airport,"Fazenda Bom Jesus Airport",-21.710278,-56.309444,1230,SA,Brazil,BR,"Mato Grosso do Sul",BR-MS,MS,"Bela Vista",0,SD2Q,,MS0528,,,,50,2021-04-06T20:44:33+00:00
 356091,SI7J,small_airport,"Fazenda Marilândia Airstrip",-22.046944,-56.437222,771,SA,Brazil,BR,"Mato Grosso do Sul",BR-MS,MS,"Bela Vista",0,SI7J,,MS0646,,,,50,2022-08-10T12:53:22+00:00
-438,SSBV,small_airport,"Bela Vista Airport",-22.0816,-56.538601,770,SA,Brazil,BR,"Mato Grosso do Sul",BR-MS,MS,"Bela Vista",0,SSBV,,MS0011,,,,50,2022-12-27T19:46:57+00:00
 515,SSZQ,small_airport,"Fazenda Panorama Airport",-22.038999557495117,-56.26940155029297,1197,SA,Brazil,BR,"Mato Grosso do Sul",BR-MS,MS,"Bela Vista",0,SSZQ,,SSZQ,,,,50,2008-06-24T09:40:26+00:00
+438,SSBV,small_airport,"Bela Vista Airport",-22.0816,-56.538601,770,SA,Brazil,BR,"Mato Grosso do Sul",BR-MS,MS,"Bela Vista",0,SSBV,,MS0011,,,,50,2022-12-27T19:46:57+00:00
 5463,OP14,small_airport,"Belab Airport",30.34000015258789,70.55670166015625,377,AS,Pakistan,PK,Punjab,PK-PB,PB,Belab,0,OP14,,OP14,,,,50,2008-09-01T20:48:58+00:00
 26820,WBGT,small_airport,"Tanjung Manis Airport",2.17784,111.202003,15,AS,Malaysia,MY,Sarawak,MY-13,13,Belawai,0,WBGT,TGC,,,https://en.wikipedia.org/wiki/Tanjung_Manis_Airport,,50,2022-08-26T09:53:45+00:00
 46139,RU-0312,small_airport,"Belaya Kalitva Airfield",48.217001,40.82,475,EU,Russia,RU,"Rostov Oblast",RU-ROS,ROS,"Belaya Kalitva",0,,,URRA,http://www.aeroport-bk.ru,,"УРРА, Аэропорт Белая Калитва",50,2023-04-07T07:36:30+00:00
@@ -27958,8 +27959,8 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,country_nam
 6639,US-02AR,closed,"Mount Comfort Airpark",36.090599,-94.209602,1200,NA,"United States",US,Arkansas,US-AR,AR,Fayetteville,0,,,,,,02AR,50,2020-03-20T15:25:23+00:00
 8135,19GA,small_airport,"Willow Pond Aviation Inc Airport",33.424039,-84.498367,868,NA,"United States",US,Georgia,US-GA,GA,Fayetteville,0,19GA,,19GA,,,,50,2021-10-06T10:30:36+00:00
 8571,1OA5,small_airport,"Double J Airport",39.21950149536133,-83.95269775390625,972,NA,"United States",US,Ohio,US-OH,OH,Fayetteville,0,1OA5,,1OA5,,,,50,2008-06-13T14:30:04+00:00
-45918,23WV,small_airport,"Bocamanu Airport",38.025833,-80.982778,2501,NA,"United States",US,"West Virginia",US-WV,WV,Fayetteville,0,23WV,,23WV,,,,50,2009-12-06T18:39:41+00:00
 26041,WV59,small_airport,"Fayette Airport",38.026798248291016,-81.11979675292969,1960,NA,"United States",US,"West Virginia",US-WV,WV,Fayetteville,0,WV59,,WV59,,,,50,2008-06-13T14:30:04+00:00
+45918,23WV,small_airport,"Bocamanu Airport",38.025833,-80.982778,2501,NA,"United States",US,"West Virginia",US-WV,WV,Fayetteville,0,23WV,,23WV,,,,50,2009-12-06T18:39:41+00:00
 334331,08TN,small_airport,"PTC Airport",35.298914,-86.474357,820,NA,"United States",US,Tennessee,US-TN,TN,Fayetteville,0,08TN,,08TN,,,,50,2020-06-06T12:13:52+00:00
 331877,BR-0468,small_airport,"Fazenda Brusque Airport",-10.150683,-52.286279,984,SA,Brazil,BR,"Mato Grosso",BR-MT,MT,"Fazenda Brusque",0,SSBQ,,MT0281,,,,50,2019-08-10T22:15:46+00:00
 324120,BR-0269,small_airport,"Fazenda Mutum Airstrip",-20.494047,-53.287484,,SA,Brazil,BR,"Mato Grosso do Sul",BR-MS,MS,"Fazenda Mutum",0,,,,,,,50,2017-06-28T07:54:43+00:00
@@ -28089,8 +28090,8 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,country_nam
 342476,BR-1470,small_airport,"Fiocruz Heliport",-22.880096,-43.240526,10,SA,Brazil,BR,"Rio de Janeiro",BR-RJ,RJ,Fiocruz,0,SSBD,,RJ0353,,,,50,2021-03-29T21:10:26+00:00
 349797,US-5744,small_airport,"Theil Air Care Airport",36.80654,-120.6164,236,NA,"United States",US,California,US-CA,CA,Firebaugh,0,,,,,,,50,2021-11-18T16:43:36+00:00
 322362,US-0462,small_airport,"Mercey Hot Springs Airport",36.706512,-120.860132,1170,NA,"United States",US,California,US-CA,CA,Firebaugh,0,CN22,,CN22,,,,50,2017-03-11T11:11:45+00:00
-38835,AR-0160,small_airport,"Firmat Aeroclub Airport",-33.4289,-61.5108,344,SA,Argentina,AR,"Santa Fe Province",AR-S,S,Firmat,0,,,FAE,,,,50,2009-10-20T11:12:48+00:00
 42842,AR-0420,small_airport,"Firmat Airport",-33.4661,-61.4842,344,SA,Argentina,AR,"Santa Fe Province",AR-S,S,Firmat,0,,,FIM,,,,50,2009-10-20T11:12:48+00:00
+38835,AR-0160,small_airport,"Firmat Aeroclub Airport",-33.4289,-61.5108,344,SA,Argentina,AR,"Santa Fe Province",AR-S,S,Firmat,0,,,FAE,,,,50,2009-10-20T11:12:48+00:00
 32115,OOFQ,closed,"Firq Air Base",22.869085,57.543615,1560,AS,Oman,OM,"Ad Dakhiliyah Governorate",OM-DA,DA,Firq,0,,,,,,"OOFQ, OOFQ",50,2022-01-24T06:28:37+00:00
 3348,OI19,small_airport,"Firuzabad Air Base",35.5299,51.505798,3258,AS,Iran,IR,"Tehran Province",IR-23,23,Firuzabad,0,OI19,,OI19,,,,50,2021-11-05T14:56:14+00:00
 315805,DE-0271,small_airport,"Fischbek Airfield",53.4561,9.8317,217,EU,Germany,DE,Hamburg,DE-HH,HH,Fischbek,0,,,,http://www.segelflugclub-fischbek.de/,https://de.wikipedia.org/wiki/Segelfluggel%C3%A4nde_Fischbek,,50,2022-07-05T11:31:31+00:00
@@ -28612,8 +28613,8 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,country_nam
 28564,EDMF,small_airport,"Fürstenzell Airfield",48.518055,13.345833,1345,EU,Germany,DE,Bavaria,DE-BY,BY,Fürstenzell,0,EDMF,,,,,,50,2022-05-28T16:50:53+00:00
 309513,DE-0080,small_airport,"Fürth-Seckendorf Airfield",49.48152,10.8588,1058,EU,Germany,DE,Bavaria,DE-BY,BY,Fürth,0,,,,http://www.aero-club-fuerth.de/,,,50,2013-09-06T00:11:06+00:00
 309514,DE-0081,small_airport,"Füssen Glider Airfield",47.58306,10.6909,2589,EU,Germany,DE,Bavaria,DE-BY,BY,Füssen,0,,,,http://www.lsv-fuessen.de/,,,50,2013-09-06T00:37:37+00:00
-39142,SCFU,small_airport,"Loncopan Airport",-40.06639862060547,-72.53780364990234,886,SA,Chile,CL,"Los Ríos Region",CL-LR,LR,Futrono,0,SCFU,,,,,,50,2008-09-29T08:42:28+00:00
 45060,SCGF,small_airport,"Golfo Azul Airport",-40.140833,-72.283611,486,SA,Chile,CL,"Los Ríos Region",CL-LR,LR,Futrono,0,SCGF,,,,,,50,2009-10-16T21:48:15+00:00
+39142,SCFU,small_airport,"Loncopan Airport",-40.06639862060547,-72.53780364990234,886,SA,Chile,CL,"Los Ríos Region",CL-LR,LR,Futrono,0,SCFU,,,,,,50,2008-09-29T08:42:28+00:00
 300712,VRMF,small_airport,"Fuvahmulah Airport",-0.309722222222,73.435,17,AS,Maldives,MV,"Gnaviyani Atoll",MV-29,29,"Fuvahmulah Island",0,VRMR,FVM,,,,,50,2014-09-26T23:17:30+00:00
 350989,CN-0281,small_airport,"Fuyun Tuerhong Airport",47.03888,89.7825,,AS,China,CN,"Xinjiang Autonomous Region",CN-65,65,Fuyun,0,,,,,,,50,2021-12-23T13:09:44+00:00
 31613,HRYO,small_airport,"Gabiro Airport",-1.5499999523162842,30.382999420166016,4806,AF,Rwanda,RW,"Eastern Province",RW-02,02,Gabiro,0,HRYO,,,,,,50,2008-12-30T14:10:03+00:00
@@ -28644,9 +28645,9 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,country_nam
 17349,FD81,small_airport,"Gleim Field",29.702699661254883,-82.42569732666016,170,NA,"United States",US,Florida,US-FL,FL,Gainesville,0,FD81,,FD81,,,,50,2008-06-13T14:30:04+00:00
 22541,MU48,small_airport,"Sunburst Ranch Airport",36.648399353027344,-92.22039794921875,820,NA,"United States",US,Missouri,US-MO,MO,Gainesville,0,MU48,,MU48,,,,50,2008-06-13T14:30:04+00:00
 347056,12TT,small_airport,"D An P Farm Airport",33.593768,-97.100816,771,NA,"United States",US,Texas,US-TX,TX,Gainesville,0,12TT,,12TT,,,,50,2021-08-16T10:10:37+00:00
-299721,US-0168,small_airport,"The 88 Airport",33.568942,-97.190577,820,NA,"United States",US,Texas,US-TX,TX,Gainesville,0,XS62,,XS62,,,"Stahl Airport",50,2020-09-25T13:13:10+00:00
 25195,TX81,small_airport,"Robotek Airport",33.54999923706055,-97.03810119628906,775,NA,"United States",US,Texas,US-TX,TX,Gainesville,0,TX81,,TX81,,,,50,2008-06-13T14:30:04+00:00
 323292,11MU,small_airport,"Rocky Top Airfield",36.657916,-92.465578,1273,NA,"United States",US,Missouri,US-MO,MO,Gainesville,0,11MU,,11MU,,,,50,2017-05-19T17:42:34+00:00
+299721,US-0168,small_airport,"The 88 Airport",33.568942,-97.190577,820,NA,"United States",US,Texas,US-TX,TX,Gainesville,0,XS62,,XS62,,,"Stahl Airport",50,2020-09-25T13:13:10+00:00
 1257,CKY6,closed,"Gainsborough Airport",49.1833000183,-101.432998657,1650,NA,Canada,CA,Saskatchewan,CA-SK,SK,Gainsborough,0,,,,,https://en.wikipedia.org/wiki/Gainsborough_Airport,"KY6, CKY6, CKY6",50,2010-01-31T15:07:45+00:00
 42567,KE-6050,small_airport,"Gaitu Airport",-0.05272199958562851,37.734195709228516,3805,AF,Kenya,KE,"Eastern Province",KE-400,400,Gaitu,0,,,,,,,50,2008-12-05T17:19:09+00:00
 323761,SMGA,small_airport,"Gakaba Airstrip",4.454167,-54.445833,192,SA,Suriname,SR,Sipaliwini,SR-SI,SI,Gakaba,0,SMGA,,,,https://en.wikipedia.org/wiki/Gakaba_Airstrip,,50,2017-06-10T20:05:00+00:00
@@ -31619,7 +31620,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,country_nam
 323150,BR-0191,small_airport,"Sérgio Bonifácio Airport",-24.263589,-51.639318,2277,SA,Brazil,BR,Paraná,BR-PR,PR,Ivaiporã,0,SJKK,,PR0057,,,,50,2020-12-15T01:11:01+00:00
 320463,CZ-0120,small_airport,"Letiště Ivančice u Brna UL",49.095374,16.480516,,EU,"Czech Republic",CZ,"South Moravian Region",CZ-JM,JM,"Ivančice u Brna",0,,,ULIVAN,,,,50,2022-12-05T03:04:40+00:00
 307391,CA-0518,small_airport,"Ivanhoe Airstrip",48.1830555556,-82.5492361111,1195,NA,Canada,CA,Ontario,CA-ON,ON,Ivanhoe,0,,,,,,,50,2012-10-23T22:17:57+00:00
-11557,4MN4,small_airport,"Mulder Field Inc Airport",44.4557991027832,-96.23059844970703,1669,NA,"United States",US,Minnesota,US-MN,MN,Ivanhoe,0,4MN4,,4MN4,,,,50,2008-06-13T14:30:04+00:00
+11557,4MN4,closed,"Mulder Field Inc Airport",44.455799,-96.231553,1669,NA,"United States",US,Minnesota,US-MN,MN,Ivanhoe,0,,,,,,4MN4,50,2023-07-06T19:17:00+00:00
 322815,LDZI,small_airport,"Ivanić-Grad Airstrip",45.719874,16.343272,374,EU,Croatia,HR,"Zagreb County",HR-01,01,Ivanić-Grad,0,LDZI,,,,,,50,2021-10-16T06:30:32+00:00
 339615,US-2902,small_airport,"Ivanof Bay Airport",55.900861,-159.481631,,NA,"United States",US,Alaska,US-AK,AK,"Ivanof Bay",0,,,,,,,50,2021-01-14T19:12:26+00:00
 45001,RU-0243,small_airport,"Ivanovo Yasyunikha Airfield",56.964,41.071,,EU,Russia,RU,"Ivanovo Oblast",RU-IVA,IVA,Ivanovo,0,,,,,,"Аэродром Иваново Ясюниха",50,2009-09-06T09:12:39+00:00
@@ -31757,7 +31758,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,country_nam
 23120,NJ75,small_airport,"Werner Private Airport",40.350101470947266,-74.36630249023438,50,NA,"United States",US,"New Jersey",US-NJ,NJ,Jamesburg,0,NJ75,,NJ75,,,,50,2008-06-13T14:30:04+00:00
 22512,MU16,small_airport,"Spillman Field",40.000301361083984,-93.78990173339844,981,NA,"United States",US,Missouri,US-MO,MO,Jamesport,0,MU16,,MU16,,,,50,2008-06-13T14:30:04+00:00
 23699,OI52,small_airport,"Lyons Field",39.625099182128906,-83.7833023071289,1045,NA,"United States",US,Ohio,US-OH,OH,Jamestown,0,OI52,,OI52,,,,50,2008-06-13T14:30:04+00:00
-18094,IN25,small_airport,"Hood Field",39.99810028076172,-86.57720184326172,930,NA,"United States",US,Indiana,US-IN,IN,Jamestown,0,IN25,,IN25,,,,50,2008-06-13T14:30:04+00:00
+18094,IN25,closed,"Hood Field",39.997583,-86.577202,930,NA,"United States",US,Indiana,US-IN,IN,Jamestown,0,,,,,,IN25,50,2023-07-06T19:27:12+00:00
 12059,55NY,small_airport,"Ridgeview Airport",42.082000732421875,-79.31230163574219,1645,NA,"United States",US,"New York",US-NY,NY,Jamestown,0,55NY,,55NY,,,,50,2008-06-13T14:30:04+00:00
 12128,57II,small_airport,"Reimer Aerodrome",39.96419906616211,-86.56749725341797,930,NA,"United States",US,Indiana,US-IN,IN,Jamestown,0,57II,,57II,,,,50,2008-06-13T14:30:04+00:00
 10679,3NK4,small_airport,"Laska Airport",42.028193,-79.19765,1480,NA,"United States",US,"New York",US-NY,NY,Jamestown,0,3NK4,,3NK4,,,,50,2022-07-12T11:31:16+00:00
@@ -32410,7 +32411,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,country_nam
 311618,AYPI,small_airport,"Kapi Airstrip",-6.371,144.6839,3408,OC,"Papua New Guinea",PG,"Chimbu Province",PG-CPK,CPK,Kapi,0,AYPI,,KAPI,,,,50,2014-04-10T22:42:05+00:00
 31770,WBGP,small_airport,"Kapit Airport",2.01052374505,112.931468248,65,AS,Malaysia,MY,Sarawak,MY-13,13,Kapit,0,WBGP,KPI,,,https://en.wikipedia.org/wiki/Kapit_Airport,,50,2014-02-20T11:22:17+00:00
 12870,62LA,small_airport,"Ken Guidry #4 Airport",30.074877,-92.214406,21,NA,"United States",US,Louisiana,US-LA,LA,Kaplan,0,62LA,,62LA,,,,50,2021-01-24T23:57:38+00:00
-7828,13LS,small_airport,"Tee Brad's Airport",29.993900299072266,-92.3855972290039,12,NA,"United States",US,Louisiana,US-LA,LA,Kaplan,0,13LS,,13LS,,,,50,2008-06-13T14:30:04+00:00
+7828,13LS,closed,"Tee Brad's Airport",29.9939,-92.385517,12,NA,"United States",US,Louisiana,US-LA,LA,Kaplan,0,,,,,,13LS,50,2023-07-06T20:06:58+00:00
 10559,3LA0,small_airport,"Harrington Flying Service Airport",29.919700622558594,-92.24739837646484,10,NA,"United States",US,Louisiana,US-LA,LA,Kaplan,0,3LA0,,3LA0,,,,50,2008-06-13T14:30:04+00:00
 21528,LA61,small_airport,"Kenan Airstrip",30.008627,-92.238841,20,NA,"United States",US,Louisiana,US-LA,LA,Kaplan,0,LA61,,LA61,,,,50,2021-01-25T00:00:29+00:00
 21677,LS44,closed,"Ken Guidry #3 Airport",30.089899,-92.343697,15,NA,"United States",US,Louisiana,US-LA,LA,Kaplan,0,,,,,,"LS44, Wills Landing Strip",50,2021-01-25T00:04:17+00:00
@@ -33492,11 +33493,11 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,country_nam
 40255,SVPU,small_airport,"La Paragua Airport",6.835093,-63.34949,797,SA,Venezuela,VE,"Bolívar State",VE-F,F,"La Paragua",0,SVPU,,,,,,50,2021-03-20T00:08:23+00:00
 38905,AR-0230,small_airport,"La Paz Aeroclub Airport",-30.7442,-59.5683,200,SA,Argentina,AR,"Entre Ríos Province",AR-E,E,"La Paz",0,,,LAZ,,,,50,2009-10-20T11:12:40+00:00
 30062,SAMP,small_airport,"La Paz Airport",-30.7833,-59.6,200,SA,Argentina,AR,"Entre Ríos Province",AR-E,E,"La Paz",0,,,LPZ,,,,50,2011-02-17T23:07:35+00:00
+46644,AR-0493,small_airport,"La Paz Airport",-33.467,-67.55,,SA,Argentina,AR,"Mendoza Province",AR-M,M,"La Paz",0,SAMP,,PAZ,,,,50,2011-02-17T23:48:04+00:00
 308380,MX-0019,small_airport,"Melitón Albáñez Domínguez Airstrip",23.667222,-110.442222,85,NA,Mexico,MX,"Baja California Sur",MX-BCS,BCS,"La Paz",0,,,MOA,,https://en.wikipedia.org/wiki/Melit%C3%B3n_Alb%C3%A1%C3%B1ez_Dom%C3%ADnguez_Airstrip,,50,2020-12-28T13:10:38+00:00
 308384,MX-0021,small_airport,"Todos Santos Airstrip",23.498333,-110.201944,432,NA,Mexico,MX,"Baja California Sur",MX-BCS,BCS,"La Paz",0,,,TSN,,https://en.wikipedia.org/wiki/Todos_Santos_Airstrip,,50,2020-12-28T13:24:16+00:00
 308390,MX-0024,small_airport,"Rancho Las Cruces Airstrip",24.206667,-110.084722,31,NA,Mexico,MX,"Baja California Sur",MX-BCS,BCS,"La Paz",0,,,LCS,,https://en.wikipedia.org/wiki/Rancho_Las_Cruces_Airstrip,,50,2020-12-28T13:10:55+00:00
 308402,MX-0032,small_airport,"Península de los Sueños Airstrip",24.026944,-109.837501,31,NA,Mexico,MX,"Baja California Sur",MX-BCS,BCS,"La Paz",0,,,LAR,,https://en.wikipedia.org/wiki/Punta_Arena_Airstrip,"Las Arenas Airport, Punta Arena Airstrip",50,2020-12-28T15:29:43+00:00
-46644,AR-0493,small_airport,"La Paz Airport",-33.467,-67.55,,SA,Argentina,AR,"Mendoza Province",AR-M,M,"La Paz",0,SAMP,,PAZ,,,,50,2011-02-17T23:48:04+00:00
 348702,MX-1682,small_airport,"El Medano (Santa Rita) Airport",24.58935,-111.48098,144,NA,Mexico,MX,"Baja California Sur",MX-BCS,BCS,"La Paz",0,,,,,,,50,2021-10-12T17:01:26+00:00
 348822,MX-1699,small_airport,"El Quelele Airport",24.19076,-110.51644,56,NA,Mexico,MX,"Baja California Sur",MX-BCS,BCS,"La Paz",0,,,,,,,50,2021-10-15T17:32:16+00:00
 348823,MX-1700,small_airport,"Las Parcelas Airport",24.19563,-110.51887,56,NA,Mexico,MX,"Baja California Sur",MX-BCS,BCS,"La Paz",0,,,,,,,50,2021-10-15T17:33:04+00:00
@@ -35159,4 +35160,3 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,country_nam
 38939,AR-0264,small_airport,"Maipu Airport",-36.8903,-57.8503,52,SA,Argentina,AR,"Buenos Aires Province",AR-B,B,Maipu,0,,,MPU,,,,50,2009-10-20T11:12:30+00:00
 316061,ES-0033,small_airport,Aerohíspalis,37.3297,-5.722783,140,EU,Spain,ES,Andalucía,ES-AN,AN,"Mairena del Alcor",0,LEAH,,,http://www.aerohispalis.com/donde-estamos/,,"Los Alcores",50,2020-04-05T05:35:55+00:00
 315902,LOKR,small_airport,"Sankt Donat / Mairist Airfield",46.743139,14.413134,1759,EU,Austria,AT,Carinthia,AT-2,2,Mairist,0,LOKR,,,,,,50,2022-11-27T08:18:04+00:00
-42277,MUMA,small_airport,"Alfredo Noa Díaz Airport",20.242374,-74.148268,3,NA,Cuba,CU,"Guantánamo Province",CU-14,14,Maisí,0,MUMA,UMA,,,,"Punta de Maisí",50,2022-08-12T12:00:28+00:00
