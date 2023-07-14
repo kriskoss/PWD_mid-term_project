@@ -4829,8 +4829,8 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,country_nam
 3196,HEPS,medium_airport,"Port Said International Airport",31.279285,32.240582,10,AF,Egypt,EG,"Port Said Governorate",EG-PTS,PTS,"Port Said",0,HEPS,PSD,,http://en.wikipedia.org/wiki/Port_Said_Airport,https://en.wikipedia.org/wiki/Port_Said_Airport,"El Gamil",275,2022-12-14T14:21:07+00:00
 5413,PASY,medium_airport,"Eareckson Air Station",52.71229935,174.1139984,95,NA,"United States",US,Alaska,US-AK,AK,Shemya,0,PASY,SYA,SYA,,https://en.wikipedia.org/wiki/Eareckson_Air_Station,,275,2010-01-27T12:02:37+00:00
 5039,NZMC,medium_airport,"Mount Cook Airport",-43.76499938964844,170.13299560546875,2153,OC,"New Zealand",NZ,"Canterbury Region",NZ-CAN,CAN,,0,NZMC,MON,,,,,250,2008-06-13T14:30:04+00:00
-5683,ROTM,medium_airport,"Futenma Marine Corps Air Station",26.27429962158203,127.75599670410156,247,AS,Japan,JP,"Okinawa Prefecture",JP-47,47,,0,ROTM,,,,,"Futenma MCAS",250,2008-08-08T10:22:28+00:00
 4498,LSMP,medium_airport,"Payerne Air Base",46.8432,6.91506004333,1465,EU,Switzerland,CH,"Canton of Fribourg",CH-FR,FR,,0,LSMP,,,,https://en.wikipedia.org/wiki/Payerne_Airport,,250,2015-11-03T14:10:41+00:00
+5683,ROTM,medium_airport,"Futenma Marine Corps Air Station",26.27429962158203,127.75599670410156,247,AS,Japan,JP,"Okinawa Prefecture",JP-47,47,,0,ROTM,,,,,"Futenma MCAS",250,2008-08-08T10:22:28+00:00
 6262,SVCB,medium_airport,"Aeropuerto ""General Tomas de Heres"". Ciudad Bolivar",8.12216091156,-63.5369567871,197,SA,Venezuela,VE,"Bolívar State",VE-F,F,,0,SVCB,CBL,,,,,250,2013-11-21T16:20:33+00:00
 26985,YFRT,medium_airport,"Forrest Airport",-30.83662,128.112811,511,OC,Australia,AU,"Western Australia",AU-WA,WA,,0,YFRT,FOS,,,https://en.wikipedia.org/wiki/Forrest_Airport,,250,2022-01-21T17:15:28+00:00
 26989,YGDH,medium_airport,"Gunnedah Airport",-30.957511,150.248981,863,OC,Australia,AU,"New South Wales",AU-NSW,NSW,,0,YGDH,GUH,,,https://en.wikipedia.org/wiki/Gunnedah_Airport,,250,2023-03-12T21:37:06+00:00
@@ -6595,11 +6595,11 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,country_nam
 26922,YBOK,medium_airport,"Oakey Army Aviation Centre",-27.409262,151.736727,1335,OC,Australia,AU,Queensland,AU-QLD,QLD,,1,YBOK,OKY,,,https://en.wikipedia.org/wiki/Oakey_Army_Aviation_Centre,"Swartz Barracks",750,2021-12-27T21:11:18+00:00
 26923,YBOU,medium_airport,"Boulia Airport",-22.913299560546875,139.89999389648438,542,OC,Australia,AU,Queensland,AU-QLD,QLD,,1,YBOU,BQL,,,https://en.wikipedia.org/wiki/Boulia_Airport,,750,2008-06-26T14:52:34+00:00
 27168,YWDH,medium_airport,"Windorah Airport",-25.41309928894043,142.66700744628906,452,OC,Australia,AU,Queensland,AU-QLD,QLD,,1,YWDH,WNR,,,https://en.wikipedia.org/wiki/Windorah_Airport,,750,2008-06-26T14:52:34+00:00
-6273,SVCU,medium_airport,"Cumaná (Antonio José de Sucre) Airport",10.450332641601562,-64.1304702758789,14,SA,Venezuela,VE,"Sucre State",VE-R,R,,1,SVCU,CUM,,,,,750,2008-07-27T21:30:38+00:00
-6321,SVSA,medium_airport,"San Antonio Del Tachira Airport",7.840829849243164,-72.439697265625,1312,SA,Venezuela,VE,"Táchira State",VE-S,S,,1,SVSA,SVZ,,,,,750,2008-06-13T14:30:04+00:00
 4989,NTGJ,medium_airport,"Totegegie Airport",-23.07990074157715,-134.88999938964844,7,OC,"French Polynesia",PF,(unassigned),PF-U-A,U-A,,1,NTGJ,GMR,,,https://en.wikipedia.org/wiki/Totegegie_Airport,,750,2008-06-13T14:30:04+00:00
 4995,NTGV,medium_airport,"Mataiva Airport",-14.8681001663208,-148.7169952392578,11,OC,"French Polynesia",PF,(unassigned),PF-U-A,U-A,,1,NTGV,MVT,,,https://en.wikipedia.org/wiki/Mataiva_Airport,,750,2008-06-13T14:30:04+00:00
 5062,NZWK,medium_airport,"Whakatane Airport",-37.92060089111328,176.91400146484375,20,OC,"New Zealand",NZ,"Bay of Plenty Region",NZ-BOP,BOP,,1,NZWK,WHK,,,https://en.wikipedia.org/wiki/Whakatane_Airport,,750,2008-06-13T14:30:04+00:00
+6273,SVCU,medium_airport,"Cumaná (Antonio José de Sucre) Airport",10.450332641601562,-64.1304702758789,14,SA,Venezuela,VE,"Sucre State",VE-R,R,,1,SVCU,CUM,,,,,750,2008-07-27T21:30:38+00:00
+6321,SVSA,medium_airport,"San Antonio Del Tachira Airport",7.840829849243164,-72.439697265625,1312,SA,Venezuela,VE,"Táchira State",VE-S,S,,1,SVSA,SVZ,,,,,750,2008-06-13T14:30:04+00:00
 3068,GAKY,medium_airport,"Kayes Dag Dag Airport",14.4812,-11.4044,164,AF,Mali,ML,"Kayes Region",ML-1,1,,1,GAKD,KYS,,,https://en.wikipedia.org/wiki/Kayes_Airport,,750,2022-03-04T09:58:14+00:00
 2127,DRZA,medium_airport,"Mano Dayak International Airport",16.965999603271484,8.000109672546387,1657,AF,Niger,NE,"Agadez Region",NE-1,1,Agadez,1,DRZA,AJY,,,https://en.wikipedia.org/wiki/Mano_Dayak_International_Airport,,750,2008-09-13T06:41:45+00:00
 5611,RJSK,medium_airport,"Akita Airport",39.615601,140.218994,313,AS,Japan,JP,"Akita Prefecture",JP-05,05,Akita,1,RJSK,AXT,,,https://en.wikipedia.org/wiki/Akita_Airport,,750,2022-10-19T11:57:29+00:00
@@ -8953,6 +8953,8 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,country_nam
 5411,PASV,medium_airport,"Sparrevohn LRRS Airport",61.09740067,-155.5740051,1585,NA,"United States",US,Alaska,US-AK,AK,Sparrevohn,0,PASV,SVW,SVW,,https://en.wikipedia.org/wiki/Sparrevohn_LRRS_Airport,,275,2013-03-25T23:43:30+00:00
 5541,RJBT,medium_airport,"Konotori Tajima Airport",35.512798,134.787003,584,AS,Japan,JP,"Hyōgo Prefecture",JP-28,28,Toyooka,0,RJBT,TJH,,,,"tajima, toyooka",275,2020-06-19T11:42:54+00:00
 5231,OMAM,medium_airport,"Al Dhafra Air Base",24.248199462900004,54.547698974599996,77,AS,"United Arab Emirates",AE,"Abu Dhabi Emirate",AE-AZ,AZ,,0,OMAM,DHF,,https://www.dhafra.af.mil/,https://en.wikipedia.org/wiki/Al_Dhafra_Air_Base,,250,2012-07-19T20:09:31+00:00
+4495,LSME,medium_airport,"Emmen Air Base",47.092444,8.305184,1400,EU,Switzerland,CH,"Canton of Lucerne",CH-LU,LU,,0,LSME,EML,,https://saf.hermannkeist.ch/emmen.html,https://en.wikipedia.org/wiki/Milit%C3%A4rflugplatz_Emmen,,250,2016-05-15T09:43:56+00:00
+4543,LTBT,medium_airport,"Akhisar Airport",38.80889892578125,27.833900451660156,263,AS,Turkey,TR,"Manisa Province",TR-45,45,,0,LTBT,,,,,,250,2008-06-13T14:30:04+00:00
 6258,SVBL,medium_airport,"El Libertador Airbase",10.183375358600001,-67.55731964110001,1450,SA,Venezuela,VE,"Aragua State",VE-D,D,,0,SVBL,,ELR,,,,250,2012-08-17T07:34:56+00:00
 6263,SVCD,medium_airport,"Caicara del Orinoco Airport",7.625510215759277,-66.16280364990234,141,SA,Venezuela,VE,"Bolívar State",VE-F,F,,0,SVCD,CXA,,,,,250,2008-07-27T21:30:31+00:00
 6281,SVEZ,medium_airport,"Elorza Airport",7.0833330154418945,-69.53333282470703,295,SA,Venezuela,VE,"Apure State",VE-C,C,,0,SVEZ,EOZ,,,,,250,2008-07-27T21:31:06+00:00
@@ -8962,8 +8964,6 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,country_nam
 6323,SVSE,medium_airport,"Santa Elena de Uairen Airport",4.554999828338623,-61.150001525878906,2938,SA,Venezuela,VE,"Bolívar State",VE-F,F,,0,SVSE,SNV,,,,,250,2008-07-27T21:33:54+00:00
 6332,SVTM,medium_airport,"Tumeremo Airport",7.24938,-61.52893,345,SA,Venezuela,VE,"Bolívar State",VE-F,F,,0,SVTM,TMO,,,,,250,2015-01-27T16:33:46+00:00
 6337,SVVP,medium_airport,"Valle de La Pascua Airport",9.22202777863,-65.9935836792,410,SA,Venezuela,VE,"Guárico State",VE-J,J,,0,SVVP,VDP,,,https://en.wikipedia.org/wiki/Valle_de_la_Pascua_Airport,,250,2012-11-22T08:31:12+00:00
-4495,LSME,medium_airport,"Emmen Air Base",47.092444,8.305184,1400,EU,Switzerland,CH,"Canton of Lucerne",CH-LU,LU,,0,LSME,EML,,https://saf.hermannkeist.ch/emmen.html,https://en.wikipedia.org/wiki/Milit%C3%A4rflugplatz_Emmen,,250,2016-05-15T09:43:56+00:00
-4543,LTBT,medium_airport,"Akhisar Airport",38.80889892578125,27.833900451660156,263,AS,Turkey,TR,"Manisa Province",TR-45,45,,0,LTBT,,,,,,250,2008-06-13T14:30:04+00:00
 2721,ETHB,medium_airport,"Bückeburg Air Base",52.2785,9.08217,230,EU,Germany,DE,"Lower Saxony",DE-NI,NI,,0,ETHB,,,,https://en.wikipedia.org/wiki/B%C3%BCckeburg_Air_Base,,250,2016-09-29T04:56:04+00:00
 2870,FCOU,medium_airport,"Ouesso Airport",1.6159900426899998,16.0379009247,1158,AF,"Republic of the Congo",CG,"Sangha Department",CG-13,13,,0,FCOU,OUE,,,,,250,2014-03-27T11:19:29+00:00
 2098,DIDL,medium_airport,"Daloa Airport",6.792809963226318,-6.473189830780029,823,AF,"Côte d'Ivoire",CI,"Sassandra-Marahoué District",CI-SM,SM,,0,DIDL,DJO,,,,,250,2008-06-13T14:30:04+00:00
@@ -9503,15 +9503,15 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,country_nam
 6311,SVPE,small_airport,"Pedernales Airport",9.979240417480469,-62.228599548339844,25,SA,Venezuela,VE,"Delta Amacuro State",VE-Y,Y,,0,SVPE,PDZ,,,,,50,2008-07-27T21:33:01+00:00
 5105,OEPF,small_airport,"Pump Station 6 Airport",24.71030044555664,44.964500427246094,2530,AS,"Saudi Arabia",SA,"Riyadh Region",SA-01,01,,0,OEPF,,,,,,50,2008-06-13T14:30:04+00:00
 5106,OEPI,small_airport,"Pump Station 9 Airport",24.276100158691406,42.143699645996094,3000,AS,"Saudi Arabia",SA,"Riyadh Region",SA-01,01,,0,OEPI,,,,,,50,2008-06-13T14:30:04+00:00
+5754,OE46,small_airport,"Al Lidem Airport",20.475900650024414,44.75749969482422,2225,AS,"Saudi Arabia",SA,"Riyadh Region",SA-01,01,,0,OE46,,OE46,,,,50,2008-06-13T14:30:04+00:00
+5758,OE51,small_airport,"Al Kharj East Airport",24.05150032043457,47.65420150756836,1650,AS,"Saudi Arabia",SA,"Riyadh Region",SA-01,01,,0,OE51,,OE51,,,,50,2008-06-13T14:30:04+00:00
+5759,OE52,small_airport,"Al Artawiyah South Airport",26.611600875854492,45.321998596191406,1900,AS,"Saudi Arabia",SA,"Riyadh Region",SA-01,01,,0,OE52,,OE52,,,,50,2008-06-13T14:30:04+00:00
+5761,OE54,small_airport,"Hafar Al Atk Airport",25.99340057373047,46.53670120239258,1970,AS,"Saudi Arabia",SA,"Riyadh Region",SA-01,01,,0,OE54,,OE54,,,,50,2008-06-13T14:30:04+00:00
 4684,GA1A,small_airport,"Kayes Airport",14.431300163269043,-11.43970012664795,161,AF,Mali,ML,"Kayes Region",ML-1,1,,0,GA1A,,GA1A,,,,50,2008-06-13T14:30:04+00:00
 4712,MMHC,small_airport,"Tehuacan Airport",18.49720001220703,-97.4198989868164,5509,NA,Mexico,MX,Puebla,MX-PUE,PUE,,0,MMHC,TCN,,,,,50,2008-06-13T14:30:04+00:00
 4753,MMTA,small_airport,"Tlaxcala Airport",19.537992,-98.173492,8229,NA,Mexico,MX,Tlaxcala,MX-TLA,TLA,,0,MMTA,,,,https://es.wikipedia.org/wiki/Estaci%C3%B3n_a%C3%A9rea_n.%C2%B0_9_Atlangatepec,"Estación aérea n.° 9 Atlangatepec",50,2016-07-07T17:46:13+00:00
 4908,MM66,small_airport,"Coahuayana Airport",18.684601,-103.676003,200,NA,Mexico,MX,Michoacán,MX-MIC,MIC,,0,,,CHY,,,MM66,50,2017-10-15T23:15:33+00:00
 4932,MYAX,small_airport,"Spanish Cay Airport",26.950300216674805,-77.5438003540039,10,NA,Bahamas,BS,"North Abaco",BS-NO,NO,,0,MYAX,,,,,,50,2008-12-19T20:09:15+00:00
-5754,OE46,small_airport,"Al Lidem Airport",20.475900650024414,44.75749969482422,2225,AS,"Saudi Arabia",SA,"Riyadh Region",SA-01,01,,0,OE46,,OE46,,,,50,2008-06-13T14:30:04+00:00
-5758,OE51,small_airport,"Al Kharj East Airport",24.05150032043457,47.65420150756836,1650,AS,"Saudi Arabia",SA,"Riyadh Region",SA-01,01,,0,OE51,,OE51,,,,50,2008-06-13T14:30:04+00:00
-5759,OE52,small_airport,"Al Artawiyah South Airport",26.611600875854492,45.321998596191406,1900,AS,"Saudi Arabia",SA,"Riyadh Region",SA-01,01,,0,OE52,,OE52,,,,50,2008-06-13T14:30:04+00:00
-5761,OE54,small_airport,"Hafar Al Atk Airport",25.99340057373047,46.53670120239258,1970,AS,"Saudi Arabia",SA,"Riyadh Region",SA-01,01,,0,OE54,,OE54,,,,50,2008-06-13T14:30:04+00:00
 310576,ZA-0111,small_airport,"Kudu Private Nature Reserve",-24.995,30.403333333299997,4580,AF,"South Africa",ZA,Mpumalanga,ZA-MP,MP,,0,,,,,,,50,2014-01-08T06:22:08+00:00
 311939,RO-0002,small_airport,Banesti,45.068671,25.80637,,EU,Romania,RO,"Prahova County",RO-PH,PH,,0,,,,,,,50,2016-04-29T07:14:28+00:00
 312402,EPKI,small_airport,Kikity,53.983056,20.877222,564,EU,Poland,PL,"Warmian-Masurian Voivodeship",PL-WN,WN,,0,EPKI,,,http://www.kikity.com.pl,,Agrotourism,50,2016-04-29T07:32:53+00:00
@@ -35143,8 +35143,3 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,country_nam
 320664,CRC3,small_airport,"Ross Creek Airport",50.965502,-119.2254,1257,NA,Canada,CA,"British Columbia",CA-BC,BC,"Magna Bay",0,CRC3,,CRC3,,https://en.wikipedia.org/wiki/Ross_Creek_Aerodrome,,50,2022-12-30T10:39:42+00:00
 15902,9OI7,closed,"Bayes Airport",40.340099,-83.284103,1000,NA,"United States",US,Ohio,US-OH,OH,"Magnetic Springs",0,,,,,,9OI7,50,2022-11-23T12:14:19+00:00
 9267,29OH,small_airport,"Fox Airport",40.6864013671875,-81.30259704589844,1020,NA,"United States",US,Ohio,US-OH,OH,Magnolia,0,29OH,,29OH,,,,50,2008-06-13T14:30:04+00:00
-9299,2AL1,small_airport,"Collier Airpark",30.424100875854492,-87.77780151367188,74,NA,"United States",US,Alabama,US-AL,AL,"Magnolia Springs",0,2AL1,,2AL1,,,,50,2008-06-13T14:30:04+00:00
-345849,US-4584,small_airport,"Schindler Airport",30.41051,-87.78172,63,NA,"United States",US,Alabama,US-AL,AL,"Magnolia Springs",0,,,,,,,50,2021-06-27T00:56:39+00:00
-344020,NFGO,small_airport,"Mago Island Airstrip",-17.438646,-179.163601,315,OC,Fiji,FJ,"Eastern Division",FJ-E,E,"Mago Island",0,NFGO,,,,,,50,2021-05-08T00:06:19+00:00
-310525,ID-0099,small_airport,"Magoda Airstrip",-3.9906,135.8532,5260,AS,Indonesia,ID,"Papua Tengah (Central Papua)",ID-PT,PT,Magoda,0,,,MGD,,,WZ98,50,2022-10-02T20:43:48+00:00
-318956,MZ-0026,small_airport,"Mague Airport",-15.810219,31.741015,,AF,Mozambique,MZ,"Tete Province",MZ-T,T,Mague,0,,,,,,,50,2022-01-20T02:04:06+00:00
